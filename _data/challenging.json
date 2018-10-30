@@ -1,0 +1,72 @@
+[
+  {
+    "west-coast": "Revelstoke Mountain Resort BC, CAN",
+    "high-west": "Jackson Hole WY",
+    "mid-west": "Mount Bohemia MI",
+    "north-east": "Magic Mountain VT",
+    "south-east": "Canaan Valley WV"
+  },
+  {
+    "west-coast": "Kicking Horse BC, CAN",
+    "high-west": "Snowbird UT",
+    "mid-west": "Cascade Mountain WI",
+    "north-east": "Mad River Glen VT",
+    "south-east": "The Omni Homestead Ski Resort VA"
+  },
+  {
+    "west-coast": "Squaw Valley CA",
+    "high-west": "Arapahoe Basin CO",
+    "mid-west": "Caberfae Peaks MI",
+    "north-east": "Jay Peak VT",
+    "south-east": "Wolf Ridge NC"
+  },
+  {
+    "west-coast": "Kirkwood CA",
+    "high-west": "Alta UT",
+    "mid-west": "Crystal Mountain MI",
+    "north-east": "Cannon Mountain NH",
+    "south-east": "Snowshoe Mountain WV"
+  },
+  {
+    "west-coast": "Alyeska AK",
+    "high-west": "Silverton Mountain CO",
+    "mid-west": "Apple Mountain MI",
+    "north-east": "Whiteface - Lake Placid NY",
+    "south-east": "Timberline Four Seasons Resort WV"
+  },
+  {
+    "west-coast": "Whistler Blackcomb BC, CAN",
+    "high-west": "Taos Ski Valley NM",
+    "mid-west": "Granite Peak WI",
+    "north-east": "Sugarloaf ME",
+    "south-east": "Sugar Mountain NC"
+  },
+  {
+    "west-coast": "Mammoth Mountain CA",
+    "high-west": "Big Sky MT",
+    "mid-west": "Shanty Creek Resorts MI",
+    "north-east": "Stowe VT",
+    "south-east": "Winterplace WV"
+  },
+  {
+    "west-coast": "Mt Baker WA",
+    "high-west": "Bald Mountain ID",
+    "mid-west": "Boyne Mountain MI",
+    "north-east": "Killington VT",
+    "south-east": "Wintergreen Resort VA"
+  },
+  {
+    "west-coast": "Red Mountain Resort BC, CAN",
+    "high-west": "Crested Butte CO",
+    "mid-west": "Lutsen Mountains MN",
+    "north-east": "Wildcat Mountain NH",
+    "south-east": "Wisp MD"
+  },
+  {
+    "west-coast": "Crystal Mountain WA",
+    "high-west": "Telluride CO",
+    "mid-west": "Alpine Valley Resort WI",
+    "north-east": "Sugarbush VT",
+    "south-east": ""
+  }
+]

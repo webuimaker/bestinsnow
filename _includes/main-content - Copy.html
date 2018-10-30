@@ -1,0 +1,141 @@
+<div id="main-content" className="col-sm-9 col-lg-10">
+            <Header />
+            <div className={`dropdowns ' ${(this.state.content !== 'winners' ? 'hidden' : 'visible-xs-block')}`}>
+              <span className="region-select-title">Region</span>
+              <select id="region-select" className="" value={this.state.region} onChange={this.updateRegion.bind(this, '')}>
+                {
+                  regions.map((_region) => {
+                    return (
+                      <option key={_region.slug} value={_region.slug}>{_region.name}</option>
+                    );
+                  })
+                }
+              </select>
+              <span className="category-select-title">Category</span>
+              <select id="category-select " {...selectCategoryProps} value={this.state.category} onChange={this.updateCategory.bind(this, '')}>
+                {
+                  categories.map((_category) => {
+                    return (
+                      <option key={_category.slug} value={_category.slug}>{_category.name}</option>
+                    );
+                  })
+                }
+              </select>
+            </div>
+            <div className={(this.state.content !== 'winners' ? 'hidden' : 'winners-head')}>
+              <h1>Top {categoryName} Ski Areas in {regionName}</h1>
+              <Map resortList={winners[this.state.region][category]} region={this.state.region} category={this.state.category} />
+            </div>
+            <div id="bg-right" />
+            <div className={(this.state.category === 'overall' && this.state.region === 'north-america' && this.state.content === 'winners') ? 'process' : 'process hidden'}>
+              <div className="surveys">
+                <img src="/images/infographic_svgs/Survey_icon_lightGrey.svg" className="more-info-img"/>
+                <span>10,000+ Surveys</span>
+              </div>
+              <div className="symbol">
+               &#43;
+              </div>
+              <div className="algorithm">
+                <img src="/images/infographic_svgs/Algorithm_icon_Light.svg" className="more-info-img"/>
+                <span>Proprietary Algorithm and Dataset</span>
+              </div>
+              <div className="symbol">
+               &#61;
+              </div>
+              <div className="award">
+                <img src="/images/infographic_svgs/BIS_Badge_Winner_17-18.svg" className="more-info-img"/>
+                <span>Best in Snow Award</span>
+              </div>
+            </div>
+
+            <div id="winners" className={(this.state.content !== 'winners' ? 'hidden' : '')}>
+              <Accordion className="resort-list" activeKey={this.state.panelKey} >
+                {
+                  winners[this.state.region][category].map((resort, index) => {
+                    return (
+                        <Panel
+                          ref="resortList"
+                          onSelect={() => { this.state.panelKey === (index + 1) ? this.setState({panelKey: 0}) : this.setState({panelKey: index + 1}) }}
+                          header={<div><span className="number">{'#' + (index + 1)}</span><h4>{resorts[resort].name}</h4><span style={{ backgroundImage: `url('${resorts[resort].logo}')` }} className="logo" ></span></div>} 
+                          eventKey={index + 1}
+                          className="resort-panel"
+                        >
+                          <div className="row resort-card">
+                            <div className="col-sm-12 col-lg-6 resort-desc">
+                              <p>&ldquo;{resorts[resort].quote}&rdquo;</p>
+                              <a href={resorts[resort].url} target="_blank" rel="noopener noreferrer">
+                                <button className="resort-cta">{this.getResortName(resorts[resort].name)} Lift Tickets</button>
+                              </a>
+                              <span className="photo-credit">{resorts[resort].image_credit}</span>
+                            </div>                            
+                            <div className="col-sm-12 col-lg-6 resort-pic" style={{ backgroundImage: `url(${this.getResortImage(resorts[resort].image)})` }}>
+                            </div>
+                          </div>
+                      </Panel>
+                    );
+                  })
+                }
+              </Accordion>
+
+              <div className={(this.state.category === 'overall' && this.state.region === 'north-america' && this.state.content === 'winners') ? 'region-winners' : 'region-winners hidden'}>
+                <div className="by-region">
+                  <h2>Winners by Region</h2>
+                  <ul>
+                    {regions.map(function(region, i){
+                      return (
+                        <Link to={`/winners/${region.slug}/overall`}>
+                          <li>{region.name} &nbsp;&nbsp; &#x27f6;</li>
+                        </Link>
+                      )
+                    })}
+                  </ul>
+                </div>
+
+                <div className="overall">
+                  <h2>Overall Winners</h2>
+                  <ul>
+                    {listCategories.map(function(category, i){
+                      return (
+                        <Link to={`/winners/north-america/${category.slug}`}>
+                          <li>{category.name} &nbsp;&nbsp; &#x27f6;</li>
+                        </Link>
+                      )
+                    })}
+                  </ul>
+                </div>
+              </div>
+
+              <div id="slogan" className={`${(this.state.content !== 'winners' ? 'hidden' : '')}`}>
+                <p>Discover the resorts that skiers and riders are most
+                passionate about in North America.</p>
+              </div>
+            </div>
+
+            <div className={`static-page ${(this.state.content === 'winners' ? 'hidden' : '')}`}>
+              <div id="mobile-menu" className="visible-xs-block">
+                <Link to="/">
+                  <span className="winners">See the Winners</span>
+                </Link>
+              </div>
+              <FAQ content={this.state.content} />
+              <Methodology content={this.state.content} />
+              <About content={this.state.content} />
+              <PreviousResults content={this.state.content} />
+            </div>
+            <div className={`${(this.state.content === 'winners' ? 'mobile-bottom-menu col-sm-12 hidden-md hidden-lg no-border' : 'mobile-bottom-menu col-sm-12 hidden-md hidden-lg')}`}>
+                <ul>
+                  <li className={this.state.content === "2016-results" ? 'active previous-results' : 'previous-results-link'}>
+                    <Link to="/2016-results">2016 Winners</Link>
+                  </li>
+                  <li className={this.state.content === "faq" ? 'active faq' : 'faq-link'}>
+                    <Link to="/faq">FAQ</Link>
+                  </li>
+                  <li className={this.state.content === "methodology" ? 'active methodology-link' : 'methodology-link'}>
+                    <Link to="/methodology">Methodology</Link>
+                  </li>
+                  <li className={this.state.content === "about-liftopia" ? 'active about-liftopia-link' : 'about-liftopia-link'}>
+                    <Link to="/about-liftopia">About Liftopia</Link>
+                  </li>
+                </ul>
+            </div>
+          </div>

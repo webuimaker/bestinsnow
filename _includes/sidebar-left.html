@@ -1,0 +1,59 @@
+<div id="sidebar-left" class="col-sm-3 col-lg-2 hidden-xs">
+
+    <h3 class="hidden-xs">Winners by Region:</h3>
+	<ul id="regionMenu" class="list-group hidden-xs">
+		<li>
+			<div role="tablist"  id="accordion" class="panel-group">
+				{% for region in site.data.regions %}
+					{% if region.resion == page.resions %}
+						{% assign resions_active = "active" %}
+					{% else %}
+						{% assign resions_active = "" %}
+					{% endif %}
+					
+					<div class="{{region.slug}} panel panel-default">
+						<div class="panel-heading">
+							<div class="panel-title {{ resions_active }}">
+								<a data-toggle="collapse" data-parent="#accordion" href="#{{region.name | remove: ' ' }}" aria-expanded="{% if cur_resions ==  region.resion %}true {% endif %}" >{{region.name}}</a>
+							</div>
+						</div>
+						<div id="{{region.name | remove: " "}}"  class="panel-collapse collapse {% if region.resion  ==  page.resions  %} in {% endif %} " >
+							<div class="panel-body">
+								{% for category in site.data.categories %}
+									{% if category.section_id == page.section_id %}
+										{% assign cat_active = "active" %}
+									{% else %}
+										{% assign cat_active = "" %}
+									{% endif %}
+									<div class="cat {{cat_active}}">
+										<a href="/winners/{{region.slug}}/{{category.slug}}" class=""><span>{{category.name}}</span></a>
+									</div>
+								{% endfor %}
+							</div>
+						</div>
+					</div>
+				{% endfor %}
+			</div>
+		</li>
+		<li class="list-divider" > </li>
+			{% for item in site.data.nav %}
+				{% if item.section_id == page.section_id %}
+					{% assign active_class = "active" %}
+				  {% else %}
+					{% assign active_class = "" %}
+				{% endif %}
+				 <li class="list-group-item {{active_class}}">
+					<a href="{{ item.slug }}">
+					  {{ item.name}}
+					</a>
+				  </li>
+				  {% if forloop.index == 1 %}
+					<li class="list-divider" > </li>
+				{% endif %}
+				  
+			{% endfor %}
+		
+	</ul>
+	
+	
+          </div>

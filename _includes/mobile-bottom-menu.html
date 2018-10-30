@@ -1,0 +1,16 @@
+<div class="mobile-bottom-menu col-sm-12 hidden-md hidden-lg  {% if page.contentType == 'winners' %} no-border {% endif  %} ">
+                <ul>
+					{% for item in site.data.nav %}
+						{% if item.section_id == page.section_id %}
+							{% assign active_class = "active" %}
+						  {% else %}
+							{% assign active_class = "" %}
+						{% endif %}
+						 <li class="{{active_class}}">
+							<a href="{{ item.slug }}">
+							  {{ item.name}}
+							</a>
+						  </li>
+					{% endfor %}
+                </ul>
+            </div>

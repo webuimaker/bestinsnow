@@ -1,0 +1,27 @@
+<div class=" {% if cur_resions == 'north-america' and cur_SecId == 'overall' %} region-winners {% else %} region-winners hidden {% endif %}">
+	<div class="by-region">
+		<h2>Winners by Region</h2>
+		<ul>
+		  {% for region in site.data.regions %}
+			<a href="{{site.baseurl}}winners/{{region.slug}}/overall" >
+				<li>{{region.name}} &nbsp;&nbsp; &#x27f6;</li>
+			</a>
+		  {% endfor %}
+		</ul>
+    </div>
+	<div class="overall">
+	  <h2>Overall Winners</h2>
+	  <ul>
+		{% for cat in site.data.categories %}
+			{% unless cat.slug == 'overall'%}
+				<a href="{{site.baseurl}}winners/north-america/{{cat.slug}}" >
+					<li>{{cat.name}} &nbsp;&nbsp; &#x27f6;</li>
+				</a>
+			{% endunless %}
+		  {% endfor %}
+	  
+	  </ul>
+	</div>
+
+               
+</div>

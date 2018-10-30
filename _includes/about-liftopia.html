@@ -1,0 +1,25 @@
+<div id="about-liftopia" class="about-liftopia" class={(content !== 'about-liftopia' ? 'hidden' : '')}>
+      <h2>{{page.title }}</h2>
+      <p>{{page.desc}}</p>
+      <div class="button-wrapper">
+        <a href="https://www.liftopia.com/"><button class="cta-button-orange">Visit Liftopia</button></a>
+      </div>
+      <span><strong>Follow Liftopia for the in-the-know-on-snow:</strong></span>
+      <div class="social-links">
+        <div class="row">
+		{% for socialLink in  site.social %}
+			<div class="col-sm-4 icon-container">
+				<a href="{{socialLink.url}}" target="_blank" rel="noopener noreferrer"><i class="{{socialLink.icon}}" aria-hidden="true"> </i><span>{{socialLink.title}}</span></a>
+			</div>
+		{% endfor %}
+        </div>
+      </div>
+	  <div class="photo-grid">
+		{% for photo in  site.data.photo-grid %}
+			<div>
+			  <img src="{{photo}}" alt="photo-grid" />
+			</div>
+		{% endfor %}
+      </div>
+
+    </div>

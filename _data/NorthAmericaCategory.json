@@ -1,0 +1,23 @@
+[
+	{
+		"challenging": "/images/maps/northamerica_top_challenging.png"
+	},
+	{
+		"beginner": "/images/maps/northamerica_top_beginner.png"
+	},
+	{
+		"family": "/images/maps/northamerica_top_family.png"
+	},
+	{
+		"crowds": "/images/maps/northamerica_top_crowd.png"
+	},
+	{
+		"value": "/images/maps/northamerica_top_value.png"
+	},
+	{
+		"snow": "/images/maps/northamerica_top_snow.png"
+	},
+	{
+		"overall": "/images/maps/northamerica_top10.png"
+	}
+]

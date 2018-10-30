@@ -1,0 +1,28 @@
+- slug: overall
+  name: Overall
+  section_id: overall
+  id: 1
+- slug: beginner
+  name: Beginner Friendly
+  section_id: beginner
+  id: 2
+- slug: family
+  name: Family Friendly
+  section_id: family
+  id: 3
+- slug: challenging
+  name: Most Challenging
+  section_id: challenging
+  id: 4
+- slug: crowds
+  name: Least Crowded
+  section_id: crowds
+  id: 5
+- slug: value
+  name: Best Value
+  section_id: value
+  id: 6
+- slug: snow
+  name: Snow Consistency and Quality
+  section_id: snow
+  id: 7

@@ -1,0 +1,44 @@
+<div role="tablist" id="winnerslist" class="resort-list panel-group" style="color:#000">
+		{% assign meetup = site.data.[cur_resions] %}
+		{% assign meetupSec = site.data.[cur_SecId]  %}
+		
+		{% assign i = 0 %}
+		<!-- current winner according to resion -->
+		{% for winner in  meetupSec  %}
+			{%- assign curData = winner.[cur_resions] | remove: " " | lstrip  | downcase  -%}
+			
+			{% for winner in  site.data.all-winners-by-alpha %}
+				{%- assign curName = winner.name | remove: " " | remove: "," | lstrip | downcase    -%}
+				 
+				{% if curName  == curData    %}
+					{% assign i = i | plus:1 %}
+					<div class="resort-panel panel panel-default">
+						<div class="panel-heading">
+							<div class="panel-title">
+								<a role="tab" data-parent="#winnerslist" href="#{{curName | slugify}}{{i}}"   data-toggle="collapse" >
+									<span class="number">#{{i}}</span>
+									<h4>{{winner.name }}</h4>
+									<span style="background-image: url('{{winner.logo}}');" class="logo"></span>
+								</a>
+							</div>
+						</div>
+						<div role="tabpanel" id="{{curName | slugify}}{{i}}" class="panel-collapse collapse tab-pane {% if i  == 1%}in{% endif %}"  style="">
+							<div class="panel-body">
+								<div class="row resort-card">
+									<div class="col-sm-12 col-lg-6 resort-desc">
+										<p>{{winner.quote}}</p>
+										<a href="{{winner.url}}" target="_blank" rel="noopener noreferrer">
+											<button class="resort-cta">{{winner.name}} Lift Tickets</button>
+										</a>
+										<span class="photo-credit">{{winner.image_credit}}</span>
+									</div>
+									<div class="col-sm-12 col-lg-6 resort-pic"style="background-image: url('{{site.baseurl}}images/resorts/{{winner.image}}');" ></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				{% endif %}
+			{% endfor %}
+		{% endfor %}
+		
+	</div>

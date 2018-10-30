@@ -1,0 +1,20 @@
+[
+	{
+		"north-america": "/images/maps/northamerica_top10.png"
+	},
+	{
+		"north-east": "/images/maps/northeast.png"
+	},
+	{
+		"high-west": "/images/maps/highwest.png"
+	},
+	{
+		"south-east": "/images/maps/southeast.png"
+	},
+	{
+		"mid-west": "/images/maps/midwest.png"
+	},
+	{
+		"west-coast": "/images/maps/westcoast.png"
+	}
+]

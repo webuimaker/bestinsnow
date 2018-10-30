@@ -1,0 +1,72 @@
+[
+  {
+    "west-coast": "Anthony Lakes OR",
+    "high-west": "Bald Mountain ID",
+    "mid-west": "Mount Bohemia MI",
+    "north-east": "Magic Mountain VT",
+    "south-east": "Canaan Valley WV"
+  },
+  {
+    "west-coast": "Yosemite Ski & Snowboard Area CA (Formerly Badger Pass)",
+    "high-west": "Powder Mountain UT",
+    "mid-west": "Caberfae Peaks MI",
+    "north-east": "Mad River Glen VT",
+    "south-east": "Timberline Four Seasons Resort WV"
+  },
+  {
+    "west-coast": "Revelstoke Mountain Resort BC, CAN",
+    "high-west": "Alta UT",
+    "mid-west": "Cascade Mountain WI",
+    "north-east": "Jay Peak VT",
+    "south-east": "Snowshoe Mountain WV"
+  },
+  {
+    "west-coast": "Kirkwood CA",
+    "high-west": "Arapahoe Basin CO",
+    "mid-west": "Apple Mountain MI",
+    "north-east": "Titus Mountain NY",
+    "south-east": "Beech Mountain Resort NC"
+  },
+  {
+    "west-coast": "49 Degrees North WA",
+    "high-west": "Snowbird UT",
+    "mid-west": "Crystal Mountain MI",
+    "north-east": "Burke Mountain VT",
+    "south-east": "Winterplace WV"
+  },
+  {
+    "west-coast": "Alyeska AK",
+    "high-west": "Solitude Mountain Resort UT",
+    "mid-west": "Bottineau Winter Park ND",
+    "north-east": "Bolton Valley VT",
+    "south-east": "Wintergreen Resort VA"
+  },
+  {
+    "west-coast": "Kicking Horse BC, CAN",
+    "high-west": "Jackson Hole WY",
+    "mid-west": "Stony Mountain MB, CAN",
+    "north-east": "Abenaki Ski Area NH",
+    "south-east": "Cataloochee NC"
+  },
+  {
+    "west-coast": "Homewood CA",
+    "high-west": "Grand Targhee WY",
+    "mid-west": "Tyrol Basin WI",
+    "north-east": "Bretton Woods NH",
+    "south-east": "Sugar Mountain NC"
+  },
+  {
+    "west-coast": "Diamond Peak NV",
+    "high-west": "Snowy Range WY",
+    "mid-west": "Shanty Creek Resorts MI",
+    "north-east": "Sugarloaf ME",
+    "south-east": "Wolf Ridge NC"
+  },
+  {
+    "west-coast": "Crystal Mountain WA",
+    "high-west": "Big Sky MT",
+    "mid-west": "Alpine Valley OH",
+    "north-east": "Black Mountain Ski Area NH",
+    "south-east": "Wisp MD"
+  }
+]

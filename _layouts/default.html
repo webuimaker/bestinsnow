@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+  {% include head.html %}
+	<div class="overxhide">
+	<div class="row no-pad row-eq-height">
+		{% include sidebar-left.html %}
+		{% include main-content.html %}
+		{{ content }}
+	</div>
+	</div>
+  
+  {% include footer.html %}

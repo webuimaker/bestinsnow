@@ -1,0 +1,25 @@
+<div id="main-content" class="col-sm-9 col-lg-10">
+	{% assign cur_SecId = page.section_id %}
+	{% assign cur_resions = page.resions %}
+	{% assign cur_resionsNS = page.resions | remove: '-' %}
+	
+	{% include header.html %}
+    {% include dropdown-mob.html %}
+	<div class='winners-head'>
+		<h1>Top <span style="text-transform: capitalize;">
+			{% for catName in site.data.categories %}
+				
+				{% if catName.slug ==  cur_SecId | downcase %}
+					{{ catName.name }}
+				{% endif %}
+			{% endfor %}</span> Ski Areas in <span style="text-transform: capitalize;">{{ cur_resions  | replace: '-', ' ' | capitalize }}</span></h1>
+		 {% include map.html %} 
+		
+    </div>
+	<div id="bg-right" ></div>
+    {% include survey.html %}      
+	{% include winners.html %}
+	{% include static-page.html %}
+	{% include mobile-bottom-menu.html %}
+	
+</div>

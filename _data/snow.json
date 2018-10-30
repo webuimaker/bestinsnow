@@ -1,0 +1,72 @@
+[
+  {
+    "west-coast": "Anthony Lakes OR",
+    "high-west": "Alta UT",
+    "mid-west": "Cascade Mountain WI",
+    "north-east": "Bretton Woods NH",
+    "south-east": "Canaan Valley WV"
+  },
+  {
+    "west-coast": "Revelstoke Mountain Resort BC, CAN",
+    "high-west": "Arapahoe Basin CO",
+    "mid-west": "Mount Bohemia MI",
+    "north-east": "Jay Peak VT",
+    "south-east": "Beech Mountain Resort NC"
+  },
+  {
+    "west-coast": "Kirkwood CA",
+    "high-west": "Powder Mountain UT",
+    "mid-west": "Crystal Mountain MI",
+    "north-east": "Titus Mountain NY",
+    "south-east": "Snowshoe Mountain WV"
+  },
+  {
+    "west-coast": "Sugar Bowl CA",
+    "high-west": "Snowbird UT",
+    "mid-west": "Caberfae Peaks MI",
+    "north-east": "Sunday River ME",
+    "south-east": "Winterplace WV"
+  },
+  {
+    "west-coast": "Mammoth Mountain CA",
+    "high-west": "Grand Targhee WY",
+    "mid-west": "Nub's Nob MI",
+    "north-east": "Stowe VT",
+    "south-east": "Sugar Mountain NC"
+  },
+  {
+    "west-coast": "Homewood CA",
+    "high-west": "Bald Mountain ID",
+    "mid-west": "Shanty Creek Resorts MI",
+    "north-east": "Bolton Valley VT",
+    "south-east": "Wolf Ridge NC"
+  },
+  {
+    "west-coast": "Mt. Rose Ski Tahoe NV",
+    "high-west": "Wolf Creek CO",
+    "mid-west": "Little Switzerland WI",
+    "north-east": "Killington VT",
+    "south-east": "Timberline Four Seasons Resort WV"
+  },
+  {
+    "west-coast": "Alyeska AK",
+    "high-west": "Solitude Mountain Resort UT",
+    "mid-west": "Apple Mountain MI",
+    "north-east": "Okemo Mountain VT",
+    "south-east": "Wisp MD"
+  },
+  {
+    "west-coast": "49 Degrees North WA",
+    "high-west": "Lost Trail MT",
+    "mid-west": "Afton Alps MN",
+    "north-east": "Loon Mountain NH",
+    "south-east": ""
+  },
+  {
+    "west-coast": "Mt Baker WA",
+    "high-west": "Deer Valley UT",
+    "mid-west": "Christmas Mountain WI",
+    "north-east": "Mount Sunapee NH",
+    "south-east": ""
+  }
+]

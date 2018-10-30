@@ -1,0 +1,24 @@
+<div class="static-page {% if page.contentType == 'winners' %} hidden {% endif %}">
+	<div id="mobile-menu" class="visible-xs-block">
+		<a href="{{site.baseurl}}">
+		  <span class="winners">See the Winners</span>
+		</a>
+	</div>
+	 <div id="questions-and-answers " class="hidden" >
+		  <h2>Frequently Asked Questions</h2>
+		  <p>Discover the resorts that skiers and riders are most passionate about in North America.</p>
+		  <hr/>
+		{% for item in site.data.faq %}
+			<p>
+				<strong>{{item.q}}</strong>
+				{{item.a}}
+			</p>
+		{% endfor %}
+	</div>
+              
+</div>
+			
+			
+			
+			
+			

@@ -1,0 +1,158 @@
+#about-liftopia {
+    h2 {
+        color: $blue-10;
+        font-size: 22px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    p {
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+    > span {
+        display: block;
+        margin: 30px 0 15px;
+        text-align: center;
+        width: 100%;
+    }
+    a {
+        text-decoration: none;
+    }
+    .cta-button-orange {
+        background-color: $cta-orange;
+        border: none;
+        border-radius: 2px;
+        color: white;
+        display: block;
+        font-size: 16px;
+        font-weight: 300;
+        height: 38px;
+        line-height: 38px;
+        margin: 0 auto 20px auto;
+        text-decoration: none;
+        text-transform: uppercase;
+        width: 230px;
+        @media screen and (max-width: 767px) {
+            font-size: 14px;
+        }
+    }
+    .icon-container {
+        display: flex;
+        justify-content: center;
+        span {
+            width: 50px;
+        }
+    }
+    .photo-grid {
+        img {
+            margin: 5px 0;
+            width: 100%;
+            height: auto;
+        }
+    }
+    .social-links {
+        margin: 0 auto 20px;
+        width: 38%;
+
+        .row > div {
+          padding: 0px;
+
+            a {
+                color: $charcoal-10;
+                display: block;
+                padding: 10px 0 10px 0;
+                font-size: 18px;
+                font-weight: 300;
+                text-decoration: none;
+                cursor: pointer;
+                margin-bottom: 20px;
+                white-space: nowrap;
+
+                &:hover, &:focus {
+                  opacity: 0.8;
+                }
+
+                i {
+                    color: white;
+                    display: inline-block;
+                    position: relative;
+                    font-size: 28px;
+                    width: 25px;
+                    height: 25px;
+                    &:before {
+                        position: absolute;
+                        z-index: 1;
+                        top: 45%;
+                        left: 50%;
+                    }
+                    &:after {
+                        content: '';
+                        width: 50px;
+                        height: 50px;
+                        background-color: $charcoal-10;
+                        border-radius: 50%;
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        display: inline-block;
+                    }
+                    &.fa-facebook {
+                        &:before {
+                            left: 65%;
+                        }
+                    }
+                    &.fa-google-plus {
+                        &:before {
+                            left: 38%;
+                        }
+                    }
+                }
+                span {
+                    display: inline-block;
+                    height: 14px;
+                    margin-left: 40px;
+                    vertical-align: middle;
+                }
+            }
+        }
+    }
+
+    @media screen and (min-width: 768px) {
+        padding: 40px 90px 0;
+        h2 {
+            font-size: 40px;
+        }
+        .button-wrapper {
+            text-align: center;
+            width: 100%;
+        }
+        .cta-button-orange {
+            display: inline-block;
+            margin: 10px 20px 20px;
+        }
+        .social-links {
+            margin: 0 auto 45px;
+            width: 80%;
+        }
+        .photo-grid {
+            display: flex;
+            flex-wrap: wrap;
+            margin: 0 -90px;
+            width: calc(100% + 180px);
+            div {
+                flex: 1 0 33%;
+                padding: 2px;
+                margin: 0;
+                img {
+                    margin: 0;
+                }
+            }
+        }
+    }
+
+    @media screen and (min-width: 768px) and (max-width: 1020px) {
+        .social-links {
+            width: 100%;
+        }
+    }
+}

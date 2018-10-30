@@ -1,0 +1,85 @@
+.mobile-bottom-menu {
+    ul {
+        border-top: 1px solid $charcoal-10;
+        list-style-type: none;
+        padding: 30px 0;
+        margin: 30px 0 30px 0;
+        margin-right: -20px;
+        margin-left: -15px;
+        padding: 15px;
+        li {
+            font-size: 16px;
+            margin-right: -20px;
+            padding: 10px 0;
+            position: relative;
+            &.twenty-sixteen {
+                border-bottom: 2px solid $blue-10;
+            }
+            &.active {
+                a {
+                    color: white;
+                    &:hover {
+                        color: white;
+                    }
+                }
+                &:after {
+                    background: $blue-8;
+                    content: '';
+                    position: absolute;
+                    height: 37px;
+                    margin-left: -27px;
+                    top: 1px;
+                    width: 150%;
+                    z-index: -1;
+                }
+                &.previous-results {
+                    &:after {
+                        height: 42px;
+                    }
+                }
+            }
+            a {
+                color: $blue-10;
+                display: block;
+                font-weight: 500;
+                text-decoration: none;  
+                width: 100%;
+                &:after {
+                    content: "\f105";
+                    font-family: FontAwesome;
+                    position: absolute;
+                    top: 8px;
+                    right: 30%;
+                }
+                &:hover {
+                    color: $charcoal-10;
+                }
+            }
+        }
+        @media screen and(max-width: 767px) {
+            li:first-of-type {
+                border-bottom: 2px solid $blue-10;
+                text-transform: uppercase;
+                margin-left: -15px;
+                padding-left: 15px;
+                a {
+                    &:after {
+                        right: 29%;
+                    }
+                }
+            }
+        }
+    }
+    &.no-border {
+        ul {
+            border-top: none;
+            padding: 0;
+            @media screen and (max-width: 767px) {
+                margin-top: 10px;
+            }
+        }
+    }
+    @media screen and(min-width: 768px) {
+        display: none;
+    }
+}

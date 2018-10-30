@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+  {% include head.html %}
+	<div class="overxhide">
+	<div class="row no-pad row-eq-height">
+		{% include sidebar-left.html %}
+		<div id="main-content" class="col-sm-9 col-lg-10">
+			{% include header.html %}
+			<div class="static-page">
+				<div id="mobile-menu" class="visible-xs-block"><a href="/"><span class="winners">See the Winners</span></a></div>
+				{% if page.section_id == "results-2016" %}
+				<div id="previous-results" class="">
+					<div>
+						<section class="preamble">
+							<h2>{{ page.title }}</h2>
+							<p>{{ page.desc }}</p>
+						</section>
+						<div class="results">
+							<h3>Top 10 Overall</h3>
+							<div class="data north-america">
+								<ul>
+									<h5 class="mobile-header">Overall Top 10 - North America</h5>
+									<h5 class="desktop-header">North America</h5>
+									{% for item in site.data.result2016.northamerica.overall %}
+										<li>{{ item | replace: '-', ' '  }} </li>
+									{% endfor %}
+								</ul>
+							</div>
+							<h3>Beginner Friendly Top 10</h3>
+							<div class="data">
+								<ul>
+									<h5 class="mobile-header">Beginner Friendly Top 10 - Northeast</h5>
+									<h5 class="desktop-header">Northeast</h5>
+									{% for item in site.data.result2016.northeast.beginner %}
+										<li>{{ item | replace: '-', ' '  }} </li>
+									{% endfor %}
+									
+									
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Beginner Friendly Top 10 - High West</h5>
+									<h5 class="desktop-header">High West</h5>
+									{% for item in site.data.result2016.highwest.beginner %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+								
+								<ul>
+									<h5 class="mobile-header">Beginner Friendly Top 10 - Southeast</h5>
+									<h5 class="desktop-header">Southeast</h5>
+									{% for item in site.data.result2016.southeast.beginner %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Beginner Friendly Top 10 - Midwest</h5>
+									<h5 class="desktop-header">Midwest</h5>
+									{% for item in site.data.result2016.midwest.beginner %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Beginner Friendly Top 10 - West Coast</h5>
+									<h5 class="desktop-header">West Coast</h5>
+									{% for item in site.data.result2016.westcoast.beginner %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+								
+							</div>
+							<h3>Family Friendly Top 10</h3>
+							<div class="data">
+								<ul>
+									<h5 class="mobile-header">Family Friendly Top 10 - Northeast</h5>
+									<h5 class="desktop-header">Northeast</h5>
+									{% for item in site.data.result2016.northeast.family %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Family Friendly Top 10 - High West</h5>
+									<h5 class="desktop-header">High West</h5>
+									{% for item in site.data.result2016.highwest.family %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+									
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Family Friendly Top 10 - Southeast</h5>
+									<h5 class="desktop-header">Southeast</h5>
+									{% for item in site.data.result2016.southeast.family %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+									
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Family Friendly Top 10 - Midwest</h5>
+									<h5 class="desktop-header">Midwest</h5>
+									{% for item in site.data.result2016.midwest.family %}
+										<li>{{ item  | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Family Friendly Top 10 - West Coast</h5>
+									<h5 class="desktop-header">West Coast</h5>
+									{% for item in site.data.result2016.westcoast.family %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+							</div>
+							
+							<h3>Most Challenging Top 10</h3>
+							<div class="data">
+								<ul>
+									<h5 class="mobile-header">Most Challenging Top 10 - Northeast</h5>
+									<h5 class="desktop-header">Northeast</h5>
+									{% for item in site.data.result2016.northeast.challenging %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Most Challenging Top 10 - High West</h5>
+									<h5 class="desktop-header">High West</h5>
+									{% for item in site.data.result2016.highwest.challenging %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+									
+								</ul>
+								<ul>
+									
+									
+									<h5 class="mobile-header">Most Challenging Top 10 - Southeast</h5>
+									<h5 class="desktop-header">Southeast</h5>
+									{% for item in site.data.result2016.southeast.challenging %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Most Challenging Top 10 - Midwest</h5>
+									<h5 class="desktop-header">Midwest</h5>
+									{% for item in site.data.result2016.midwest.challenging %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+									
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Most Challenging Top 10 - West Coast</h5>
+									<h5 class="desktop-header">West Coast</h5>
+									{% for item in site.data.result2016.westcoast.challenging %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+									
+								</ul>
+
+							</div>
+						
+							<h3>Least Crowded Top 10</h3>
+							<div class="data">
+								<ul>
+									<h5 class="mobile-header">Least Crowded Top 10 - Northeast</h5>
+									<h5 class="desktop-header">Northeast</h5>
+									{% for item in site.data.result2016.northeast.crowds %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+									
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Least Crowded Top 10 - High West</h5>
+									<h5 class="desktop-header">High West</h5>
+									{% for item in site.data.result2016.highwest.crowds %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Least Crowded Top 10 - Southeast</h5>
+									<h5 class="desktop-header">Southeast</h5>
+									{% for item in site.data.result2016.southeast.crowds %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Least Crowded Top 10 - Midwest</h5>
+									<h5 class="desktop-header">Midwest</h5>
+									{% for item in site.data.result2016.midwest.crowds %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Least Crowded Top 10 - West Coast</h5>
+									<h5 class="desktop-header">West Coast</h5>
+									{% for item in site.data.result2016.westcoast.crowds %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+							</div>
+					
+							<h3>Best Value Top 10</h3>
+							<div class="data">
+								<ul>
+									<h5 class="mobile-header">Best Value Top 10 - Northeast</h5>
+									<h5 class="desktop-header">Northeast</h5>
+									{% for item in site.data.result2016.northeast.value %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Best Value Top 10 - High West</h5>
+									<h5 class="desktop-header">High West</h5>
+									{% for item in site.data.result2016.highwest.value %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Best Value Top 10 - Southeast</h5>
+									<h5 class="desktop-header">Southeast</h5>
+									{% for item in site.data.result2016.southeast.value %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Best Value Top 10 - Midwest</h5>
+									<h5 class="desktop-header">Midwest</h5>
+									{% for item in site.data.result2016.midwest.value %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Best Value Top 10 - West Coast</h5>
+									<h5 class="desktop-header">West Coast</h5>
+									{% for item in site.data.result2016.westcoast.value %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+							</div>
+							<h3>Snow Consistency and Quality Top 10</h3>
+							<div class="data">
+								<ul>
+									<h5 class="mobile-header">Snow Consistency and Quality Top 10 - Northeast</h5>
+									<h5 class="desktop-header">Northeast</h5>
+									{% for item in site.data.result2016.northeast.snow %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Snow Consistency and Quality Top 10 - High West</h5>
+									<h5 class="desktop-header">High West</h5>
+									{% for item in site.data.result2016.highwest.snow %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Snow Consistency and Quality Top 10 - Southeast</h5>
+									<h5 class="desktop-header">Southeast</h5>
+									{% for item in site.data.result2016.southeast.snow %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Snow Consistency and Quality Top 10 - Midwest</h5>
+									<h5 class="desktop-header">Midwest</h5>
+									{% for item in site.data.result2016.midwest.snow %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+								<ul>
+									<h5 class="mobile-header">Snow Consistency and Quality Top 10 - West Coast</h5>
+									<h5 class="desktop-header">West Coast</h5>
+									{% for item in site.data.result2016.westcoast.snow %}
+										<li>{{ item | replace: '-', ' ' }} </li>
+									{% endfor %}
+								</ul>
+							</div>
+						
+						</div>
+						
+						{{ content }}
+					
+					</div>
+				</div>
+				
+				{% elsif page.section_id == "faq" %}
+					 <div id="questions-and-answers" >
+					  <h2>{{page.title}}</h2>
+					  <p>{{page.desc}}</p>
+					  <hr/>
+					{% for item in site.data.faq %}
+						<p>
+							<strong>{{item.q}}</strong>
+							{{item.a}}
+						</p>
+						
+					{% endfor %}
+					  
+					</div>
+				
+				{% elsif page.section_id == "methodology" %}
+					{% include methodology.html %}
+				{% elsif page.section_id == "about-liftopia" %}
+					{% include about-liftopia.html %}
+				{% endif %}
+		 
+		</div>
+		
+	</div>
+	</div>
+	</div>
+  
+  {% include footer.html %}

@@ -1,0 +1,78 @@
+header.container-fluid, #root > .container-fluid {
+  max-width: 1400px;
+}
+.overxhide{overflow-x:hidden}
+#header-wrapper {
+  background-color: $charcoal-10;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  z-index: 2;
+  header {
+    height: 140px;
+    text-align: center;
+    @media screen and (min-width: 768px) and (max-width: 992px) {
+      text-align: left;
+    }
+    a:hover, a:focus {
+      img {
+        opacity: 0.7;
+      }
+    }
+    img {
+      vertical-align: initial;
+    }
+    #bis-logo {
+      max-width: 100%;
+    }
+    #bis-logo-stacked {
+      width: 200px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    #bis-powered-by {
+      margin-top: 7px;
+    }
+    #bis-powered-by, #bis-powered-by-stacked {
+      max-width: 255px;
+      width: 100%;
+    }
+    .center-block {
+      width: 100%;
+    }
+  }
+  .lockup-horizontal {
+    @media screen and (min-width: 768px) and (max-width: 1200px) {
+      background-image: url('/images/BIS_Header_Tablet_v2.png');
+    }
+    @media screen and (min-width: 768px) and (max-width: 980px) {
+      background-size: contain;
+    }
+    background-color: #34454E;
+    background-image: url('/images/BIS_Header.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 140px;
+    a {
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+  }
+  @media(max-width: 767px) {
+    height: 200px;
+  }
+  @media(min-width: 768px) {
+    hr {
+      display: none;
+    }
+    header {
+      padding: 0;
+      #bis-powered-by {
+        max-width: 325px;
+      }
+    }
+  }
+}

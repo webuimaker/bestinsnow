@@ -1,0 +1,43 @@
+<div id="map" class="{% if page.resions =='north-america' %}map-list {% else %}map-desc {% endif %}">
+			<div class="intro {% if page.resions !='north-america' %} hidden{% endif %}">
+			  <p>
+				 {% for catText in site.data.categoryText %}
+					{{catText.[cur_SecId] }}
+				  {% endfor %}
+			  </p>
+			</div>
+			<div class="map-img {{page.resions}}" role="presentation" style="background-image: url(
+			{% if cur_resions != 'north-america' %}{% for mapBg in site.data.regionMap %}{{mapBg.[cur_resions]}}{% endfor %} {% else %} {% for mapBgNA in site.data.NorthAmericaCategory %}{{mapBgNA.[cur_SecId]}}{% endfor %} {% endif %})"></div>
+			<div class="desc">
+			  <p>
+				{% if cur_resions !='north-america'  %}
+					{% if cur_SecId == 'overall' %}
+						{% for catText in site.data.regionText %}
+							{{catText.[cur_resions] }}
+						{% endfor %}
+					{% else %}
+						{% for catText in site.data.categoryText %}
+							{{catText.[cur_SecId] }}
+						{% endfor %}
+					{% endif %}
+				{% endif %}
+			  </p>
+			  <!--  <p>
+          {this.props.category === 'overall' ? this.getRegionText(this.props.region) : this.getCategoryText(this.props.category)}
+          </p> -->
+			  <a href="/methodology/">
+				<button class="cta-button-orange">See The Methodology</button>
+			  </a>
+			</div>
+			
+			<div class="list">
+			  <ul>
+				  {% for resortList in site.data.north-america %}
+					<li><span>#{{forloop.index}}</span> {{resortList.[cur_SecId] }}</li>
+				  {% endfor %}
+			  </ul>
+			  <a href="/methodology/">
+				<button class="cta-button-orange">See The Methodology</button>
+			  </a>
+			</div>
+      </div>

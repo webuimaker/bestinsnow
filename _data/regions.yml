@@ -1,0 +1,24 @@
+- slug: north-america
+  name: North America
+  id: 1
+  resion: north-america
+- slug: northeast
+  name: Northeast
+  resion: north-east
+  id: 2
+- slug: high-west
+  name: High West
+  resion: high-west
+  id: 3
+- slug: southeast
+  name: Southeast
+  resion: south-east
+  id: 4
+- slug: midwest
+  name: Midwest
+  resion: mid-west
+  id: 5
+- slug: west-coast
+  name: West Coast
+  resion: west-coast
+  id: 6

@@ -1,0 +1,403 @@
+#methodology {
+    .line {
+        background-repeat: no-repeat; 
+        background-position: center;
+    }
+    .find-out-more {
+        color: $charcoal-10;
+        display: block;
+        font-size: 18px;
+        text-align: center;
+        text-decoration: none;
+        width: 100%;
+        &:hover {
+            font-weight: 500;
+        }
+    }
+    .preamble {
+        padding: 0 80px;
+        h1 {
+            color: $blue-10;
+            font-size: 40px;
+            margin-top: 60px;
+            text-align: center;
+        }
+        p {
+            font-size: 18px;
+        }
+    }
+    .resort-information {
+        background-color: $charcoal-4;
+        padding: 40px 80px 0;
+        h2 {
+            color: $blue-10;
+            font-size: 32px;
+            margin-bottom: 25px;
+            text-align: center;
+        }
+
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+            li {
+                border-bottom: 1px solid black;
+                padding: 7px 0;
+            }
+            li:first-of-type {
+                font-weight: 500;
+            }
+        }
+        @media screen and (max-width: 767px) {
+            margin-left: -25px;
+            margin-right: -25px;
+            padding: 40px 25px 50px;
+            h2 {
+                font-size: 22px;
+            }
+        }
+        @media screen and (min-width: 768px) {
+            .data {
+                display: flex;
+                justify-content: center;
+                ul {
+                    width: 50%;
+                    li {
+                        white-space: nowrap;
+                        overflow: hidden;
+                    }
+                }
+            }
+        }
+        .blurb {
+            margin-bottom: 50px;
+        }
+
+    }
+    .step-one {
+        padding-bottom: 0px;
+        div {
+            text-align: center;
+            img {
+                height: 90px;
+                margin-bottom: 15px;
+                width: 330px;
+            }
+        }
+    }
+    .step-two {
+        background-color: $charcoal-4;
+        padding-top: 50px;
+        .graph {
+            text-align: center;
+        }
+        .img {
+            background-repeat: no-repeat;
+            background-position: center;
+            height: 100px;
+            margin-bottom: 15px;
+            width: 100%;
+        }
+        .graph-img {
+            background-image: url('/images/infographic_svgs/SurveyResults_icon.svg');
+        }
+        .guests-img {
+            background-image: url('/images/infographic_svgs/SkiGuests_Scale_icon.svg');
+        }        
+        .acres-img {
+            background-image: url('/images/infographic_svgs/SkiArea_Scale_icon.svg');
+        }        
+        .cost-img {
+            background-image: url('/images/infographic_svgs/Cost_Scale_icon.svg');
+        }
+        .alg-img {
+            background-image: url('/images/infographic_svgs/Algorithm_icon.svg');
+        }
+        .algorithm {
+            margin-bottom: 50px;
+            margin-top: 0;
+            padding: 0 180px;
+            text-align: center;
+            p {
+                padding: 0 115px;
+            }
+        }
+    }
+    .step-three {
+        padding-top: 50px;
+        h2 {
+            margin-bottom: 100px;
+        }
+        img {
+            height: 118px;
+            width: 128px;
+        }
+        .map {
+            background-image: url('/images/infographic_svgs/north_america_map_regions.svg');
+            background-repeat: no-repeat;
+            background-position: center;
+            height: 262px;
+            margin-bottom: 15px;
+        }
+        .icons, .map {
+            margin-bottom: 50px;
+            padding-bottom: 25px;
+            position: relative;
+            height: 310px;
+            p {
+                position: absolute;
+                bottom: -40px;
+                text-align: center;
+                left: 50%;
+                transform: translateX(-50%);
+            }
+        }
+        .icon-grid {
+            display: flex;
+            flex-wrap: wrap;
+            margin-bottom: 50px;
+            .icon {
+                background-position: center;
+                background-repeat: no-repeat;
+                height: 90px;
+                flex-basis: 33%;
+                margin-bottom: 65px;
+                position: relative;
+                width: 90px;
+                &:after {
+                    position: absolute;
+                    bottom: -28px;
+                    height: 20px;
+                    text-align: center;
+                    left: 50%;
+                    transform: translateX(-50%);
+                }
+                &.sign-green {
+                    background-image: url('/images/infographic_svgs/Beginner_icon.svg');
+                    &:after {
+                        content: 'Beginner Friendly';
+                    }
+                }
+                &.snow {
+                    background-image: url('/images/infographic_svgs/Best Snow_icon.svg');
+                    &:after {
+                        content: 'Best Snow Quality';
+                    }
+                }                
+                &.wallet {
+                    background-image: url('/images/infographic_svgs/Best Value_icon.svg');
+                    &:after {
+                        content: 'Best Value';
+                    }
+                }                               
+                &.family {
+                    background-image: url('/images/infographic_svgs/Family-Friendly_icon.svg');
+                    &:after {
+                        content: 'Family Friendly';
+                    }
+                }
+                &.ski-lift {
+                    background-image: url('/images/infographic_svgs/Least Crowded_icon.svg');
+                    &:after {
+                        content: 'Least Crowded';
+                    }
+                }                
+                &.sign {
+                    background-image: url('/images/infographic_svgs/Most Challenging_icon.svg');
+                    &:after {
+                        content: 'Most Challenging';
+                    }
+                }
+            }
+        }
+        .overall-winners {
+            text-align: center;
+            width: 100%;
+            p {
+                display: block;
+                padding-top: 15px;
+                max-width: 200px;
+                margin: 0 auto;
+                margin-bottom: 50px;
+            }
+        }
+    }
+    hr {
+        border-top: 1px solid $charcoal-10;
+        border-color: $charcoal-5;
+        width: 115px;
+    }
+    section {
+        h2 {
+            color: $blue-10;
+            text-align: center;
+        }
+    }
+    @media(min-width: 768px) {
+        .line-two, .line-three {
+            display: none;
+        }
+        .step-one {          
+            .line {
+                background-image: url('/images/infographic_svgs/divider_1.png');
+                height: 200px; 
+                margin-bottom: -70px;
+            }
+        }
+        .step-two {
+            .line {
+                &.top {
+                    background-image: url('/images/infographic_svgs/divider_2.png');
+                    height: 200px;
+                    margin-left: -13px;
+                    margin-top: -50px;
+                }
+                &.middle {
+                    background-image: url('/images/infographic_svgs/divider_3.png');
+                    height: 200px;
+                    margin-left: -13px;
+                    margin-top: -50px;
+                    margin-bottom: -30px;
+                }
+                &.bottom {
+                    background-image: url('/images/line.png');
+                    height: 100px;
+                    margin: -50px 0;
+                }
+            }
+        }
+        .step-three {
+            .background-lines {
+                background-image: url('/images/infographic_svgs/divider_4.png');
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: contain;
+                height: 356px;
+                margin-top: -76px;
+                width: 100%;
+            }
+            hr:last-of-type {
+                display: none;
+            }
+        }
+        .find-out-more {
+            background-color: $charcoal-4;
+            color: $charcoal-10;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 150px;
+            margin: 0 auto;
+            width: 100%;
+            a {
+                color: charcoal-10;
+            }
+
+        }
+    }
+    @media(max-width:767px){
+        font-size: 15px !important;
+        h2 {
+            font-size: 18px !important;
+        }
+        .find-out-more {
+            margin-left: -20px;
+            margin-bottom: -30px;
+            padding: 30px 0;
+            width: 110%;
+            
+        }
+        .col-small-hidden {
+            display: none;
+        }
+        .icons, .map {
+            float: none;
+        }
+        .line {
+            background-image: url('/images/line.png');
+            background-size: 1%;
+            height: 57px;
+            margin: 25px 0;
+
+        }
+        .preamble {
+            padding: 0 20px;
+            h1 {
+                font-size: 22px;
+            }
+            p {
+                font-size: 15px;
+            }
+        }
+        hr {
+            margin: 25px auto;
+        }
+        .step-one {
+            div {
+                img {
+                    width: auto;
+                    height: auto;
+                    @media screen and (max-width: 550px) {
+                        max-width: 200px;
+                    }
+                }
+            }
+            h2 {
+                margin-bottom: 25px;
+            }
+            .line {
+                margin-bottom: -25px;
+            }
+        }
+        .step-two {
+            padding-bottom: 25px;
+            margin: 0 -25px;
+            .algorithm {
+                margin-top: 0;
+                margin-bottom: 0;
+                padding: 0 20px;
+                p {
+                    padding: 0;
+                }
+            }
+            .cost {
+                margin-bottom: 0;
+            }
+            .graph {
+                .img {
+                    margin-bottom: 25px;
+                    margin: 0 auto;
+                    @media screen and (max-width: 550px) {
+                        max-width: 200px;
+                    }
+                }
+            }
+            h2 {
+                margin-bottom: 25px;
+            }
+            hr {
+                width: 50%;
+            }
+            .subdivider {
+                background-image: url('/images/lines-t.png');
+                background-position-x: center;
+                background-position-y: initial;
+                background-repeat: no-repeat;
+                background-size: 80%;
+                height: 80px;
+                margin-bottom: 10px;
+            }
+
+        }
+        .step-three {
+            padding-top: 0;
+            margin-bottom: 50px;
+            h2 {
+                margin-bottom: 25px;
+            }
+            hr {
+                display: none;
+            }
+        }
+
+    }
+}

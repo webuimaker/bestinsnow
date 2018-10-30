@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+  {% include head.html %}
+	<div class="overxhide">
+	<div class="row no-pad row-eq-height">
+		{% include sidebar-left.html %}
+		
+		<div id="main-content" class="col-sm-9 col-lg-10">
+			{% assign cur_SecId = page.section_id %}
+			{% assign cur_resions = page.resions %}
+			{% include header.html %}
+			{% include dropdown-mob.html %}
+			
+			
+			{{ content }}
+			<div id="bg-right" ></div>
+			{% include survey.html %}      
+			{% include winners.html %}
+			{% include static-page.html %}
+			{% include mobile-bottom-menu.html %}
+			
+		</div>
+		
+	</div>
+	</div>
+  
+  {% include footer.html %}

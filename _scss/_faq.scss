@@ -1,0 +1,41 @@
+#questions-and-answers {
+  p:first-of-type {
+    text-align: center;
+  }
+  h2 {
+    color: $blue-10;  
+    font-size: 40px;
+    text-align: center;
+  }
+  hr {
+    border-color: $charcoal-10;
+    margin: 30px auto;
+    width: 30%;
+  }
+  @media screen and (max-width: 767px) {
+    h2 {
+      font-size: 22px;
+    }
+  }
+  @media screen and (min-width: 768px) {
+    padding: 45px 90px;
+    h2 {
+      margin: 0 0 30px 0;
+    }
+    hr {
+      width: 115px;
+    }
+  }
+  table {
+    margin-bottom: 20px;
+
+    thead td {
+      font-weight: bold;
+    }
+
+    td {
+      border: 1px solid #fff;
+      padding: 10px;
+    }
+  }
+}

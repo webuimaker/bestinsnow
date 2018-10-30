@@ -1,0 +1,342 @@
+---
+northamerica:
+  overall:
+  - magic-mountain-VT
+  - crystal-mountain-MI
+  - mad-river-glen-VT
+  - alta-UT
+  - jay-peak-VT
+  - bretton-woods-NH
+  - wildcat-mountain-NH
+  - powder-mountain-UT
+  - snowbird-UT
+  - sugarloaf-ME
+northeast:
+  beginner:
+  - bretton-woods-NH
+  - king-pine-NH
+  - belleayre-NH
+  - bolton-valley-VT
+  - bromley-mountain-VT
+  - cranmore-mountain-NH
+  - black-mountain-ski-area-NH
+  - pats-peak-NH
+  - ragged-mountain-NH
+  - smugglers-notch-VT
+  family:
+  - bretton-woods-NH
+  - black-mountain-ski-area-NH
+  - ragged-mountain-NH
+  - bolton-valley-VT
+  - king-pine-NH
+  - attitash-NH
+  - smugglers-notch-VT
+  - jay-peak-VT
+  - bromley-mountain-VT
+  - cranmore-mountain-NH
+  challenging:
+  - magic-mountain-VT
+  - mad-river-glen-VT
+  - wildcat-mountain-NH
+  - jay-peak-VT
+  - cannon-mountain-NH
+  - sugarloaf-ME
+  - whiteface-lake-placid-NY
+  - killington-VT
+  - stowe-VT
+  - sunday-river-ME
+  crowds:
+  - big-squaw-mountain-ME
+  - mt-abram-ME
+  - magic-mountain-VT
+  - kissing-bridge-NY
+  - snow-ridge-NY
+  - oak-mountain-NY
+  - hickory-ski-center-NY
+  - mccauley-mountain-ski-area-NY
+  - saddleback-ME
+  - sugarloaf-ME
+  value:
+  - arrowhead-NH
+  - magic-mountain-VT
+  - mad-river-glen-VT
+  - abenaki-ski-area-NH
+  - jay-peak-VT
+  - wildcat-mountain-NH
+  - sugarloaf-ME
+  - bretton-woods-NH
+  - loon-mountain-NH
+  - cannon-mountain-NH
+  snow:
+  - bretton-woods-NH
+  - jay-peak-VT
+  - sunday-river-ME
+  - killington-VT
+  - mount-sunapee-NH
+  - okemo-mountain-VT
+  - sugarloaf-ME
+  - loon-mountain-NH
+  - stowe-VT
+  - attitash-NH
+highwest:
+  beginner:
+  - eagle-point-UT
+  - snowy-range-WY
+  - sundance-resort-UT
+  - brighton-UT
+  - powder-mountain-UT
+  - discovery-MT
+  - grand-targhee-WY
+  - alta-UT
+  - ski-cooper-CO
+  - brian-head-UT
+  family:
+  - sipapu-NM
+  - powder-mountain-UT
+  - sundance-resort-UT
+  - grand-targhee-WY
+  - ski-cooper-CO
+  - brighton-UT
+  - solitude-mountain-resort-UT
+  - alta-UT
+  - brian-head-UT
+  - arapahoe-basin-CO
+  challenging:
+  - jackson-hole-WY
+  - snowbird-UT
+  - alta-UT
+  - arapahoe-basin-CO
+  - silverton-mountain-CO
+  - big-sky-MT
+  - taos-NM
+  - crested-butte-CO
+  - powder-mountain-UT
+  - telluride-CO
+  crowds:
+  - soldier-mountain-ID
+  - powder-mountain-UT
+  - lost-trail-MT
+  - silverton-mountain-CO
+  - castle-mountain-resort-AB
+  - maverick-MT
+  - eagle-point-UT
+  - tamarack-resort-ID
+  - blacktail-mountain-MT
+  - pebble-creek-ID
+  value:
+  - powder-mountain-UT
+  - alta-UT
+  - snowbird-UT
+  - jackson-hole-WY
+  - arapahoe-basin-CO
+  - grand-targhee-WY
+  - big-sky-MT
+  - lost-trail-MT
+  - solitude-mountain-resort-UT
+  - bald-mountain-ID
+  snow:
+  - alta-UT
+  - grand-targhee-WY
+  - powder-mountain-UT
+  - snowbird-UT
+  - wolf-creek-CO
+  - arapahoe-basin-CO
+  - lost-trail-MT
+  - solitude-mountain-resort-UT
+  - breckenridge-CO
+  - brighton-UT
+southeast:
+  beginner:
+  - canaan-valley-WV
+  - snowshoe-mountain-WV
+  - cataloochee-NC
+  - timberline-four-seasons-resort-WV
+  - beech-mountain-resort-NC
+  - massanutten-VA
+  - wisp-MD
+  - bryce-resort-VA
+  - winterplace-WV
+  - sugar-mountain-NC
+  family:
+  - canaan-valley-WV
+  - winterplace-WV
+  - cataloochee-NC
+  - bryce-resort-VA
+  - snowshoe-mountain-WV
+  - beech-mountain-resort-NC
+  - massanutten-VA
+  - sugar-mountain-NC
+  - timberline-four-seasons-resort-WV
+  challenging:
+  - canaan-valley-WV
+  - snowshoe-mountain-WV
+  - timberline-four-seasons-resort-WV
+  - winterplace-WV
+  - sugar-mountain-NC
+  - beech-mountain-resort-NC
+  - cataloochee-NC
+  - wisp-MD
+  crowds:
+  - canaan-valley-WV
+  - timberline-four-seasons-resort-WV
+  - wolf-ridge-NC
+  - beech-mountain-resort-NC
+  - massanutten-VA
+  - cataloochee-NC
+  - snowshoe-mountain-WV
+  - sugar-mountain-NC
+  - bryce-resort-VA
+  value:
+  - canaan-valley-WV
+  - cataloochee-NC
+  - snowshoe-mountain-WV
+  - winterplace-WV
+  - beech-mountain-resort-NC
+  - timberline-four-seasons-resort-WV
+  - sugar-mountain-NC
+  - wolf-ridge-NC
+  - wisp-MD
+  - bryce-resort-VA
+  snow:
+  - canaan-valley-WV
+  - snowshoe-mountain
+  - beech-mountain-resort-NC
+  - timberline-four-seasons-resort-WV
+  - winterplace-WV
+  - sugar-mountain-NC
+  - bryce-resort-VA
+  - wisp-MD
+midwest:
+  beginner:
+  - crystal-mountain-MI
+  - buck-hill-MN
+  - shanty-creek-resorts-MI
+  - boyne-highlands-MI
+  - caberfae-peaks-MI
+  - devils-head-WI
+  - chestnut-mountain-IL
+  - alpine-valley-resort-WI
+  - cascade-mountain-WI
+  - nubs-nob-MI
+  family:
+  - crystal-mountain-MI
+  - shanty-creek-resorts-MI
+  - caberfae-peaks-MI
+  - boyne-highlands-MI
+  - cascade-mountain-WI
+  - wild-mountain-MN
+  - alpine-valley-resort-WI
+  - boyne-mountain-MI
+  - mt-st-louis-moonstone-ON
+  - devils-head-WI
+  challenging:
+  - mount-bohemia-MI
+  - crystal-mountain-MI
+  - boyne-mountain-MI
+  - nubs-nob-MI
+  - caberfae-peaks-MI
+  - wild-mountain-MN
+  - granite-peak-WI
+  - boyne-highlands-MI
+  - cascade-mountain-WI
+  - lutsen-mountains-MN
+  crowds:
+  - mount-bohemia-MI
+  - the-whitecap-mountains-WI
+  - terry-peak-SD
+  - norway-mountain-MI
+  - treetops-resort-MI
+  - nordic-mountain-WI
+  - snow-snake-MI
+  - devils-head-WI
+  - blackjack-MI
+  - boyne-highlands-MI
+  value:
+  - mount-bohemia-MI
+  - crystal-mountain-MI
+  - treetops-resort-MI
+  - caberfae-peaks-MI
+  - shanty-creek-resorts-MI
+  - boyne-highlands-MI
+  - alpine-valley-OH
+  - boyne-mountain-MI
+  - devils-head-WI
+  - nubs-nob-MI
+  snow:
+  - crystal-mountain-MI
+  - mount-bohemia-MI
+  - nubs-nob-MI
+  - shanty-creek-resorts-MI
+  - caberfae-peaks-MI
+  - boyne-mountain-MI
+  - wild-mountain-MN
+  - devils-head-WI
+  - mt-st-louis-moonstone-ON
+  - cascade-mountain-WI
+westcoast:
+  beginner:
+  - anthony-lakes-OR
+  - diamond-peak-NV
+  - june-mountain-CA
+  - boreal-mountain-CA
+  - tahoe-donner-CA
+  - bear-valley-CA
+  - 49-degrees-north-WA
+  - snow-valley-CA
+  - homewood-CA
+  - donner-ski-ranch-CA
+  family:
+  - tahoe-donner-CA
+  - diamond-peak-NV
+  - snow-valley-CA
+  - boreal-CA
+  - mt-rose-ski-tahoe-NV
+  - mammoth-mountain-CA
+  - squaw-valley-alpine-meadows-CA
+  - sierra-at-tahoe-CA
+  - sun-peaks-resort-BC
+  - whistler-blackcomb-BC
+  challenging:
+  - kirkwood-CA
+  - kicking-horse-BC
+  - squaw-valley-alpine-meadows-CA
+  - revelstoke-mountain-resort-BC
+  - crystal-mountain-WA
+  - mammoth-mountain-CA
+  - alyeska-AK
+  - whistler-blackcomb-BC
+  - red-mountain-resort-BC
+  - mt-baker-WA
+  crowds:
+  - anthony-lakes-OR
+  - june-mountain-CA
+  - 49-degrees-north-WA
+  - red-mountain-resort-BC
+  - homewood-CA
+  - kicking-horse-BC
+  - revelstoke-mountain-resort-BC
+  - powder-king-BC
+  - alyeska-AK
+  - panorama-mountain-resort-BC
+  value:
+  - anthony-lakes-OR
+  - kirkwood-CA
+  - revelstoke-mountain-resort-BC
+  - kicking-horse-BC
+  - alyeska-AK
+  - squaw-valley-alpine-meadows-CA
+  - 49-degrees-north-WA
+  - tahoe-donner-CA
+  - crystal-mountain-WA
+  - diamond-peak-NV
+  snow:
+  - kirkwood-CA
+  - mammoth-mountain-CA
+  - whitewater-BC
+  - revelstoke-mountain-resort-BC
+  - mt-baker-WA
+  - squaw-valley-alpine-meadows-CA
+  - sugar-bowl-CA
+  - mt-rose-ski-tahoe-NV
+  - alyeska-AK
+  - whistler-blackcomb-BC

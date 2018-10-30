@@ -1,0 +1,204 @@
+.resort-list {
+  &.panel-group {
+    margin-bottom: 0;
+  }
+  .resort-panel {
+    &:nth-child(10) {
+      .panel-heading {
+        .panel-title {
+          span.number {
+            padding-left: 6px;
+          }
+        }
+      }
+    }
+    .panel-body {
+      padding: 0;
+    }
+    .panel-heading {
+      align-items: center;
+      background-color: $blue-10;
+      border-left: none;
+      border-radius: 0;
+      border-right: none;
+      color: #fff;
+      display: flex;
+      height: 90px;
+      h4 {
+        font-size: 26px;
+        @media screen and (max-width: 550px) {
+          font-size: 18px;
+        }
+        font-weight: 400;
+      }
+      .panel-title {
+        width: 100%;
+        a {
+          align-items: center;
+          display: flex;
+          position: relative;
+          width: 100%;
+          z-index: 1;
+		  
+		  &:focus {
+			outline:none;
+          
+			}
+		  
+          &:after {
+            content: "\f105";
+            font-family: FontAwesome;
+            font-size: 32px;
+            position: absolute;
+            top: 15px;
+            right: 150px;
+            @media screen and (max-width: 550px) {
+              font-size: 20px;
+              top: 50%;
+              transform: translateY(-50%);
+              right: 30px;
+            }
+          }
+          &[aria-expanded=true] {
+            &:after {
+              content: "\f107";
+            }
+          }
+          h4 {
+            margin-left: 25px;
+            @media screen and (max-width: 550px) {
+              max-width: 150px;
+            }
+          }
+          .logo {
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: contain;
+            height: 75px;
+            margin-left: auto;
+            position: relative;
+            width: 100px;
+            @media screen and (max-width: 550px) {
+              display: none;
+            }
+            &:after {
+              background: white;
+              content: '';
+              left: -11px;
+              position: absolute;
+              height: 70px;
+              top: 3px;
+              width: 120px;
+              z-index: -1;
+            }
+          }
+
+          span.number {
+            font-size: 24px;
+            padding-left: 13px;
+          }
+          .number {
+            &:after {
+              content: '';
+              background-color: $blue-4;
+              border-radius: 50%;
+              height: 58px;
+              left: 0;
+              position: absolute;
+              top: 50%;
+              transform: translateY(-50%);
+              width: 58px;
+              z-index: -1;
+            }
+          }
+        }
+        &:hover {
+          cursor: pointer;
+          a {
+            text-decoration: none;
+          }
+        }
+		&:focus {
+          a {
+            outline: none;
+          }
+        }
+		
+      }
+    }
+  }
+}
+.panel-body {
+  padding: 0;
+}
+.resort-card {
+  background-color: #E6F2F9;
+  display: flex;
+  margin: 0 !important;
+  @media screen and (max-width: 767px) {
+    flex-direction: column;
+  }
+  .resort-pic {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 350px;
+    position: relative;
+    &:after {
+      background-image: url('/images/BIS_Badge_Winner_17-18.png');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      content: '';
+      height: 210px;
+      position: absolute;
+      width: 167px;
+      top: 0;
+      right: 0;
+    }
+  }
+  .resort-desc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 50px;
+    p {
+      color: #34454E;
+      font-size: 18px;
+      @media screen and (min-width: 768px) {
+        font-size: 22px;
+      }
+      font-style: italic;
+      margin-bottom: 25px;
+      i {
+        font-size: 10px;
+        padding: 0 3px;
+        vertical-align: top;
+      }
+    }
+    .photo-credit {
+      display: block;
+      bottom: 15px;
+      font-size: 10.5px;
+      position: absolute;
+      right: 15px;
+    }
+    .resort-cta {
+      background-color: $cta-orange;
+      border: none;
+      border-radius: 2px;
+      box-shadow: none;
+      color: #fff;
+      font-size: 16px;
+      font-weight: 300;
+      height: 40px;
+      padding: 0 25px;
+      text-transform: uppercase;
+      white-space: nowrap;
+      @media screen and (max-width: 767px) {
+        font-size: 14px;
+      }
+    }
+  }
+
+}
