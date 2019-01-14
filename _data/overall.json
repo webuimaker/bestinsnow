@@ -1,72 +1,72 @@
 [
-  {
-    "north-east": "Magic Mountain VT",
-    "west-coast": "Revelstoke Mountain Resort BC, CAN",
-    "high-west": "Alta UT",
-    "south-east": "Canaan Valley WV",
-    "mid-west": "Mount Bohemia MI"
-  },
-  {
-    "north-east": "Mad River Glen VT",
-    "west-coast": "Yosemite Ski & Snowboard Area CA (Formerly Badger Pass)",
-    "high-west": "Snowbird UT",
-    "south-east": "Timberline Four Seasons Resort WV",
-    "mid-west": "Cascade Mountain WI"
-  },
-  {
-    "north-east": "Jay Peak VT",
-    "west-coast": "Anthony Lakes OR",
-    "high-west": "Arapahoe Basin CO",
-    "south-east": "Snowshoe Mountain WV",
-    "mid-west": "Caberfae Peaks MI"
-  },
-  {
-    "north-east": "Bretton Woods NH",
-    "west-coast": "Kirkwood CA",
-    "high-west": "Powder Mountain UT",
-    "south-east": "Beech Mountain Resort NC",
-    "mid-west": "Crystal Mountain MI"
-  },
-  {
-    "north-east": "Sugarloaf ME",
-    "west-coast": "Homewood CA",
-    "high-west": "Jackson Hole WY",
-    "south-east": "Winterplace WV",
-    "mid-west": "Shanty Creek Resorts MI"
-  },
-  {
-    "north-east": "Stowe VT",
-    "west-coast": "Alyeska AK",
-    "high-west": "Bald Mountain ID",
-    "south-east": "Wintergreen Resort VA",
-    "mid-west": "Tyrol Basin WI"
-  },
-  {
-    "north-east": "Titus Mountain NY",
-    "west-coast": "Squaw Valley CA",
-    "high-west": "Solitude Mountain Resort UT",
-    "south-east": "Sugar Mountain NC",
-    "mid-west": "Devil's Head WI"
-  },
-  {
-    "north-east": "Burke Mountain VT",
-    "west-coast": "Whistler Blackcomb BC, CAN",
-    "high-west": "Grand Targhee WY",
-    "south-east": "Cataloochee NC",
-    "mid-west": "Granite Peak WI"
-  },
-  {
-    "north-east": "Bolton Valley VT",
-    "west-coast": "Kicking Horse BC, CAN",
-    "high-west": "Big Sky MT",
-    "south-east": "Massanutten VA",
-    "mid-west": "Alpine Valley OH"
-  },
-  {
-    "north-east": "Killington VT",
-    "west-coast": "June Mountain CA",
-    "high-west": "Snowbasin UT",
-    "south-east": "Wisp MD",
-    "mid-west": "Apple Mountain MI"
-  }
+{
+"north-east": "Magic Mountain VT",
+"west-coast": "Revelstoke Mountain Resort BC, CAN",
+"high-west": "Alta UT",
+"south-east": "Canaan Valley WV",
+"mid-west": "Mount Bohemia MI"
+},
+{
+"north-east": "Mad River Glen VT",
+"west-coast": "Yosemite Ski & Snowboard Area CA (Formerly Badger Pass)",
+"high-west": "Snowbird UT",
+"south-east": "Timberline Four Seasons Resort WV",
+"mid-west": "Cascade Mountain WI"
+},
+{
+"north-east": "Jay Peak VT",
+"west-coast": "Anthony Lakes OR",
+"high-west": "Arapahoe Basin CO",
+"south-east": "Snowshoe Mountain WV",
+"mid-west": "Caberfae Peaks MI"
+},
+{
+"north-east": "Bretton Woods NH",
+"west-coast": "Kirkwood CA",
+"high-west": "Powder Mountain UT",
+"south-east": "Beech Mountain Resort NC",
+"mid-west": "Crystal Mountain MI"
+},
+{
+"north-east": "Sugarloaf ME",
+"west-coast": "Homewood CA",
+"high-west": "Jackson Hole WY",
+"south-east": "Winterplace WV",
+"mid-west": "Shanty Creek Resorts MI"
+},
+{
+"north-east": "Stowe VT",
+"west-coast": "Alyeska AK",
+"high-west": "Bald Mountain ID",
+"south-east": "Wintergreen Resort VA",
+"mid-west": "Tyrol Basin WI"
+},
+{
+"north-east": "Titus Mountain NY",
+"west-coast": "Squaw Valley CA",
+"high-west": "Solitude Mountain Resort UT",
+"south-east": "Sugar Mountain NC",
+"mid-west": "Devil's Head WI"
+},
+{
+"north-east": "Burke Mountain VT",
+"west-coast": "Whistler Blackcomb BC, CAN",
+"high-west": "Grand Targhee WY",
+"south-east": "Cataloochee NC",
+"mid-west": "Granite Peak WI"
+},
+{
+"north-east": "Bolton Valley VT",
+"west-coast": "Kicking Horse BC, CAN",
+"high-west": "Big Sky MT",
+"south-east": "Massanutten VA",
+"mid-west": "Alpine Valley OH"
+},
+{
+"north-east": "Killington VT",
+"west-coast": "June Mountain CA",
+"high-west": "Snowbasin UT",
+"south-east": "Wisp MD",
+"mid-west": "Apple Mountain MI"
+}
 ]

@@ -1,92 +1,93 @@
 [
 {
-		"overall": "Magic Mountain VT",
-		"beginner": "Bretton Woods NH",
-		"challenging": "Magic Mountain VT",
-		"family": "Titus Mountain NY",
-		"snow": "Alta UT",
-		"value": "Magic Mountain VT",
-		"crowds": "Yosemite Ski & Snowboard Area CA"
-	},
-	{
-		"overall": "Alta UT",
-		"beginner": "Bald Mountain ID",
-		"challenging": "Mad River Glen VT",
-		"family": "Bald Mountain ID",
-		"snow": "Arapahoe Basin CO",
-		"value": "Mad River Glen VT",
-		"crowds": "Snow Ridge NY"
-	},
-	{
-		"overall": "Mad River Glen VT",
-		"beginner": "Titus Mountain NY",
-		"challenging": "Jackson Hole WY",
-		"family": "Magic Mountain VT",
-		"snow": "Powder Mountain UT",
-		"value": "Mount Bohemia MI",
-		"crowds": "Soldier Mountain ID"
-	},
-	{
-		"overall": "Snowbird UT",
-		"beginner": "Magic Mountain VT",
-		"challenging": "Snowbird UT",
-		"family": "Bretton Woods NH",
-		"snow": "Snowbird UT",
-		"value": "Bald Mountain ID",
-		"crowds": "Howelsen Hill Ski Area CO"
-	},
-	{
-		"overall": "Arapahoe Basin CO",
-		"beginner": "Bolton Valley VT",
-		"challenging": "Arapahoe Basin CO",
-		"family": "Yosemite Ski & Snowboard Area CA",
-		"snow": "Bretton Woods NH",
-		"value": "Powder Mountain UT",
-		"crowds": "The Whitecap Mountains WI"
-	},
-	{
-		"overall": "Powder Mountain UT",
-		"beginner": "Yosemite Ski & Snowboard Area CA",
-		"challenging": "Alta UT",
-		"family": "Bolton Valley VT",
-		"snow": "Grand Targhee WY",
-		"value": "Alta UT",
-		"crowds": "Four Lakes IL"
-	},
-	{
-		"overall": "Jay Peak VT",
-		"beginner": "Belleayre NY",
-		"challenging": "Mount Bohemia MI",
-		"family": "Ragged Mountain NH",
-		"snow": "Jay Peak VT",
-		"value": "Jay Peak VT",
-		"crowds": "Buck Hill MN"
-	},
-	{
-		"overall": "Mount Bohemia MI",
-		"beginner": "King Pine NH",
-		"challenging": "Silverton Mountain CO",
-		"family": "Smugglers' Notch VT",
-		"snow": "Bald Mountain ID",
-		"value": "Arapahoe Basin CO",
-		"crowds": "Treetops Resort MI"
-	},
-	{
-		"overall": "Jackson Hole WY",
-		"beginner": "Ragged Mountain NH",
-		"challenging": "Jay Peak VT",
-		"family": "Cascade Mountain WI",
-		"snow": "Anthony Lakes OR",
-		"value": "Anthony Lakes OR",
-		"crowds": "Sir Sam's ON, CAN"
-	},
-	{
-		"overall": "Bald Mountain ID",
-		"beginner": "Snowy Range WY",
-		"challenging": "Cannon Mountain NH",
-		"family": "Black Mountain Ski Area NH",
-		"snow": "Wolf Creek CO",
-		"value": "Snowbird UT",
-		"crowds": "Loup Loup Ski Bowl WA"
-	}
+"overall": "Magic Mountain VT",
+"beginner": "Bretton Woods NH",
+"challenging": "Magic Mountain VT",
+"family": "Titus Mountain NY",
+"snow": "Alta UT",
+"value": "Magic Mountain VT",
+"crowds": "Yosemite Ski & Snowboard Area CA (Formerly Badger Pass)"
+},
+{
+"overall": "Alta UT",
+"beginner": "Bald Mountain ID",
+"challenging": "Mad River Glen VT",
+"family": "Bald Mountain ID",
+"snow": "Arapahoe Basin CO",
+"value": "Mad River Glen VT",
+"crowds": "Snow Ridge NY"
+
+},
+{
+"overall": "Mad River Glen VT",
+"beginner": "Titus Mountain NY",
+"challenging": "Jackson Hole WY",
+"family": "Magic Mountain VT",
+"snow": "Powder Mountain UT",
+"value": "Mount Bohemia MI",
+"crowds": "Soldier Mountain ID"
+},
+{
+"overall": "Snowbird UT",
+"beginner": "Magic Mountain VT",
+"challenging": "Snowbird UT",
+"family": "Bretton Woods NH",
+"snow": "Snowbird UT",
+"value": "Bald Mountain ID",
+"crowds": "Howelsen Hill Ski Area CO"
+},
+{
+"overall": "Arapahoe Basin CO",
+"beginner": "Bolton Valley VT",
+"challenging": "Arapahoe Basin CO",
+"family": "Yosemite Ski & Snowboard Area CA",
+"snow": "Bretton Woods NH",
+"value": "Powder Mountain UT",
+"crowds": "The Whitecap Mountains WI"
+},
+{
+"overall": "Powder Mountain UT",
+"beginner": "Yosemite Ski & Snowboard Area CA",
+"challenging": "Alta UT",
+"family": "Bolton Valley VT",
+"snow": "Grand Targhee WY",
+"value": "Alta UT",
+"crowds": "Four Lakes IL"
+},
+{
+"overall": "Jay Peak VT",
+"beginner": "Belleayre NY",
+"challenging": "Mount Bohemia MI",
+"family": "Ragged Mountain NH",
+"snow": "Jay Peak VT",
+"value": "Jay Peak VT",
+"crowds": "Buck Hill MN"
+},
+{
+"overall": "Mount Bohemia MI",
+"beginner": "King Pine NH",
+"challenging": "Silverton Mountain CO",
+"family": "Smugglers' Notch VT",
+"snow": "Bald Mountain ID",
+"value": "Arapahoe Basin CO",
+"crowds": "Treetops Resort MI"
+},
+{
+"overall": "Jackson Hole WY",
+"beginner": "Ragged Mountain NH",
+"challenging": "Jay Peak VT",
+"family": "Cascade Mountain WI",
+"snow": "Anthony Lakes OR",
+"value": "Anthony Lakes OR",
+"crowds": "Sir Sam's ON, CAN"
+},
+{
+"overall": "Bald Mountain ID",
+"beginner": "Snowy Range WY",
+"challenging": "Cannon Mountain NH",
+"family": "Black Mountain Ski Area NH",
+"snow": "Wolf Creek CO",
+"value": "Snowbird UT",
+"crowds": "Loup Loup Ski Bowl WA"
+}
 ]
