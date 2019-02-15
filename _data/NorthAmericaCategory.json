@@ -1,23 +1,23 @@
 [
 	{
-		"challenging": "/images/maps/northamerica_top_challenging.png"
+		"challenging": "/images/maps/best_in_snow_map_north_america_most_challenging_2019.png"
 	},
 	{
-		"beginner": "/images/maps/northamerica_top_beginner.png"
+		"beginner": "/images/maps/best_in_snow_map_north_america_beginner_friendly_2019.png"
 	},
 	{
-		"family": "/images/maps/northamerica_top_family.png"
+		"family": "/images/maps/best_in_snow_map_north_america_family_2019.png"
 	},
 	{
-		"crowds": "/images/maps/northamerica_top_crowd.png"
+		"crowds": "/images/maps/best_in_snow_map_north_america_least_crowded_2019.png"
 	},
 	{
-		"value": "/images/maps/northamerica_top_value.png"
+		"value": "/images/maps/best_in_snow_map_north_america_best_value_2019.png"
 	},
 	{
-		"snow": "/images/maps/northamerica_top_snow.png"
+		"snow": "/images/maps/best_in_snow_map_north_america_snow_quality_2019.png"
 	},
 	{
-		"overall": "/images/maps/northamerica_top10.png"
+		"overall": "/images/maps/best_in_snow_map_north_america_overall_2019.png"
 	}
 ]

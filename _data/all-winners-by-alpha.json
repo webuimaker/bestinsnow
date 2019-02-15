@@ -1,1253 +1,1516 @@
 [
-{
-"name": "49 Degrees North, WA",
-"region": "West Coast",
-"url": "https://www.liftopia.com/49-degrees-north",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/6b62c2dce0620b212d56166e9c7382c9",
-"image": "49-degrees-north-wa_bis_feature.png",
-"image_credit": "Image courtesy of 49 Degrees North",
-"quote": "Mostly natural snow. Limited need for artificial snowmaking."
-},
-{
-"name": "Abenaki Ski Area, NH",
-"region": "Northeast",
-"url": "https://www.liftopia.com/abenaki-ski-area",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/54e15987c2de67a1f593cdbd4b8df752",
-"image": "",
-"image_credit": "",
-"quote": "Very inexpensive, safe, warm lodge, community feel."
-},
-{
-"name": "Alpine Valley Resort, WI",
-"region": "Midwest",
-"url": "https://www.liftopia.com/alpine-valley-resort",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/6e673fe140ded6113bbb85c429c6ca2e",
-"image": "",
-"image_credit": "",
-"quote": "Extremely family-friendly and affordable. Provides enough terrain to get the basics down."
-},
-{
-"name": "Alpine Valley, OH",
-"region": "Midwest",
-"url": "https://www.liftopia.com/alpine-valley-oh",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/229bd24723ef871d0bf6d90ccf9a56b7",
-"image": "",
-"image_credit": "",
-"quote": "Shortest lift lines in Ohio."
-},
-{
-"name": "Alta, UT",
-"region": "High West",
-"url": "https://www.liftopia.com/alta",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/d38d5ebc3574c9d1dc799309fe47a7be",
-"image": "alta_ut_bis_feature_5.jpg",
-"image_credit": "Image courtesy of Alta",
-"quote": "Best snow in the USA. They have snow when others don't."
-},
-{
-"name": "Alyeska, AK",
-"region": "West Coast",
-"url": "https://www.liftopia.com/alyeska-resort",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/18f4b86be09d1362bb40d0e97c8fa72e",
-"image": "alyeska_bis.jpg",
-"image_credit": "Image courtesy of Alyeska",
-"quote": "Best in Alaska. Deep powder, expert terrain and beautiful views."
-},
-{
-"name": "Anthony Lakes, OR",
-"region": "West Coast",
-"url": "https://www.liftopia.com/ski-anthony-lakes",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/5cafe069a206534537c82b595563cb10",
-"image": "anthony_lakes_or_bis_feature.jpg",
-"image_credit": "Image courtesy of Anthony Lakes",
-"quote": "Anthony Lakes is small, friendly, family-oriented and personal."
-},
-{
-"name": "Arapahoe Basin, CO",
-"region": "High West",
-"url": "https://www.liftopia.com/arapahoe-basin",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/97e4d3e098f8ee8ced72d22d151efc64",
-"image": "arapahoe_co_bis.jpg",
-"image_credit": "Image courtesy of  Dave Camara",
-"quote": "Best price, small crowds and great snow."
-},
-{
-"name": "Bald Mountain, ID",
-"region": "High West",
-"url": "https://www.liftopia.com/skibaldmountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/d9ed5bf1f28b03103161fef2dd00f829",
-"image": "bald_mountain_id_bis_feature.jpg",
-"image_credit": "Image courtesy of Bald Mountain",
-"quote": "Inexpensive, good terrain, not overly populated."
-},
-{
-"name": "Bear Valley, CA",
-"region": "West Coast",
-"url": "https://www.liftopia.com/bear-valley",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/7110056e939dfabff0596ac58816f014",
-"image": "bear_valley_bis.jpg",
-"image_credit": "Image courtesy of Bear Valley",
-"quote": "Compact layout allows you to let your children ski freely. Friendly staff and family oriented."
-},
-{
-"name": "Beech Mountain Resort, NC",
-"region": "Southeast",
-"url": "https://www.liftopia.com/beech-mtn",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/0fed3340e170f6e48bb0e0dca3413712",
-"image": "beech_mountain_bis.jpg",
-"image_credit": "Image courtesy of Beech Mountain Resort",
-"quote": "Great mountain for families with a variety of terrain to learn and grown on."
-},
-{
-"name": "Belleayre, NY",
-"region": "Northeast",
-"url": "https://www.liftopia.com/belleayre",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/ea5abadf4c3979000e4a4a1c8355cc59",
-"image": "belleayre_bis.jpg",
-"image_credit": "Image courtesy of Belleayre",
-"quote": "Beginner area is separated from the main mountain so beginners can have a safe, non-intimidating environment to learn."
-},
-{
-"name": "Big Sky, MT",
-"region": "High West",
-"url": "https://www.liftopia.com/big-sky",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/9fbfea0a4e64087eafe54ab7df2a2d15",
-"image": "big_sky_bis_02.jpg",
-"image_credit": "Image courtesy of Jeff Engerbretson",
-"quote": "Such diverse terrain."
-},
-{
-"name": "Big Squaw Mountain, ME",
-"region": "Northeast",
-"url": "https://www.liftopia.com/big-squaw-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/07d7dad04437a56da66fb67c5efc3f71",
-"image": "big_sky_bis.jpg",
-"image_credit": "Image courtesy of Big Squaw Mountain",
-"quote": "Great skiing and no lift lines."
-},
-{
-"name": "Black Mountain Ski Area, NH",
-"region": "Northeast",
-"url": "https://www.liftopia.com/black-mountain-nh",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/a628a4809424cd5f704feba354c5dff7",
-"image": "black_mountain_bis.JPG",
-"image_credit": "Image courtesy of Black Mountain Ski Area",
-"quote": "Small, uncrowded, good instructors."
-},
-{
-"name": "Bolton Valley, VT",
-"region": "Northeast",
-"url": "https://www.liftopia.com/bolton-valley",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/9e148ccfd7b243a9d1ef05dec5ec7841",
-"image": "bolton-valley-best-in-snow.jpg",
-"image_credit": "Image courtesy of Bolton Valley",
-"quote": "Awesome family resort."
-},
-{
-"name": "Boreal Mountain, CA",
-"region": "West Coast",
-"url": "https://www.liftopia.com/boreal",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/f5a770c86ad7a454ce8acf8593e980f6",
-"image": "boreal_bis.jpg",
-"image_credit": "Image courtesy of Boreal Mountain",
-"quote": "Small mountain with terrain for EVERY skill level. There are bunny slopes and magic carpets, and then there's the progression parks and the Woodward training facility."
-},
-{
-"name": "Boyne Highlands, MI",
-"region": "Midwest",
-"url": "https://www.liftopia.com/boyne-highlands",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/a0b7d14bdd95d2b9312cd006232b2c4a",
-"image": "boyne-highlands-mi-bis.jpg",
-"image_credit": "Image courtesy of Boyne Highlands",
-"quote": "Good variety of terrain on fairly short runs and fast lifts."
-},
-{
-"name": "Boyne Mountain, MI",
-"region": "Midwest",
-"url": "https://www.liftopia.com/boyne-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/198398716b4a0d245cdeff0580ae9eb1",
-"image": "boyne_mountain_bis.jpg",
-"image_credit": "Image courtesy of Boyne Mountain",
-"quote": "Most vertical in Michigan."
-},
-{
-"name": "Bretton Woods, NH",
-"region": "Northeast",
-"url": "https://www.liftopia.com/bretton-woods",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/147f0026f0a4546c7590bc19006e8cd1",
-"image": "bretton-woods-vt-best-in-snow.jpg",
-"image_credit": "Image courtesy of Bretton Woods",
-"quote": "Amazing variety of terrain and phenomenal views of Mt. Washington."
-},
-{
-"name": "Brighton, UT",
-"region": "High West",
-"url": "https://www.liftopia.com/brighton",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/b6ab7b6ba159129d6779e2eff0793bb0",
-"image": "",
-"image_credit": "Image courtesy of Brighton",
-"quote": "The terrain is conducive to learning and the staff of instructors is very patient and skilled."
-},
-{
-"name": "Bromley Mountain, VT",
-"region": "Northeast",
-"url": "https://www.liftopia.com/bromley-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/40bd62ed969097718d39270a8f04bb60",
-"image": "bromley_mountain_vt_bis_feature.jpg",
-"image_credit": "Image courtesy of Bromley Mountain",
-"quote": "Good beginner deals, ski school, and rental equipment. All trails meet at same place so it's easy to find the other people you are with."
-},
-{
-"name": "Bryce Resort, VA",
-"region": "Southeast",
-"url": "https://www.liftopia.com/bryce-resort",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/99f966dd904812502be47bd1d1c9621c",
-"image": "",
-"image_credit": "",
-"quote": "Both staff and terrain make this a great place to learn."
-},
-{
-"name": "Buck Hill, MN",
-"region": "Midwest",
-"url": "https://www.liftopia.com/buck-hill",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/e2df4188d27ee91926707dbccb306a8d",
-"image": "",
-"image_credit": "",
-"quote": "Great beginner terain and ski school for adults and kids."
-},
-{
-"name": "Caberfae Peaks, MI",
-"region": "Midwest",
-"url": "https://www.liftopia.com/caberfae-peaks",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/83ee0f8820d1fdad69abce9a5484a3de",
-"image": "caberfae_peaksmiI_bis_feature.jpg",
-"image_credit": "Image courtesy of Caberfae Peaks",
-"quote": "The terrain is perfect for beginners and the lodge is picnic friendly."
-},
-{
-"name": "Canaan Valley, WV",
-"region": "Southeast",
-"url": "https://www.liftopia.com/canaan-valley",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/b3e6c6b800afeb1226df4dfedd7e1888",
-"image": "",
-"image_credit": "",
-"quote": "Great long runs for all skill levels. Learning area is designated for beginners and staff is always willing to help."
-},
-{
-"name": "Cannon Mountain, NH",
-"region": "Northeast",
-"url": "https://www.liftopia.com/cannon-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/5f973dc50ed934a30ee345a8ec855e71",
-"image": "cannon_mountain_bis.jpg",
-"image_credit": "Image courtesy of Cannon Mountain",
-"quote": "Olympic medalist Bode Miller trained there for most of his life. I've said enough."
-},
-{
-"name": "Cascade Mountain, WI",
-"region": "Midwest",
-"url": "https://www.liftopia.com/cascade-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/06a637cb7548d3bd27216be756102421",
-"image": "cascade_mountain_bis.png",
-"image_credit": "Image courtesy of Cascade Mountain",
-"quote": "Beautiful. Great packages for beginners. Wonderful instructors. Top notch facilities and staff."
-},
-{
-"name": "Cataloochee, NC",
-"region": "Southeast",
-"url": "https://www.liftopia.com/cataloochee",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/8e24fb035a77db791e23518dc68d72ec",
-"image": "",
-"image_credit": "",
-"quote": "It is our local hill with a fun bunch of instructors."
-},
-{
-"name": "Chestnut Mountain, IL",
-"region": "Midwest",
-"url": "https://www.liftopia.com/chestnut-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/1ac43a366cee40572a42268d13b5ddca",
-"image": "",
-"image_credit": "",
-"quote": "They have two great bunny hills that are perfect for beginners and intermediates. It's one of the best spots to practice."
-},
-{
-"name": "Cranmore Mountain, NH",
-"region": "Northeast",
-"url": "https://www.liftopia.com/cranmore",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/c450a1ab41e1ee10b5fa74a1a5dbe9de",
-"image": "",
-"image_credit": "",
-"quote": "The mountain has Terrain Based Learning, which has made teaching never-ever's so much easier and faster."
-},
-{
-"name": "Crested Butte, CO",
-"region": "High West",
-"url": "https://www.liftopia.com/crested-butte",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/cb64700710cf142d1d674ffb9ae5f6f9",
-"image": "",
-"image_credit": "",
-"quote": ""
-},
-{
-"name": "Crystal Mountain, MI",
-"region": "Midwest",
-"url": "https://www.liftopia.com/crystal-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/9e38e41ba02c0e0d1eab22c8e9fc12c8",
-"image": "crystal_mountain_mi_bis_feature.jpg",
-"image_credit": "Image courtesy of Crystal Mountain",
-"quote": "Excellent instructors that really treat you like a family member. We love the ski lessons here and so do our kids!"
-},
-{
-"name": "Crystal Mountain, WA",
-"region": "West Coast",
-"url": "https://www.liftopia.com/crystal-mountain-wa",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/347ee1351e0907b6ec806621adb438bd",
-"image": "",
-"image_credit": "",
-"quote": "Even on powder days, the crowds are small and lift lines quick."
-},
-{
-"name": "Devil's Head, WI",
-"region": "Midwest",
-"url": "https://www.liftopia.com/devils-head",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/e9eec48254e8ac6e3fc8384bf330f15b",
-"image": "devils_head_wi_bis_feature.jpg",
-"image_credit": "Image courtesy of Devil's Head",
-"quote": "Off the beaten path & never seems overly crowded."
-},
-{
-"name": "Diamond Peak, NV",
-"region": "West Coast",
-"url": "https://www.liftopia.com/diamond-peak",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/ca498b632d11a5711e3edb455af8737b",
-"image": "Diamond_Peak_CA_BIS_feature.jpg",
-"image_credit": "Image courtesy of Diamond Peak",
-"quote": "Not crowded, excellent instructors, not expensive. There's even a model lift to learn how to get on and off a lift."
-},
-{
-"name": "Discovery, MT",
-"region": "High West",
-"url": "https://www.liftopia.com/discovery",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/c6b946bb5fffd9e0be1cbea18aebff11",
-"image": "Discovery_MT_BIS_feature.jpg",
-"image_credit": "Image courtesy of Discovery",
-"quote": "No one there on weekdays, not too crowded on weekends. One of Montana's best kept secrets!"
-},
-{
-"name": "Donner Ski Ranch, CA",
-"region": "West Coast",
-"url": "https://www.liftopia.com/donner-ski-ranch",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/7a8599290b56f28e13dc52166b26c5fa",
-"image": "",
-"image_credit": "",
-"quote": "Small ski area with no large lines or tons of people, and no intimidation."
-},
-{
-"name": "Eagle Point, UT",
-"region": "High West",
-"url": "https://www.liftopia.com/eagle-point",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/4e4d91a2fac4f23e3dc925210ab1d555",
-"image": "Eagle_Point_UT_2_BIS_feature.jpg",
-"image_credit": "Image courtesy of Eagle Point",
-"quote": "Mild slopes, few crowds and very friendly staff."
-},
-{
-"name": "Grand Targhee, WY",
-"region": "High West",
-"url": "https://www.liftopia.com/grand-targhee",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/8251ebbedd9cff03d4e249e5a02d0246",
-"image": "Grand_Targhee_WY_BIS_feature.jpg",
-"image_credit": "Image courtesy of Grand Targhee",
-"quote": "500+\" of snow annually & champagne powder."
-},
-{
-"name": "Granite Peak, WI",
-"region": "Midwest",
-"url": "https://www.liftopia.com/granite-peak",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/6ab6e19b2c8516a3e45a5c5b89253f62",
-"image": "granite-peak-wi-bis.jpg",
-"image_credit": "Image courtesy of Granite Peak",
-"quote": "More runs to choose from."
-},
-{
-"name": "Homewood, CA",
-"region": "West Coast",
-"url": "https://www.liftopia.com/homewood",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/4485e9803f647a31063a9e4606f8d2c6",
-"image": "Homewood_CA_BIS_feature.jpg",
-"image_credit": "Image courtesy of Homewood",
-"quote": "Views for days and well priced!"
-},
-{
-"name": "Jackson Hole, WY",
-"region": "High West",
-"url": "https://www.liftopia.com/jackson-hole",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/85ba0e4f5e16f434bb8f91b89ab8e443",
-"image": "Jackson_Hole_WY_BIS_feature.jpg",
-"image_credit": "Image courtesy of Jackson Hole",
-"quote": "Plenty of natural snowfall throughout the season. "
-},
-{
-"name": "Jay Peak, VT",
-"region": "Northeast",
-"url": "https://www.liftopia.com/jay-peak",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/cff3e64790aa3f177a8b733e103da1e2",
-"image": "jay-peak-vt-bis.jpg",
-"image_credit": "Image courtesy of Jay Peak",
-"quote": "Best glades in the east."
-},
-{
-"name": "June Mountain, CA",
-"region": "West Coast",
-"url": "https://www.liftopia.com/june",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/da97759ad15f3f4a16a866b97ef2fc66",
-"image": "june_mountain_bis.jpg",
-"image_credit": "Image courtesy of June Mountain",
-"quote": "Low crowd levels. FANTASTIC lifties. Geared towards families and kids."
-},
-{
-"name": "Kicking Horse, BC",
-"region": "West Coast",
-"url": "https://www.liftopia.com/kicking-horse",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/6bdc9fb630cb5c40d9c993414225f7ab",
-"image": "",
-"image_credit": "",
-"quote": "So much open terrain, and never a big crowd."
-},
-{
-"name": "Killington, VT",
-"region": "Northeast",
-"url": "https://www.liftopia.com/killington",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/1e044285705a185acd88a252b4dc5f32",
-"image": "killington_bis.jpg",
-"image_credit": "Image courtesy of Killington",
-"quote": "Incredible snowmaking and grooming capability. Consistently first to open and last to close in New England."
-},
-{
-"name": "King Pine, NH",
-"region": "Northeast",
-"url": "https://www.liftopia.com/king-pine",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/1a610d78e70edb8ae9a65db0a6b2c87e",
-"image": "king_pine_bis.jpg",
-"image_credit": "Image courtesy of King Pine",
-"quote": "Gentle terrain and quality snow. Instructors are well trained and make learning a new sport enjoyable."
-},
-{
-"name": "Kirkwood, CA",
-"region": "West Coast",
-"url": "https://www.liftopia.com/kirkwood",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/9927bd886bdc30314d8816fed9a3743c",
-"image": "kirkwood_ca_bis_feature.jpg",
-"image_credit": "Image courtesy of Kirkwood",
-"quote": "Good vibes, great staff, never too crowded."
-},
-{
-"name": "Kissing Bridge, NY",
-"region": "Northeast",
-"url": "https://www.liftopia.com/kissing-bridge",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/c74c25a4b9fa8745c54d1c80ec6b2514",
-"image": "kissing_bridge_ny_bis_feature.JPG",
-"image_credit": "Image courtesy of Kissing Bridge",
-"quote": "Excellent center and staff. Open at night."
-},
-{
-"name": "Loon Mountain, NH",
-"region": "Northeast",
-"url": "https://www.liftopia.com/loon-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/e2b0ba4de87517ec716e49b015b63db9",
-"image": "",
-"image_credit": "",
-"quote": "Awesome snowmaking system and management."
-},
-{
-"name": "Lost Trail, MT",
-"region": "High West",
-"url": "https://www.liftopia.com/lost-trail",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/2592da1ba936af7e28ee991bf590e254",
-"image": "lost_trail_bis.jpg",
-"image_credit": "Image courtesy of Lost Trail",
-"quote": "Snowiest place around. Just rules."
-},
-{
-"name": "Lutsen Mountains, MN",
-"region": "Midwest",
-"url": "https://www.liftopia.com/lutsen-mountains",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/20995ec5cb3ccca6e19f1d2dbaf2fc3c",
-"image": "lutsen_mountains_mn_bis_feature.jpg",
-"image_credit": "Image courtesy of Lutsen Mountains",
-"quote": "Good terrain and long, easy runs."
-},
-{
-"name": "Mad River Glen, VT",
-"region": "Northeast",
-"url": "https://www.liftopia.com/mad-river-glen",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/d7f8c4455d885a5a8a9524635a4be0af",
-"image": "mad_river_glen_bis.jpg",
-"image_credit": "Image courtesy of Mad River Glen",
-"quote": "Ski it if you can."
-},
-{
-"name": "Magic Mountain, VT",
-"region": "Northeast",
-"url": "https://www.liftopia.com/magic-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/282b7aa9a459f474bc80fe386b09c702",
-"image": "magic_mountain_bis.jpg",
-"image_credit": "",
-"quote": "Best kept secret in VT. This mountain has a great old school vibe and a great mountain community."
-},
-{
-"name": "Mammoth Mountain, CA",
-"region": "West Coast",
-"url": "https://www.liftopia.com/mammoth",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/dd07568a668f231eabde87a7d1dcf464",
-"image": "",
-"image_credit": "Image courtesy of Mammoth Mountain",
-"quote": "Great mix of terrain and large enough to find empty runs on crowded days."
-},
-{
-"name": "Massanutten, VA",
-"region": "Southeast",
-"url": "https://www.liftopia.com/massanutten",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/7c6c3ccc714a9a52d9ff45d4e7f6a70e",
-"image": "massanutten-va-best-in-snow-awards-2016.jpg",
-"image_credit": "Image courtesy of Massanutten",
-"quote": "The main green trail by the lodge is perfect to learn on."
-},
-{
-"name": "McCauley Mountain Ski Area, NY",
-"region": "Northeast",
-"url": "https://www.liftopia.com/mccauley-mountain-ski-area",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/9c5d8c2afd8d0a0be1997fd5c48247bb",
-"image": "mccauley_mountain_ny_bis_feature.jpg",
-"image_credit": "Image courtesy of McCauley Mountain Ski Area",
-"quote": ""
-},
-{
-"name": "Mount Bohemia, MI",
-"region": "Midwest",
-"url": "https://www.liftopia.com/mount-bohemia",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/66fbfd20b4cc5630cadb4018478b4579",
-"image": "mount_bohemia_mi_bis_feature.jpg",
-"image_credit": "Image courtesy of Mount Bohemia",
-"quote": "Wicked awesome runs that are challenging and as fast as you can handle. It pushes you to excellence quick."
-},
-{
-"name": "Mount Sunapee, NH",
-"region": "Northeast",
-"url": "https://www.liftopia.com/mount-sunapee",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/90ca17e7dbb1e64ed9813bbe083161e9",
-"image": "",
-"image_credit": "",
-"quote": "It's obvious snow quality is management's top priority."
-},
-{
-"name": "Mt Baker, WA",
-"region": "West Coast",
-"url": "https://www.liftopia.com/mt-baker",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/cfdf42a655d9705a9f6dc28e193c6989",
-"image": "",
-"image_credit": "",
-"quote": "Baker gets the goods."
-},
-{
-"name": "Nub's Nob, MI",
-"region": "Midwest",
-"url": "https://www.liftopia.com/nub-s-nob",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/09797a3eb75de846620439e915185d0f",
-"image": "nubs_nob_mi_bis_feature.jpeg",
-"image_credit": "Image courtesy of Nub's Nob",
-"quote": "Evenly groomed, no bare spots. Best groomers ever."
-},
-{
-"name": "Oak Mountain, NY",
-"region": "Northeast",
-"url": "https://www.liftopia.com/oak-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/034276b065135d2a372716747e879a73",
-"image": "oak_mountain_bis.jpg",
-"image_credit": "Image courtesy of Oak Mountain",
-"quote": "Not well known by many."
-},
-{
-"name": "Okemo Mountain, VT",
-"region": "Northeast",
-"url": "https://www.liftopia.com/okemo-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/ed2d64a8f35eb2a64b7d7ae56a290222",
-"image": "",
-"image_credit": "",
-"quote": "Consistently great snow and coverage."
-},
-{
-"name": "Mt. Rose Ski Tahoe, NV",
-"region": "West Coast",
-"url": "https://www.liftopia.com/mt-rose",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/8498b8b49c25f2226f6e994606d5e0f3",
-"image": "mt_rose_nv_bis_feature.jpg",
-"image_credit": "Image courtesy of Mt. Rose Ski Tahoe",
-"quote": "Along with great snowmaking, it has the highest base elevation in the Sierras."
-},
-{
-"name": "Powder Mountain, UT",
-"region": "High West",
-"url": "https://www.liftopia.com/powder-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/7789cb9ab290962ebfe5ea852d6ca7bf",
-"image": "powder_mountain_ut_bis_feature.jpg",
-"image_credit": "Image courtesy of Powder Mountain",
-"quote": "Gorgeous and huge!"
-},
-{
-"name": "Ragged Mountain, NH",
-"region": "Northeast",
-"url": "https://www.liftopia.com/ragged-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/5b17c48fcd16ea311ce4fbf7698bece5",
-"image": "ragged_mountain_bis.jpg",
-"image_credit": "Image courtesy of Ragged Mountain",
-"quote": "The Bebe Woods ski program allows you to learn for FREE!"
-},
-{
-"name": "Red Mountain Resort, BC",
-"region": "West Coast",
-"url": "https://www.liftopia.com/red-resort",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/874d281019485226709dafab00e09327",
-"image": "red-mountain-resort-bc-best-in-snow-awards-2016.jpg",
-"image_credit": "Image courtesy of Red Mountain Resort",
-"quote": "Hardcore, challenging terrain."
-},
-{
-"name": "Revelstoke Mountain Resort, BC",
-"region": "West Coast",
-"url": "https://www.liftopia.com/revelstoke-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/f4b13c583fe655708b07e12c3cbf368f",
-"image": "revelstoke_bis.jpg",
-"image_credit": "Image courtesy of Ian Houghton",
-"quote": "The world doesn't know how amazing this place is."
-},
-{
-"name": "Shanty Creek Resorts, MI",
-"region": "Midwest",
-"url": "https://www.liftopia.com/shanty-creek",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/d6772d1d1e80c12ae2614d3fb8b556d6",
-"image": "shanty_creek_mi_bis_feature.jpg",
-"image_credit": "Image courtesy of Shanty Creek Resorts",
-"quote": "Well-maintained and good snowmaking."
-},
-{
-"name": "Silverton Mountain, CO",
-"region": "High West",
-"url": "https://www.liftopia.com/silverton-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/b8c08f4d1549d3077b49088c7d2931f2",
-"image": "silverton_mountain_co_bis_feature.jpg",
-"image_credit": "Image courtesy of Silverton Mountain",
-"quote": "Deep powder and steep terrain is around every corner."
-},
-{
-"name": "Ski Cooper, CO",
-"region": "High West",
-"url": "https://www.liftopia.com/ski-cooper",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/2a325deb0d1039aeb57969873ce41f14",
-"image": "",
-"image_credit": "",
-"quote": "Wide runs and great prices for someone just starting."
-},
-{
-"name": "Smugglers' Notch, VT",
-"region": "Northeast",
-"url": "https://www.liftopia.com/smugglers-notch",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/cb7d5a3b702bb8ec412303e3705aedd4",
-"image": "smugglers_notch_vt_bis_feature.jpg",
-"image_credit": "Image courtesy of Smugglers' Notch",
-"quote": "With a variety of terrain and progression-based approach, Smuggs has a great beginner-friendly resort culture."
-},
-{
-"name": "Snow Ridge, NY",
-"region": "Northeast",
-"url": "https://www.liftopia.com/snow-ridge",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/7ae8c73101d1af21e54ffc92ff4fc245",
-"image": "snow_ridge_ny_bis_feature.jpg",
-"image_credit": "Image courtesy of Snow Ridge",
-"quote": "Inexpensive and terrain for all levels."
-},
-{
-"name": "Snow Valley, CA",
-"region": "West Coast",
-"url": "https://www.liftopia.com/snow-valley",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/85fe7120f1b38d9f2c7fe01b7d181f38",
-"image": "",
-"image_credit": "",
-"quote": "The price is right for beginners. Majority of the runs are easy and wide open."
-},
-{
-"name": "Snowbird, UT",
-"region": "High West",
-"url": "https://www.liftopia.com/snowbird",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/48eb681ceae025ea4411fdc4245f7c3c",
-"image": "snowbird_ut_bis_feature.jpg",
-"image_credit": "Image courtesy of Snowbird",
-"quote": "Snowfall is unbelievable. Nothing can rival this mountain for consistent snowfall."
-},
-{
-"name": "Snowshoe Mountain, WV",
-"region": "Southeast",
-"url": "https://www.liftopia.com/snowshoe-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/cf138c47c78609c098c30196f306c4e1",
-"image": "",
-"image_credit": "",
-"quote": "A lot of different trails and a lot of open space!"
-},
-{
-"name": "Snowy Range, WY",
-"region": "High West",
-"url": "https://www.liftopia.com/snowy-range",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/80cdb3c82b90d45ff941dfbf87975acb",
-"image": "snowy_range_wy_bis_feature.jpg",
-"image_credit": "Image courtesy of Snowy Range",
-"quote": "The quality and the integrity of the instructors are beyond compare."
-},
-{
-"name": "Soldier Mountain, ID",
-"region": "High West",
-"url": "https://www.liftopia.com/soldier-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/e79e9e0fa6ab843b3958f7ecb2090eb0",
-"image": "soldier_mountain_id_bis_feature.jpg",
-"image_credit": "Image courtesy of Soldier Mountain",
-"quote": "Totally empty always, which is great for me."
-},
-{
-"name": "Solitude Mountain Resort, UT",
-"region": "High West",
-"url": "https://www.liftopia.com/solitude-mountain-resort",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/b39d6416b8154f6b5562cf4b47bb0fd9",
-"image": "solitude_ut_bis_feature.jpg",
-"image_credit": "Image courtesy of Solitude Mountain Resort",
-"quote": "Great price for Utah and a very family-friendly place."
-},
-{
-"name": "Squaw Valley, CA",
-"region": "West Coast",
-"url": "https://www.liftopia.com/squaw-valley-usa",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/5e269fbcaa3466a591e36df9cba7d78d",
-"image": "squaw_valley_ca_bis_feature.jpg",
-"image_credit": "Image courtesy of Squaw Valley CA",
-"quote": "Just awesome!"
-},
-{
-"name": "Stowe, VT",
-"region": "Northeast",
-"url": "https://www.liftopia.com/stowe",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/a47e25115c7f0bb57dc8fcd219e3fd22",
-"image": "stowe02_bis.jpg",
-"image_credit": "Image courtesy of Stowe",
-"quote": "Plentiful natural snow and world-class snowmaking."
-},
-{
-"name": "Sugar Bowl, CA",
-"region": "West Coast",
-"url": "https://www.liftopia.com/sugar-bowl",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/9e778f0e6bf0d9b472399809b54fdcba",
-"image": "",
-"image_credit": "",
-"quote": "Tahoe’s deepest!"
-},
-{
-"name": "Sugar Mountain, NC",
-"region": "Southeast",
-"url": "https://www.liftopia.com/sugar-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/64c9963f4a2b7a76551a2e380584981e",
-"image": "",
-"image_credit": "",
-"quote": "It's usually not as crowded as other resorts."
-},
-{
-"name": "Sugarloaf, ME",
-"region": "Northeast",
-"url": "https://www.liftopia.com/sugarloaf",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/d34005555257eeecb4ebba519c90c791",
-"image": "sugarloaf_me_bis_feature.jpg",
-"image_credit": "Image courtesy of Sugarloaf",
-"quote": "The only above-treeline skiing in New England."
-},
-{
-"name": "Sun Peaks Resort, BC",
-"region": "West Coast",
-"url": "https://www.liftopia.com/sun-peaks-resort",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/249c28da58eeed333256b3e429693de0",
-"image": "sun_peaks_bis.jpg",
-"image_credit": "Image courtesy of Sun Peaks",
-"quote": "Plenty of options for skiing and non-ski activities...all right there!"
-},
-{
-"name": "Sundance Resort, UT",
-"region": "High West",
-"url": "https://www.liftopia.com/sundance",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/9dc1a05c35ed4a63fdc5a16fbe20b6e9",
-"image": "",
-"image_credit": "",
-"quote": "It has a lot of beginner areas, a great atmosphere for new people, and is very economic."
-},
-{
-"name": "Sunday River, ME",
-"region": "Northeast",
-"url": "https://www.liftopia.com/sunday-river",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/42aecbed5c1c0d759b5f5e81aa4ea1ff",
-"image": "sunday-river-bis.jpg",
-"image_credit": "Image courtesy of Sunday River",
-"quote": "Phenomenal snowmaking and grooming."
-},
-{
-"name": "Tahoe Donner, CA",
-"region": "West Coast",
-"url": "https://www.liftopia.com/tahoe-donner",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/83af3b9b26dd4119d9bfc0a85d03ac3e",
-"image": "tahoe-donner-ca-bis.jpg",
-"image_credit": "Image courtesy of Tahoe Donner",
-"quote": "Tahoe Donner offers a small, safe area where beginners can gain confidence quickly."
-},
-{
-"name": "Tamarack Resort, ID",
-"region": "High West",
-"url": "https://www.liftopia.com/tamarack-resort",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/a8d6423447039faff66d165fba6f5fd9",
-"image": "tamarack_resort_id_bis_feature.jpg",
-"image_credit": "Image courtesy of Tamarack Resort",
-"quote": "It's pretty typical to find a powder hole where you can keep coming back to, and all the tracks are your own."
-},
-{
-"name": "Taos Ski Valley, NM",
-"region": "High West",
-"url": "https://www.liftopia.com/taos",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/1606ec21651794d0de3b6096c597d6e3",
-"image": "",
-"image_credit": "",
-"quote": "TAOS is a four letter word for steep!"
-},
-{
-"name": "Telluride, CO",
-"region": "High West",
-"url": "https://www.liftopia.com/telluride",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/e7e96bcdf217397c86b23b6203b6b166",
-"image": "",
-"image_credit": "",
-"quote": ""
-},
-{
-"name": "The Whitecap Mountains, WI",
-"region": "Midwest",
-"url": "https://www.liftopia.com/whitecap-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/2a1423731f4fdc5a54b34a3ce971a83f",
-"image": "",
-"image_credit": "",
-"quote": "Most terrain options in the area."
-},
-{
-"name": "Timberline Four Seasons Resort, WV",
-"region": "Southeast",
-"url": "https://www.liftopia.com/timberline-four-seasons-resort",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/230eadf7b89843e362d4514f24e97988",
-"image": "",
-"image_credit": "",
-"quote": "Remote. Less known. Good trails."
-},
-{
-"name": "Treetops Resort, MI",
-"region": "Midwest",
-"url": "https://www.liftopia.com/treetops",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/46369e6938aa6badcef30ceb2f14492d",
-"image": "treetops_mi_bis_feature.jpg",
-"image_credit": "Image courtesy of Treetops Resort",
-"quote": "Perfect size to let the kids have freedom but still be able to keep track of everyone."
-},
-{
-"name": "Whistler Blackcomb, BC",
-"region": "West Coast",
-"url": "https://www.liftopia.com/whistler-blackcomb",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/6eda538164550cfa3b546b29815579a4",
-"image": "whistler_blackcomb_bis.jpg",
-"image_credit": "Image by Paul Morrison",
-"quote": "The resort is HUGE. Lots of options on where and what terrain to ride."
-},
-{
-"name": "Whiteface - Lake Placid, NY",
-"region": "Northeast",
-"url": "https://www.liftopia.com/whiteface",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/11817cf9b769247063637463f095fd8c",
-"image": "whiteface_ny_bis_feature.jpg",
-"image_credit": "Image courtesy of Whiteface - Lake Placid",
-"quote": "World-class skiing with the toughest conditions in the US."
-},
-{
-"name": "Wildcat Mountain, NH",
-"region": "Northeast",
-"url": "https://www.liftopia.com/wildcat",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/96db1a602a2286cd131801095054accb",
-"image": "",
-"image_credit": "",
-"quote": "Natural and wild, the way skiing is meant to be!"
-},
-{
-"name": "Winterplace, WV",
-"region": "Southeast",
-"url": "https://www.liftopia.com/winterplace",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/64fc86c25fbb34d5a7f93241ff92a49e",
-"image": "",
-"image_credit": "",
-"quote": "Lots of good, beginner terrain."
-},
-{
-"name": "Wisp, MD",
-"region": "Southeast",
-"url": "https://www.liftopia.com/wisp",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/ab4f3cf6f08e578bb6a50db4f6956270",
-"image": "wisp-resort-best-in-snow-awards-2016.jpg",
-"image_credit": "Image courtesy of Wisp",
-"quote": "Small, family-friendly place. Fabulous in a snowstorm."
-},
-{
-"name": "Wolf Creek, CO",
-"region": "High West",
-"url": "https://www.liftopia.com/wolf-creek-co",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/285e860461d5a51c371b1c84d3c5685e",
-"image": "",
-"image_credit": "",
-"quote": "Great base early on and usually gets more than 400 inches."
-},
-{
-"name": "Wolf Ridge, NC",
-"region": "Southeast",
-"url": "https://www.liftopia.com/wolf-ridge",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/ea3d80ca2bee3f5b51c9d9981a6ebc4d",
-"image": "wolf_ridge_bis.jpg",
-"image_credit": "Image courtesy of Wolf Ridge",
-"quote": "Small resort that's good for families."
-},
-{
-"name": "Afton Alps, MN",
-"region": "Midwest",
-"url": "https://www.liftopia.com/afton-alps",
-"logo": "https://www.dropbox.com/s/yhhkowq8n7h51fq/afton%20alps%20logo.jpg?dl=0",
-"image": "",
-"image_credit": "",
-"quote": "Lots of different runs. Multiple magic carpets. Affordable. Free parking that is next to the lifts."
-},
-{
-"name": "Swain Resort, NY",
-"region": "Northeast",
-"url": "https://www.liftopia.com/alpine-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/f9ccc39727c0ad302b87cbfa58832325",
-"image": "",
-"image_credit": "",
-"quote": "Even when Swain is busy, it isn't busy."
-},
-{
-"name": "Apple Mountain, MI",
-"region": "Midwest",
-"url": "https://www.liftopia.com/apple-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/a7d5c268f956fb36b542719117edc0f1",
-"image": "",
-"image_credit": "",
-"quote": "Powder!"
-},
-{
-"name": "Yosemite Ski & Snowboard Area, CA",
-"region": "West Coast",
-"url": "https://www.liftopia.com/badger-pass",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/3606533e77db56f266edbb4b26b4347e",
-"image": "yosemite_ski_bis.jpg",
-"image_credit": "Image courtesy of Yosemite Park",
-"quote": "Easygoing, beautiful hill, affordable prices, great teachers."
-},
-{
-"name": "Bottineau Winter Park, ND",
-"region": "Midwest",
-"url": "https://www.liftopia.com/bottineau-winter-park",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/b31fbe41d06b9ccda4e9cdf89de033eb",
-"image": "",
-"image_credit": "",
-"quote": "Start small, you will go far! What they lack in vertical, they make up w/the hospitality."
-},
-{
-"name": "Brantling Ski Slopes, NY",
-"region": "Northeast",
-"url": "https://www.liftopia.com/brantling-ski-slopes",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/48ca49c3e308c8d5a1a850b753f7ac82",
-"image": "",
-"image_credit": "",
-"quote": "Great staff. Small groups. Appropriate terrain."
-},
-{
-"name": "Burke Mountain, VT",
-"region": "Northeast",
-"url": "https://www.liftopia.com/burke-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/dba7a81033ca14dc28f5508fd9036ce0",
-"image": "burke_bis.jpg",
-"image_credit": "Image courtesy of Burke Mountain",
-"quote": "Learned here and taught my children. Excellent school programs."
-},
-{
-"name": "Christmas Mountain, WI",
-"region": "Midwest",
-"url": "https://www.liftopia.com/christmas-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/260ec534cfcc1e7d27f7ce89be20560e",
-"image": "",
-"image_credit": "",
-"quote": "Beginner hill is very large and open with a tow rope."
-},
-{
-"name": "Crystal Mountain BC, CAN",
-"region": "West Coast",
-"url": "https://www.liftopia.com/crystal-mountain-bc",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/d8a457c07bc3e899db209e36c8e4e81e",
-"image": "",
-"image_credit": "",
-"quote": "Good snow."
-},
-{
-"name": "Deer Valley, UT",
-"region": "High West",
-"url": "https://www.liftopia.com/deer-valley",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/861a89c7bd1884351edaa9014a85f832",
-"image": "deer_valley_bis.jpg",
-"image_credit": "Image courtesy of Deer Valley UT",
-"quote": "Excellent grooming on top of great snow. The world's best grooming team."
-},
-{
-"name": "Devils Elbow ON, CAN",
-"region": "Mid West",
-"url": "https://www.liftopia.com/devils-elbow",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/d4251ac119eaa61f6a18363b640f7df5",
-"image": "",
-"image_credit": "",
-"quote": "Good hill to learn on and reasonably priced."
-},
-{
-"name": "Dodge Ridge, CA",
-"region": "West Coast",
-"url": "https://www.liftopia.com/dodge-ridge",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/faf6a4e33dc929012a6f63fd49a0faa7",
-"image": "",
-"image_credit": "",
-"quote": "Out of the way, great family area & no crowds."
-},
-{
-"name": "Echo Mountain, CO",
-"region": "High West",
-"url": "https://www.liftopia.com/echo-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/bef52302588865dfdfe961ade290a573",
-"image": "echo_mountain_bis.jpg",
-"image_credit": "Image courtesy of Echo Mountain CO",
-"quote": "Very family friendly and small enough so kids can't get lost going off on their own."
-},
-{
-"name": "Four Lakes, IL",
-"region": "Midwest",
-"url": "https://www.liftopia.com/four-lakes-village",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/6077f2214214d8281c72cf8088bbe5f8",
-"image": "",
-"image_credit": "",
-"quote": "Most people there are beginners and will be at your same level."
-},
-{
-"name": "Howelsen Hill Ski Area, CO",
-"region": "High West",
-"url": "https://www.liftopia.com/howelsen-hill-ski-area",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/887541fd747012feb21e0603780aa224",
-"image": "",
-"image_credit": "",
-"quote": "No crowds, perfect terrain"
-},
-{
-"name": "Little Switzerland, WI",
-"region": "Midwest",
-"url": "https://www.liftopia.com/little-switzerland",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/0e4cb9962d6d33817560adf7631ffd2e",
-"image": "",
-"image_credit": "",
-"quote": "Being a Midwest resort can be a challenge with weather, yet Switzerland continues to strive and excel in maintaining its hill."
-},
-{
-"name": "Loup Loup Ski Bowl, WA",
-"region": "West Coast",
-"url": "https://www.liftopia.com/loup-loup-ski-bowl",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/053959c72b39e1d5ee52ae4b23cb202b",
-"image": "",
-"image_credit": "",
-"quote": "Great hole-in-the-wall ski area."
-},
-{
-"name": "Loveland Ski Area, CO",
-"region": "High West",
-"url": "https://www.liftopia.com/loveland",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/ddf0a3bf1fa1cbfb24b4d78479a28c9f",
-"image": "",
-"image_credit": "",
-"quote": "Some of the easiest, widest, and longest greens I've seen. But also a great place to work up to some blacks and trees."
-},
-{
-"name": "Manning Park Resort BC, CAN",
-"region": "West Coast",
-"url": "https://www.liftopia.com/manning-park-resort",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/6f83c0338661570ed1bd6884b65d10b5",
-"image": "",
-"image_credit": "",
-"quote": "Even on busier days, there are no crowds. The staff move people through the lines quickly and efficiently."
-},
-{
-"name": "Maple Ski Ridge, NY",
-"region": "Northeast",
-"url": "https://www.liftopia.com/maple-ski-ridge",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/b19408fa4ad5967cce84731fa86fd028",
-"image": "",
-"image_credit": "",
-"quote": "Amazing lesson program with easy terrain."
-},
-{
-"name": "Ober Gatlinburg, TN",
-"region": "Southeast",
-"url": "https://www.liftopia.com/ober-gatlinburg",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/620aa5c81a39e71bb96051857f82f04d",
-"image": "",
-"image_credit": "",
-"quote": "It's great for the fam!"
-},
-{
-"name": "Otis Ridge, MA",
-"region": "Northeast",
-"url": "https://www.liftopia.com/otis-ridge",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/7f5777400a18f5cf2af078ca6ae3dafa",
-"image": "",
-"image_credit": "",
-"quote": "Quiet, small family area."
-},
-{
-"name": "Pajarito, NM",
-"region": "High West",
-"url": "https://www.liftopia.com/pajarito",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/89457c6ecfadbe9aa466ffb82f07c050",
-"image": "",
-"image_credit": "",
-"quote": "Lesser known yet not far from Albuquerque."
-},
-{
-"name": "Powderhorn, CO",
-"region": "High West",
-"url": "https://www.liftopia.com/powderhorn",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/4c965b76bee451773332d4ce81ded427",
-"image": "",
-"image_credit": "",
-"quote": "This hidden gem on the western slope is short on the crowds and high speed on the lift."
-},
-{
-"name": "Red Lodge Mountain, MT",
-"region": "High West",
-"url": "https://www.liftopia.com/red-lodge-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/7f595073a52891cb78f4537678aa67db",
-"image": "",
-"image_credit": "",
-"quote": "Perfect for someone that doesn't like crowds and loves a challenge!"
-},
-{
-"name": "Sir Sam's ON, CAN",
-"region": "Midwest",
-"url": "https://www.liftopia.com/sir-sam-s",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/10aec84327f5aff2ade38588ba8096ad",
-"image": "",
-"image_credit": "",
-"quote": "No crowds, friendly and safe."
-},
-{
-"name": "Ski Snowstar, IL",
-"region": "Midwest",
-"url": "https://www.liftopia.com/ski-snowstar",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/bba6ba51238b44700af78aac28ac2063",
-"image": "",
-"image_credit": "",
-"quote": "Good for families."
-},
-{
-"name": "Snowbasin, UT",
-"region": "High West",
-"url": "https://www.liftopia.com/snowbasin",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/12535206f01864e40262c8822b920567",
-"image": "",
-"image_credit": "",
-"quote": "The perfect mix of just about everything you could want."
-},
-{
-"name": "Stony Mountain MB, CAN",
-"region": "Midwest",
-"url": "https://www.liftopia.com/stony-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/32c929fd92b54b1924aa9b85a951d016",
-"image": "",
-"image_credit": "",
-"quote": "Friendly staff. Good place to learn."
-},
-{
-"name": "Sugarbush, VT",
-"region": "Northeast",
-"url": "https://www.liftopia.com/sugarbush",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/4951381cb3e8f5a0729d99e1ffed1042",
-"image": "",
-"image_credit": "",
-"quote": "Multiple mountains. Caste rock is ledgendary. Crazy moguls."
-},
-{
-"name": "Sunlight Mountain, CO",
-"region": "High West",
-"url": "https://www.liftopia.com/sunlight",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/42f20f4ca6b4ce51ea7c673f4fdb9c7e",
-"image": "sunlight2_bis.jpeg",
-"image_credit": "Image courtesy of Sunlight Mountain CO",
-"quote": "It's low-key, beautiful, down to earth. Great terrain but you can't get lost. It all leads down to a very modest and friendly lodge."
-},
-{
-"name": "The Omni Homestead Ski Resort, VA",
-"region": "Southeast",
-"url": "https://www.liftopia.com/the-omni-homestead-ski-resort",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/842814ae65daa951c6dcd50e60534810",
-"image": "the_omni_homestead_bis.jpg",
-"image_credit": "Image courtesy of The Omni Homestead Ski Resort VA",
-"quote": "It is never crowded and the beginner runs are good to learn on."
-},
-{
-"name": "Timber Ridge, MI",
-"region": "Midwest",
-"url": "https://www.liftopia.com/timber-ridge",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/aa9a90b93caba02e4ccc045642f463f7",
-"image": "",
-"image_credit": "",
-"quote": "It's not huge, but provides just what we like. Not too crowded and yet skiing is great!"
-},
-{
-"name": "Titus Mountain, NY",
-"region": "Northeast",
-"url": "https://www.liftopia.com/titus-mountain",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/9f69397df4f4561ad2a1d1db05875b7d",
-"image": "titus_mountain_bis.png",
-"image_credit": "Image courtesy of Titus Mountain",
-"quote": "Titus is a great confidence builder! They keep safety first and have incredible snow conditions."
-},
-{
-"name": "Toggenburg, NY",
-"region": "Northeast",
-"url": "https://www.liftopia.com/toggenburg",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/0d26c9f2970941575ae864886ecf3d85",
-"image": "",
-"image_credit": "",
-"quote": ""
-},
-{
-"name": "Tyrol Basin, WI",
-"region": "Midwest",
-"url": "https://www.liftopia.com/tyrol-basin",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/8b6f558ef888771a6c023098e337047b",
-"image": "",
-"image_credit": "",
-"quote": "Great pre-school ski school and magic carpet that leads to the top of a wide gentle slope."
-},
-{
-"name": "Wintergreen Resort, VA",
-"region": "Southeast",
-"url": "https://www.liftopia.com/wintergreen",
-"logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/c4af83965bd22f8eae33aee984dd292c",
-"image": "wintergreen_bis.JPG",
-"image_credit": "Image courtesy of Wintergreen Resort VA",
-"quote": "Good instructors, especially the kids programs. Nice variety and progression of terrain."
-}
+  {
+    "name": "49 Degrees North, WA",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/49-degrees-north",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/6b62c2dce0620b212d56166e9c7382c9",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548454656/Marketing/Campaigns/Best%20In%20Snow%202019/49-degrees-north-WA_BIS_feature_1.jpg",
+    "image_credit": "Image courtesy of 49 Degrees North",
+    "quote": "Mostly natural snow. Limited need for artificial snowmaking."
+  },
+  {
+    "name": "Abenaki Ski Area, NH",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/abenaki-ski-area",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/54e15987c2de67a1f593cdbd4b8df752",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548353208/Marketing/Campaigns/Best%20In%20Snow%202019/abenaki_best_in_snow_2019.jpg",
+    "image_credit": "Image courtesy of Abenaki Ski Area",
+    "quote": "Very inexpensive, safe, warm lodge, community feel."
+  },
+  {
+    "name": "Afton Alps, MN",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/afton-alps",
+    "logo": "https://www.dropbox.com/s/yhhkowq8n7h51fq/afton%20alps%20logo.jpg?dl=0",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957476/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_2.jpg",
+    "image_credit": "",
+    "quote": "Lots of different runs. Multiple magic carpets. Affordable. Free parking that is next to the lifts."
+  },
+  {
+    "name": "Alpine Meadows, CA",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/alpine-meadows",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/313e495497b21a11956cf5fc3d159072.jpg",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548960858/Marketing/Campaigns/Best%20In%20Snow%202019/alpine_meadows_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Alpine Meadows",
+    "quote": ""
+  },
+  {
+    "name": "Alpine Valley Resort, WI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/alpine-valley-resort",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/6e673fe140ded6113bbb85c429c6ca2e",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548352866/Marketing/Campaigns/Best%20In%20Snow%202019/alpine_valley_wi_best_in_snow_2019.jpg",
+    "image_credit": "",
+    "quote": "Extremely family-friendly and affordable. Provides enough terrain to get the basics down."
+  },
+  {
+    "name": "Alpine Valley, OH",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/alpine-valley-oh",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/229bd24723ef871d0bf6d90ccf9a56b7",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957475/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_1.jpg",
+    "image_credit": "",
+    "quote": "Shortest lift lines in Ohio."
+  },
+  {
+    "name": "Alpine Valley, MI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/alpinevalleymichigan",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/33e517b8b204cc6d84a981d78dbadbc0.jpg",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957476/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_2.jpg",
+    "image_credit": "",
+    "quote": ""
+  },
+  {
+    "name": "Alta, UT",
+    "region": "High West",
+    "url": "https://www.liftopia.com/alta",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/d38d5ebc3574c9d1dc799309fe47a7be",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282026/Marketing/Campaigns/Best%20In%20Snow%202019/Alta_UT_BIS_feature_5.jpg",
+    "image_credit": "Image courtesy of Alta",
+    "quote": "Best snow in the USA. They have snow when others don't."
+  },
+  {
+    "name": "Alyeska, AK",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/alyeska-resort",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/18f4b86be09d1362bb40d0e97c8fa72e",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548963703/Marketing/Campaigns/Best%20In%20Snow%202019/alyeska_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Alyeska",
+    "quote": "Best in Alaska. Deep powder, expert terrain and beautiful views."
+  },
+  {
+    "name": "Anthony Lakes, OR",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/ski-anthony-lakes",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/5cafe069a206534537c82b595563cb10",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282026/Marketing/Campaigns/Best%20In%20Snow%202019/Anthony_Lakes_OR_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Anthony Lakes",
+    "quote": "Anthony Lakes is small, friendly, family-oriented and personal."
+  },
+  {
+    "name": "Apple Mountain, MI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/apple-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/a7d5c268f956fb36b542719117edc0f1",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957475/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_1.jpg",
+    "image_credit": "",
+    "quote": "Powder!"
+  },
+  {
+    "name": "Arapahoe Basin, CO",
+    "region": "High West",
+    "url": "https://www.liftopia.com/arapahoe-basin",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/97e4d3e098f8ee8ced72d22d151efc64",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548887140/Marketing/Campaigns/Best%20In%20Snow%202019/arapahoe_basin_best_in_smnow_2019.png",
+    "image_credit": "Image courtesy of  Arapahoe Basin",
+    "quote": "Best price, small crowds and great snow."
+  },
+  {
+    "name": "Bald Mountain, ID",
+    "region": "High West",
+    "url": "https://www.liftopia.com/skibaldmountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/d9ed5bf1f28b03103161fef2dd00f829",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282026/Marketing/Campaigns/Best%20In%20Snow%202019/Bald_Mountain_ID_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Bald Mountain",
+    "quote": "Inexpensive, good terrain, not overly populated."
+  },
+  {
+    "name": "Bear Valley, CA",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/bear-valley",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/7110056e939dfabff0596ac58816f014",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548963704/Marketing/Campaigns/Best%20In%20Snow%202019/bear_valley_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Bear Valley",
+    "quote": "Compact layout allows you to let your children ski freely. Friendly staff and family oriented."
+  },
+  {
+    "name": "Beech Mountain Resort, NC",
+    "region": "Southeast",
+    "url": "https://www.liftopia.com/beech-mtn",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/0fed3340e170f6e48bb0e0dca3413712",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548888533/Marketing/Campaigns/Best%20In%20Snow%202019/Beech_Mtn_Resort_best_in_snow_2019.jpg",
+    "image_credit": "Image courtesy of Beech Mountain Resort",
+    "quote": "Great mountain for families with a variety of terrain to learn and grown on."
+  },
+  {
+    "name": "Belleayre, NY",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/belleayre",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/ea5abadf4c3979000e4a4a1c8355cc59",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548286509/Marketing/Campaigns/Best%20In%20Snow%202019/Belleayre_2.jpg",
+    "image_credit": "Image courtesy of Belleayre",
+    "quote": "Beginner area is separated from the main mountain so beginners can have a safe, non-intimidating environment to learn."
+  },
+  {
+    "name": "Big Sky, MT",
+    "region": "High West",
+    "url": "https://www.liftopia.com/big-sky",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/9fbfea0a4e64087eafe54ab7df2a2d15",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548285287/Marketing/Campaigns/Best%20In%20Snow%202019/big_sky_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Big Sky",
+    "quote": "Such diverse terrain."
+  },
+  {
+    "name": "Big Squaw Mountain, ME",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/big-squaw-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/07d7dad04437a56da66fb67c5efc3f71",
+    "image": "",
+    "image_credit": "Image courtesy of Big Squaw Mountain",
+    "quote": "Great skiing and no lift lines."
+  },
+  {
+    "name": "Black Mountain Ski Area, NH",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/black-mountain-nh",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/a628a4809424cd5f704feba354c5dff7",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548883016/Marketing/Campaigns/Best%20In%20Snow%202019/black_mountain_best_in_snow_2019.jpg",
+    "image_credit": "Image courtesy of Black Mountain Ski Area",
+    "quote": "Small, uncrowded, good instructors."
+  },
+  {
+    "name": "Bolton Valley, VT",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/bolton-valley",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/9e148ccfd7b243a9d1ef05dec5ec7841",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282036/Marketing/Campaigns/Best%20In%20Snow%202019/bolton-valley-best-in-snow-awards-2016.jpg",
+    "image_credit": "Image courtesy of Bolton Valley",
+    "quote": "Awesome family resort."
+  },
+  {
+    "name": "Boreal Mountain, CA",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/boreal",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/f5a770c86ad7a454ce8acf8593e980f6",
+    "image": "",
+    "image_credit": "Image courtesy of Boreal Mountain",
+    "quote": "Small mountain with terrain for EVERY skill level. There are bunny slopes and magic carpets, and then there's the progression parks and the Woodward training facility."
+  },
+  {
+    "name": "Bottineau Winter Park, ND",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/bottineau-winter-park",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/b31fbe41d06b9ccda4e9cdf89de033eb",
+    "image": "",
+    "image_credit": "",
+    "quote": "Start small, you will go far! What they lack in vertical, they make up w/the hospitality."
+  },
+  {
+    "name": "Bousquet, MA",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/bousquet",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/3674731af741dff0b378d7f3cf361f8b.png",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548286888/Marketing/Campaigns/Best%20In%20Snow%202019/bousquet_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Bousquet",
+    "quote": ""
+  },
+  {
+    "name": "Boyne Highlands, MI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/boyne-highlands",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/a0b7d14bdd95d2b9312cd006232b2c4a",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548959724/Marketing/Campaigns/Best%20In%20Snow%202019/boyne-highlands-mi-best-in-snow-awards-2016.jpg",
+    "image_credit": "Image courtesy of Boyne Highlands",
+    "quote": "Good variety of terrain on fairly short runs and fast lifts."
+  },
+  {
+    "name": "Boyne Mountain, MI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/boyne-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/198398716b4a0d245cdeff0580ae9eb1",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548959726/Marketing/Campaigns/Best%20In%20Snow%202019/boyne_mountain_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Boyne Mountain",
+    "quote": "Most vertical in Michigan."
+  },
+  {
+    "name": "Brantling Ski Slopes, NY",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/brantling-ski-slopes",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/48ca49c3e308c8d5a1a850b753f7ac82",
+    "image": "",
+    "image_credit": "",
+    "quote": "Great staff. Small groups. Appropriate terrain."
+  },
+  {
+    "name": "Bretton Woods, NH",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/bretton-woods",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/147f0026f0a4546c7590bc19006e8cd1",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282027/Marketing/Campaigns/Best%20In%20Snow%202019/bretton-woods-vt-best-in-snow-awards-2016.jpg",
+    "image_credit": "Image courtesy of Bretton Woods",
+    "quote": "Amazing variety of terrain and phenomenal views of Mt. Washington."
+  },
+  {
+    "name": "Brian Head, UT",
+    "region": "High West",
+    "url": "https://www.liftopia.com/brian-head",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/74ccc95f89d15fefb07a36db4dc81d5f.jpg",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957475/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_1.jpg",
+    "image_credit": "",
+    "quote": ""
+  },
+  {
+    "name": "Brighton, UT",
+    "region": "High West",
+    "url": "https://www.liftopia.com/brighton",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/b6ab7b6ba159129d6779e2eff0793bb0",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957476/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_2.jpg",
+    "image_credit": "",
+    "quote": "The terrain is conducive to learning and the staff of instructors is very patient and skilled."
+  },
+  {
+    "name": "Bromley Mountain, VT",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/bromley-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/40bd62ed969097718d39270a8f04bb60",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548287682/Marketing/Campaigns/Best%20In%20Snow%202019/Bromley_Mountain_VT_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Bromley Mountain",
+    "quote": "Good beginner deals, ski school, and rental equipment. All trails meet at same place so it's easy to find the other people you are with."
+  },
+  {
+    "name": "Bruce Mound, WI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/brucemound",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/defaults/default_logo_1.png",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957475/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_1.jpg",
+    "image_credit": "",
+    "quote": ""
+  },
+  {
+    "name": "Bryce Resort, VA",
+    "region": "Southeast",
+    "url": "https://www.liftopia.com/bryce-resort",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/99f966dd904812502be47bd1d1c9621c",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957475/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_1.jpg",
+    "image_credit": "",
+    "quote": "Both staff and terrain make this a great place to learn."
+  },
+  {
+    "name": "Buck Hill, MN",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/buck-hill",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/e2df4188d27ee91926707dbccb306a8d",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548958609/Marketing/Campaigns/Best%20In%20Snow%202019/buck_hill_best_in_snow_2019.jpg",
+    "image_credit": "Image courtesy of Buck Hill",
+    "quote": "Great beginner terain and ski school for adults and kids."
+  },
+  {
+    "name": "Burke Mountain, VT",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/burke-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/dba7a81033ca14dc28f5508fd9036ce0",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548882907/Marketing/Campaigns/Best%20In%20Snow%202019/burke_mountain_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Burke Mountain",
+    "quote": "Learned here and taught my children. Excellent school programs."
+  },
+  {
+    "name": "Caberfae Peaks, MI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/caberfae-peaks",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/83ee0f8820d1fdad69abce9a5484a3de",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282032/Marketing/Campaigns/Best%20In%20Snow%202019/Caberfae_Peaks_MI_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Caberfae Peaks",
+    "quote": "The terrain is perfect for beginners and the lodge is picnic friendly."
+  },
+  {
+    "name": "Canaan Valley, WV",
+    "region": "Southeast",
+    "url": "https://www.liftopia.com/canaan-valley",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/b3e6c6b800afeb1226df4dfedd7e1888",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548888111/Marketing/Campaigns/Best%20In%20Snow%202019/canaan_valley_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Canaan Valley",
+    "quote": "Great long runs for all skill levels. Learning area is designated for beginners and staff is always willing to help."
+  },
+  {
+    "name": "Cannon Mountain, NH",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/cannon-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/5f973dc50ed934a30ee345a8ec855e71",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957476/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_2.jpg",
+    "image_credit": "",
+    "quote": "Olympic medalist Bode Miller trained there for most of his life. I've said enough."
+  },
+  {
+    "name": "Cascade Mountain, WI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/cascade-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/06a637cb7548d3bd27216be756102421",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548896465/Marketing/Campaigns/Best%20In%20Snow%202019/cascade_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Cascade Mountain",
+    "quote": "Beautiful. Great packages for beginners. Wonderful instructors. Top notch facilities and staff."
+  },
+  {
+    "name": "Cataloochee, NC",
+    "region": "Southeast",
+    "url": "https://www.liftopia.com/cataloochee",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/8e24fb035a77db791e23518dc68d72ec",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548960511/Marketing/Campaigns/Best%20In%20Snow%202019/cataloochee_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Cataloochee",
+    "quote": "It is our local hill with a fun bunch of instructors."
+  },
+  {
+    "name": "Chestnut Mountain, IL",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/chestnut-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/1ac43a366cee40572a42268d13b5ddca",
+    "image": "",
+    "image_credit": "",
+    "quote": "They have two great bunny hills that are perfect for beginners and intermediates. It's one of the best spots to practice."
+  },
+  {
+    "name": "Christmas Mountain, WI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/christmas-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/260ec534cfcc1e7d27f7ce89be20560e",
+    "image": "",
+    "image_credit": "",
+    "quote": "Beginner hill is very large and open with a tow rope."
+  },
+  {
+    "name": "Cranmore Mountain, NH",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/cranmore",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/c450a1ab41e1ee10b5fa74a1a5dbe9de",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548882775/Marketing/Campaigns/Best%20In%20Snow%202019/cranmore_nh_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Cranmore",
+    "quote": "The mountain has Terrain Based Learning, which has made teaching never-ever's so much easier and faster."
+  },
+  {
+    "name": "Crested Butte, CO",
+    "region": "High West",
+    "url": "https://www.liftopia.com/crested-butte",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/cb64700710cf142d1d674ffb9ae5f6f9",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282027/Marketing/Campaigns/Best%20In%20Snow%202019/Crested_Butte_CO_BIS_feature.jpg",
+    "image_credit": "",
+    "quote": ""
+  },
+  {
+    "name": "Crystal Mountain BC, CAN",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/crystal-mountain-bc",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/d8a457c07bc3e899db209e36c8e4e81e",
+    "image": "",
+    "image_credit": "",
+    "quote": "Good snow."
+  },
+  {
+    "name": "Crystal Mountain, MI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/crystal-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/9e38e41ba02c0e0d1eab22c8e9fc12c8",
+    "image": "",
+    "image_credit": "Image courtesy of Crystal Mountain",
+    "quote": "Excellent instructors that really treat you like a family member. We love the ski lessons here and so do our kids!"
+  },
+  {
+    "name": "Crystal Mountain, WA",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/crystal-mountain-wa",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/347ee1351e0907b6ec806621adb438bd",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957476/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_2.jpg",
+    "image_credit": "",
+    "quote": "Even on powder days, the crowds are small and lift lines quick."
+  },
+  {
+    "name": "Dagmar Resort, ON",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/dagmar-ski-resort",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/7da65cfc803977e0467d8242f7f018a0.jpg",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548289752/Marketing/Campaigns/Best%20In%20Snow%202019/dagmar-ski-resort-3_best_in_snow_2019.jpg",
+    "image_credit": "Image courtesy of Dagmar Resort",
+    "quote": ""
+  },
+  {
+    "name": "Deer Valley, UT",
+    "region": "High West",
+    "url": "https://www.liftopia.com/deer-valley",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/861a89c7bd1884351edaa9014a85f832",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548886122/Marketing/Campaigns/Best%20In%20Snow%202019/deer_valley_best_in_snow_2019.jpg",
+    "image_credit": "Image courtesy of Deer Valley UT",
+    "quote": "Excellent grooming on top of great snow. The world's best grooming team."
+  },
+  {
+    "name": "Devil's Head, WI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/devils-head",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/e9eec48254e8ac6e3fc8384bf330f15b",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282032/Marketing/Campaigns/Best%20In%20Snow%202019/Devils_Head_WI_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Devil's Head",
+    "quote": "Off the beaten path & never seems overly crowded."
+  },
+  {
+    "name": "Devils Elbow ON, CAN",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/devils-elbow",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/d4251ac119eaa61f6a18363b640f7df5",
+    "image": "",
+    "image_credit": "",
+    "quote": "Good hill to learn on and reasonably priced."
+  },
+  {
+    "name": "Diamond Peak, NV",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/diamond-peak",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/ca498b632d11a5711e3edb455af8737b",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548288334/Marketing/Campaigns/Best%20In%20Snow%202019/Diamond_Peak_CA_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Diamond Peak",
+    "quote": "Not crowded, excellent instructors, not expensive. There's even a model lift to learn how to get on and off a lift."
+  },
+  {
+    "name": "Discovery, MT",
+    "region": "High West",
+    "url": "https://www.liftopia.com/discovery",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/c6b946bb5fffd9e0be1cbea18aebff11",
+    "image": "",
+    "image_credit": "Image courtesy of Discovery",
+    "quote": "No one there on weekdays, not too crowded on weekends. One of Montana's best kept secrets!"
+  },
+  {
+    "name": "Dodge Ridge, CA",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/dodge-ridge",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/faf6a4e33dc929012a6f63fd49a0faa7",
+    "image": "",
+    "image_credit": "",
+    "quote": "Out of the way, great family area & no crowds."
+  },
+  {
+    "name": "Eagle Point, UT",
+    "region": "High West",
+    "url": "https://www.liftopia.com/eagle-point",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/4e4d91a2fac4f23e3dc925210ab1d555",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282050/Marketing/Campaigns/Best%20In%20Snow%202019/eagle-point-ut-best-in-snow-awards-2016.jpg",
+    "image_credit": "Image courtesy of Eagle Point",
+    "quote": "Mild slopes, few crowds and very friendly staff."
+  },
+  {
+    "name": "Echo Mountain, CO",
+    "region": "High West",
+    "url": "https://www.liftopia.com/echo-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/bef52302588865dfdfe961ade290a573",
+    "image": "",
+    "image_credit": "Image courtesy of Echo Mountain CO",
+    "quote": "Very family friendly and small enough so kids can't get lost going off on their own."
+  },
+  {
+    "name": "Falcon Ridge, MB",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/falcon-ridge",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/93e573fc432dc136f90f49d94778cd9c.jpg",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957475/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_1.jpg",
+    "image_credit": "",
+    "quote": ""
+  },
+  {
+    "name": "Four Lakes, IL",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/four-lakes-village",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/6077f2214214d8281c72cf8088bbe5f8",
+    "image": "",
+    "image_credit": "",
+    "quote": "Most people there are beginners and will be at your same level."
+  },
+  {
+    "name": "Grand Targhee, WY",
+    "region": "High West",
+    "url": "https://www.liftopia.com/grand-targhee",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/8251ebbedd9cff03d4e249e5a02d0246",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282028/Marketing/Campaigns/Best%20In%20Snow%202019/Grand_Targhee_WY_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Grand Targhee",
+    "quote": "500+\" of snow annually & champagne powder."
+  },
+  {
+    "name": "Granite Peak, WI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/granite-peak",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/6ab6e19b2c8516a3e45a5c5b89253f62",
+    "image": "",
+    "image_credit": "Image courtesy of Granite Peak",
+    "quote": "More runs to choose from."
+  },
+  {
+    "name": "Highlands of Olympia, WI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/highlands-of-olympia",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/773b59a38583afca0b3dbf65a5c9a3c1.jpg",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957475/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_1.jpg",
+    "image_credit": "",
+    "quote": ""
+  },
+  {
+    "name": "Homewood, CA",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/homewood",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/4485e9803f647a31063a9e4606f8d2c6",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282042/Marketing/Campaigns/Best%20In%20Snow%202019/Homewood_CA_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Homewood",
+    "quote": "Views for days and well priced!"
+  },
+  {
+    "name": "Howelsen Hill Ski Area, CO",
+    "region": "High West",
+    "url": "https://www.liftopia.com/howelsen-hill-ski-area",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/887541fd747012feb21e0603780aa224",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548351114/Marketing/Campaigns/Best%20In%20Snow%202019/howelsen_best_in_snow.jpg",
+    "image_credit": "Image Courtesy of Howelsen Hill",
+    "quote": "No crowds, perfect terrain"
+  },
+  {
+    "name": "Jackson Hole, WY",
+    "region": "High West",
+    "url": "https://www.liftopia.com/jackson-hole",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/85ba0e4f5e16f434bb8f91b89ab8e443",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282031/Marketing/Campaigns/Best%20In%20Snow%202019/Jackson_Hole_WY_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Jackson Hole",
+    "quote": "Plenty of natural snowfall throughout the season. "
+  },
+  {
+    "name": "Jay Peak, VT",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/jay-peak",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/cff3e64790aa3f177a8b733e103da1e2",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548285003/Marketing/Campaigns/Best%20In%20Snow%202019/pr-jay-peak-vt-best-in-snow-awards-2016.jpg",
+    "image_credit": "Image courtesy of Jay Peak",
+    "quote": "Best glades in the east."
+  },
+  {
+    "name": "June Mountain, CA",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/june",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/da97759ad15f3f4a16a866b97ef2fc66",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548963704/Marketing/Campaigns/Best%20In%20Snow%202019/june_mountain_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of June Mountain",
+    "quote": "Low crowd levels. FANTASTIC lifties. Geared towards families and kids."
+  },
+  {
+    "name": "Kicking Horse, BC",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/kicking-horse",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/6bdc9fb630cb5c40d9c993414225f7ab",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548963704/Marketing/Campaigns/Best%20In%20Snow%202019/kicking_horse_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Kicking Horse",
+    "quote": "So much open terrain, and never a big crowd."
+  },
+  {
+    "name": "Killington, VT",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/killington",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/1e044285705a185acd88a252b4dc5f32",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548375326/Marketing/Campaigns/Best%20In%20Snow%202019/killington_best_in_snow_2019.jpg",
+    "image_credit": "Image courtesy of Killington",
+    "quote": "Incredible snowmaking and grooming capability. Consistently first to open and last to close in New England."
+  },
+  {
+    "name": "King Pine, NH",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/king-pine",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/1a610d78e70edb8ae9a65db0a6b2c87e",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548287078/Marketing/Campaigns/Best%20In%20Snow%202019/king_pine_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of King Pine",
+    "quote": "Gentle terrain and quality snow. Instructors are well trained and make learning a new sport enjoyable."
+  },
+  {
+    "name": "Kirkwood, CA",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/kirkwood",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/9927bd886bdc30314d8816fed9a3743c",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548963704/Marketing/Campaigns/Best%20In%20Snow%202019/kirkwood_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Kirkwood",
+    "quote": "Good vibes, great staff, never too crowded."
+  },
+  {
+    "name": "Kissing Bridge, NY",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/kissing-bridge",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/c74c25a4b9fa8745c54d1c80ec6b2514",
+    "image": "",
+    "image_credit": "Image courtesy of Kissing Bridge",
+    "quote": "Excellent center and staff. Open at night."
+  },
+  {
+    "name": "Little Switzerland, WI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/little-switzerland",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/0e4cb9962d6d33817560adf7631ffd2e",
+    "image": "",
+    "image_credit": "",
+    "quote": "Being a Midwest resort can be a challenge with weather, yet Switzerland continues to strive and excel in maintaining its hill."
+  },
+  {
+    "name": "Loon Mountain, NH",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/loon-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/e2b0ba4de87517ec716e49b015b63db9",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548884397/Marketing/Campaigns/Best%20In%20Snow%202019/loon_mountain_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Loon Mountain",
+    "quote": "Awesome snowmaking system and management."
+  },
+  {
+    "name": "Lost Trail, MT",
+    "region": "High West",
+    "url": "https://www.liftopia.com/lost-trail",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/2592da1ba936af7e28ee991bf590e254",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957476/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_2.jpg",
+    "image_credit": "",
+    "quote": "Snowiest place around. Just rules."
+  },
+  {
+    "name": "Loup Loup Ski Bowl, WA",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/loup-loup-ski-bowl",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/053959c72b39e1d5ee52ae4b23cb202b",
+    "image": "",
+    "image_credit": "",
+    "quote": "Great hole-in-the-wall ski area."
+  },
+  {
+    "name": "Loveland Ski Area, CO",
+    "region": "High West",
+    "url": "https://www.liftopia.com/loveland",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/ddf0a3bf1fa1cbfb24b4d78479a28c9f",
+    "image": "",
+    "image_credit": "",
+    "quote": "Some of the easiest, widest, and longest greens I've seen. But also a great place to work up to some blacks and trees."
+  },
+  {
+    "name": "Lutsen Mountains, MN",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/lutsen-mountains",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/20995ec5cb3ccca6e19f1d2dbaf2fc3c",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548895750/Marketing/Campaigns/Best%20In%20Snow%202019/lutsen_mountains_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Lutsen Mountains",
+    "quote": "Good terrain and long, easy runs."
+  },
+  {
+    "name": "Mad River Glen, VT",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/mad-river-glen",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/d7f8c4455d885a5a8a9524635a4be0af",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548284740/Marketing/Campaigns/Best%20In%20Snow%202019/pr-mad-river-glen-vt-best-in-snow-awards-2016.jpg",
+    "image_credit": "Image courtesy of Mad River Glen",
+    "quote": "Ski it if you can."
+	
+  },
+  {
+    "name": "Magic Mountain, VT",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/magic-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/282b7aa9a459f474bc80fe386b09c702",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548284375/Marketing/Campaigns/Best%20In%20Snow%202019/Magic_Mountain_VT_BIS_feature_1.jpg",
+    "image_credit": "Image courtesy of Magic Mountain",
+    "quote": "Best kept secret in VT. This mountain has a great old school vibe and a great mountain community."
+  },
+  {
+    "name": "Mammoth Mountain, CA",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/mammoth",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/dd07568a668f231eabde87a7d1dcf464",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548963704/Marketing/Campaigns/Best%20In%20Snow%202019/mammoth_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Mammoth Mountain",
+    "quote": "Great mix of terrain and large enough to find empty runs on crowded days."
+  },
+  {
+    "name": "Manning Park Resort BC, CAN",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/manning-park-resort",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/6f83c0338661570ed1bd6884b65d10b5",
+    "image": "",
+    "image_credit": "",
+    "quote": "Even on busier days, there are no crowds. The staff move people through the lines quickly and efficiently."
+  },
+  {
+    "name": "Maple Ski Ridge, NY",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/maple-ski-ridge",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/b19408fa4ad5967cce84731fa86fd028",
+    "image": "",
+    "image_credit": "",
+    "quote": "Amazing lesson program with easy terrain."
+  },
+  {
+    "name": "Massanutten, VA",
+    "region": "Southeast",
+    "url": "https://www.liftopia.com/massanutten",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/7c6c3ccc714a9a52d9ff45d4e7f6a70e",
+    "image": "",
+    "image_credit": "Image courtesy of Massanutten",
+    "quote": "The main green trail by the lodge is perfect to learn on."
+  },
+  {
+    "name": "McCauley Mountain Ski Area, NY",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/mccauley-mountain-ski-area",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/9c5d8c2afd8d0a0be1997fd5c48247bb",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548883408/Marketing/Campaigns/Best%20In%20Snow%202019/mccauley_mountain_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of McCauley Mountain Ski Area",
+    "quote": ""
+  },
+  {
+    "name": "Mount Bohemia, MI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/mount-bohemia",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/66fbfd20b4cc5630cadb4018478b4579",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282028/Marketing/Campaigns/Best%20In%20Snow%202019/Mount_Bohemia_MI_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Mount Bohemia",
+    "quote": "Wicked awesome runs that are challenging and as fast as you can handle. It pushes you to excellence quick."
+  },
+  {
+    "name": "Mount Sunapee, NH",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/mount-sunapee",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/90ca17e7dbb1e64ed9813bbe083161e9",
+    "image": "",
+    "image_credit": "",
+    "quote": "It's obvious snow quality is management's top priority."
+  },
+  {
+    "name": "Mt Baker, WA",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/mt-baker",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/cfdf42a655d9705a9f6dc28e193c6989",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957476/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_2.jpg",
+    "image_credit": "",
+    "quote": "Baker gets the goods."
+  },
+  {
+    "name": "Mt. Rose Ski Tahoe, NV",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/mt-rose",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/8498b8b49c25f2226f6e994606d5e0f3",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282049/Marketing/Campaigns/Best%20In%20Snow%202019/Mt_Rose_NV_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Mt. Rose Ski Tahoe",
+    "quote": "Along with great snowmaking, it has the highest base elevation in the Sierras."
+  },
+  {
+    "name": "Nub's Nob, MI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/nub-s-nob",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/09797a3eb75de846620439e915185d0f",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282044/Marketing/Campaigns/Best%20In%20Snow%202019/Nubs_Nob_MI_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Nub's Nob",
+    "quote": "Evenly groomed, no bare spots. Best groomers ever."
+  },
+  {
+    "name": "Oak Mountain, NY",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/oak-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/034276b065135d2a372716747e879a73",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548287608/Marketing/Campaigns/Best%20In%20Snow%202019/oak_mountain_aerial-shot_best_in_snow.jpg",
+    "image_credit": "Image courtesy of Oak Mountain",
+    "quote": "Not well known by many."
+  },
+  {
+    "name": "Ober Gatlinburg, TN",
+    "region": "Southeast",
+    "url": "https://www.liftopia.com/ober-gatlinburg",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/620aa5c81a39e71bb96051857f82f04d",
+    "image": "",
+    "image_credit": "",
+    "quote": "It's great for the fam!"
+  },
+  {
+    "name": "Okemo Mountain, VT",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/okemo-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/ed2d64a8f35eb2a64b7d7ae56a290222",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957475/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_1.jpg",
+    "image_credit": "",
+    "quote": "Consistently great snow and coverage."
+  },
+  {
+    "name": "Otis Ridge, MA",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/otis-ridge",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/7f5777400a18f5cf2af078ca6ae3dafa",
+    "image": "",
+    "image_credit": "",
+    "quote": "Quiet, small family area."
+  },
+  {
+    "name": "Pajarito, NM",
+    "region": "High West",
+    "url": "https://www.liftopia.com/pajarito",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/89457c6ecfadbe9aa466ffb82f07c050",
+    "image": "",
+    "image_credit": "",
+    "quote": "Lesser known yet not far from Albuquerque."
+  },
+  {
+    "name": "Pats Peak, NH",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/pats-peak",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/c059183ea441cc00f648a778577401fe.png",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282034/Marketing/Campaigns/Best%20In%20Snow%202019/Pats_Peak_NH_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Pats Peak",
+    "quote": ""
+  },
+  {
+    "name": "Plattekill Mountain, NY",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/plattekill-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/resort_logos/Plattekill_Logo_FINAL_9ba9eedaa1835fa3ba367a5e98d00854",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548883255/Marketing/Campaigns/Best%20In%20Snow%202019/plattekill_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Plattekill Mountain",
+    "quote": ""
+  },
+  {
+    "name": "Powder Mountain, UT",
+    "region": "High West",
+    "url": "https://www.liftopia.com/powder-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/7789cb9ab290962ebfe5ea852d6ca7bf",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282034/Marketing/Campaigns/Best%20In%20Snow%202019/powder_mountain_bis_feature.jpg",
+    "image_credit": "Image courtesy of Powder Mountain",
+    "quote": "Gorgeous and huge!"
+	
+  },
+  {
+    "name": "Powderhorn, CO",
+    "region": "High West",
+    "url": "https://www.liftopia.com/powderhorn",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/4c965b76bee451773332d4ce81ded427",
+    "image": "",
+    "image_credit": "",
+    "quote": "This hidden gem on the western slope is short on the crowds and high speed on the lift."
+  },
+  {
+    "name": "Ragged Mountain, NH",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/ragged-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/5b17c48fcd16ea311ce4fbf7698bece5",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282039/Marketing/Campaigns/Best%20In%20Snow%202019/Ragged_Mountain_NH_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Ragged Mountain",
+    "quote": "The Bebe Woods ski program allows you to learn for FREE!"
+  },
+  {
+    "name": "Red Lodge Mountain, MT",
+    "region": "High West",
+    "url": "https://www.liftopia.com/red-lodge-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/7f595073a52891cb78f4537678aa67db",
+    "image": "",
+    "image_credit": "",
+    "quote": "Perfect for someone that doesn't like crowds and loves a challenge!"
+  },
+  {
+    "name": "Red Mountain Resort, BC",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/red-resort",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/874d281019485226709dafab00e09327",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282038/Marketing/Campaigns/Best%20In%20Snow%202019/red-mountain-resort-bc-best-in-snow-awards-2016.jpg",
+    "image_credit": "Image courtesy of Red Mountain Resort",
+    "quote": "Hardcore, challenging terrain."
+  },
+  {
+    "name": "Revelstoke Mountain Resort, BC",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/revelstoke-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/f4b13c583fe655708b07e12c3cbf368f",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548963704/Marketing/Campaigns/Best%20In%20Snow%202019/revelstoke_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Revelstoke Mountain Resort",
+    "quote": "The world doesn't know how amazing this place is."
+  },
+  {
+    "name": "Shanty Creek Resorts, MI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/shanty-creek",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/d6772d1d1e80c12ae2614d3fb8b556d6",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282041/Marketing/Campaigns/Best%20In%20Snow%202019/Shanty_Creek_MI_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Shanty Creek Resorts",
+    "quote": "Well-maintained and good snowmaking."
+  },
+  {
+    "name": "Sierra-At-Tahoe, CA",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/sierra-at-tahoe",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/3641d9c865e65805acb2f7d0f46c1bc8.png",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282041/Marketing/Campaigns/Best%20In%20Snow%202019/Sierra_at_Tahoe_CA_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Sierra-At-Tahoe",
+    "quote": ""
+  },
+  {
+    "name": "Silverton Mountain, CO",
+    "region": "High West",
+    "url": "https://www.liftopia.com/silverton-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/b8c08f4d1549d3077b49088c7d2931f2",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282041/Marketing/Campaigns/Best%20In%20Snow%202019/Silverton_Mountain_CO_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Silverton Mountain",
+    "quote": "Deep powder and steep terrain is around every corner."
+  },
+  {
+    "name": "Sir Sam's ON, CAN",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/sir-sam-s",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/10aec84327f5aff2ade38588ba8096ad",
+    "image": "",
+    "image_credit": "",
+    "quote": "No crowds, friendly and safe."
+  },
+  {
+    "name": "Ski Cooper, CO",
+    "region": "High West",
+    "url": "https://www.liftopia.com/ski-cooper",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/2a325deb0d1039aeb57969873ce41f14",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548886322/Marketing/Campaigns/Best%20In%20Snow%202019/ski_cooper_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Ski Cooper",
+    "quote": "Wide runs and great prices for someone just starting."
+  },
+  {
+    "name": "Ski Snowstar, IL",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/ski-snowstar",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/bba6ba51238b44700af78aac28ac2063",
+    "image": "",
+    "image_credit": "",
+    "quote": "Good for families."
+  },
+  {
+    "name": "Smugglers' Notch, VT",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/smugglers-notch",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/cb7d5a3b702bb8ec412303e3705aedd4",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282044/Marketing/Campaigns/Best%20In%20Snow%202019/Smugglers_Notch_VT_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Smugglers' Notch",
+    "quote": "With a variety of terrain and progression-based approach, Smuggs has a great beginner-friendly resort culture."
+  },
+  {
+    "name": "Snow Ridge, NY",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/snow-ridge",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/7ae8c73101d1af21e54ffc92ff4fc245",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282044/Marketing/Campaigns/Best%20In%20Snow%202019/Snow_Ridge_NY_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Snow Ridge",
+    "quote": "Inexpensive and terrain for all levels."
+  },
+  {
+    "name": "Snow Valley, CA",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/snow-valley",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/85fe7120f1b38d9f2c7fe01b7d181f38",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548963712/Marketing/Campaigns/Best%20In%20Snow%202019/snow_valley_ca_best_in_snow_2019.jpg",
+    "image_credit": "Image courtesy of Snow Valley, CA",
+    "quote": "The price is right for beginners. Majority of the runs are easy and wide open."
+  },
+  {
+    "name": "Snowbasin, UT",
+    "region": "High West",
+    "url": "https://www.liftopia.com/snowbasin",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/12535206f01864e40262c8822b920567",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548353964/Marketing/Campaigns/Best%20In%20Snow%202019/snowbasin_best_in_snow_2019.jpg",
+    "image_credit": "Image courtesy of Snowbasin",
+    "quote": "The perfect mix of just about everything you could want."
+  },
+  {
+    "name": "Snowbird, UT",
+    "region": "High West",
+    "url": "https://www.liftopia.com/snowbird",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/48eb681ceae025ea4411fdc4245f7c3c",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548284914/Marketing/Campaigns/Best%20In%20Snow%202019/snowbird-ut-best-in-snow-awards-2016.jpg",
+    "image_credit": "Image courtesy of Snowbird",
+    "quote": "Snowfall is unbelievable. Nothing can rival this mountain for consistent snowfall."
+  },
+  {
+    "name": "Snowshoe Mountain, WV",
+    "region": "Southeast",
+    "url": "https://www.liftopia.com/snowshoe-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/cf138c47c78609c098c30196f306c4e1",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548888247/Marketing/Campaigns/Best%20In%20Snow%202019/snowshoe_best_in_snow_2019.png",
+    "image_credit": "image courtesy of Snowshoe Mountain",
+    "quote": "A lot of different trails and a lot of open space!"
+  },
+  {
+    "name": "Snowy Range, WY",
+    "region": "High West",
+    "url": "https://www.liftopia.com/snowy-range",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/80cdb3c82b90d45ff941dfbf87975acb",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282048/Marketing/Campaigns/Best%20In%20Snow%202019/Snowy_Range_WY_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Snowy Range",
+    "quote": "The quality and the integrity of the instructors are beyond compare."
+  },
+  {
+    "name": "Soldier Mountain, ID",
+    "region": "High West",
+    "url": "https://www.liftopia.com/soldier-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/e79e9e0fa6ab843b3958f7ecb2090eb0",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282045/Marketing/Campaigns/Best%20In%20Snow%202019/Soldier_Mountain_ID_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Soldier Mountain",
+    "quote": "Totally empty always, which is great for me."
+  },
+  {
+    "name": "Solitude Mountain Resort, UT",
+    "region": "High West",
+    "url": "https://www.liftopia.com/solitude-mountain-resort",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/b39d6416b8154f6b5562cf4b47bb0fd9",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282047/Marketing/Campaigns/Best%20In%20Snow%202019/Solitude_UT_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Solitude Mountain Resort",
+    "quote": "Great price for Utah and a very family-friendly place."
+  },
+  {
+    "name": "Squaw Valley, CA",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/squaw-valley-usa",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/5e269fbcaa3466a591e36df9cba7d78d",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282050/Marketing/Campaigns/Best%20In%20Snow%202019/Squaw_Valley_Alpine_Meadows_CA_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Squaw Valley CA",
+    "quote": "Just awesome!"
+  },
+  {
+    "name": "Stony Mountain, MB",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/stony-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/32c929fd92b54b1924aa9b85a951d016",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548352270/Marketing/Campaigns/Best%20In%20Snow%202019/stony_mountainCamryn_David_best_in_snow_2019.jpg",
+    "image_credit": "Image courtesy of Stony Mountain",
+    "quote": "Friendly staff. Good place to learn."
+  },
+  {
+    "name": "Stowe, VT",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/stowe",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/a47e25115c7f0bb57dc8fcd219e3fd22",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548375018/Marketing/Campaigns/Best%20In%20Snow%202019/stowe_best_in_snow_2019.jpg",
+    "image_credit": "Image courtesy of Stowe",
+    "quote": "Plentiful natural snow and world-class snowmaking."
+  },
+  {
+    "name": "Sugar Bowl, CA",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/sugar-bowl",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/9e778f0e6bf0d9b472399809b54fdcba",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548963712/Marketing/Campaigns/Best%20In%20Snow%202019/sugar_bowl_best_in_snow_2019.jpg",
+    "image_credit": "Image courtesy of Sugar Bowl",
+    "quote": "Tahoe’s deepest!"
+  },
+  {
+    "name": "Sugar Mountain, NC",
+    "region": "Southeast",
+    "url": "https://www.liftopia.com/sugar-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/64c9963f4a2b7a76551a2e380584981e",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957476/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_2.jpg",
+    "image_credit": "",
+    "quote": "It's usually not as crowded as other resorts."
+  },
+  {
+    "name": "Sugarbush, VT",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/sugarbush",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/4951381cb3e8f5a0729d99e1ffed1042",
+    "image": "",
+    "image_credit": "",
+    "quote": "Multiple mountains. Caste rock is ledgendary. Crazy moguls."
+  },
+  {
+    "name": "Sugarloaf, ME",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/sugarloaf",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/d34005555257eeecb4ebba519c90c791",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548375193/Marketing/Campaigns/Best%20In%20Snow%202019/sugarloaf-me-best-in-snow-awards-2019.jpg",
+    "image_credit": "Image courtesy of Sugarloaf",
+    "quote": "The only above-treeline skiing in New England."
+  },
+  {
+    "name": "Sun Peaks Resort, BC",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/sun-peaks-resort",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/249c28da58eeed333256b3e429693de0",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282049/Marketing/Campaigns/Best%20In%20Snow%202019/sun-peaks-resort-bc-best-in-snow-awards-2016.jpg",
+    "image_credit": "Image courtesy of Sun Peaks",
+    "quote": "Plenty of options for skiing and non-ski activities...all right there!"
+  },
+  {
+    "name": "Sundance Resort, UT",
+    "region": "High West",
+    "url": "https://www.liftopia.com/sundance",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/9dc1a05c35ed4a63fdc5a16fbe20b6e9",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548885869/Marketing/Campaigns/Best%20In%20Snow%202019/sundance_best_in_snow_2019.jpg",
+    "image_credit": "",
+    "quote": "It has a lot of beginner areas, a great atmosphere for new people, and is very economic."
+  },
+  {
+    "name": "Sunday River, ME",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/sunday-river",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/42aecbed5c1c0d759b5f5e81aa4ea1ff",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548884049/Marketing/Campaigns/Best%20In%20Snow%202019/sunday-river-best-in-snow-awards-2016.jpg",
+    "image_credit": "Image courtesy of Sunday River",
+    "quote": "Phenomenal snowmaking and grooming."
+  },
+  {
+    "name": "Sunlight Mountain, CO",
+    "region": "High West",
+    "url": "https://www.liftopia.com/sunlight",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/42f20f4ca6b4ce51ea7c673f4fdb9c7e",
+    "image": "",
+    "image_credit": "Image courtesy of Sunlight Mountain CO",
+    "quote": "It's low-key, beautiful, down to earth. Great terrain but you can't get lost. It all leads down to a very modest and friendly lodge."
+  },
+  {
+    "name": "Swain Resort, NY",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/alpine-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/f9ccc39727c0ad302b87cbfa58832325",
+    "image": "",
+    "image_credit": "",
+    "quote": "Even when Swain is busy, it isn't busy."
+  },
+  {
+    "name": "Tahoe Donner, CA",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/tahoe-donner",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/83af3b9b26dd4119d9bfc0a85d03ac3e",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548351584/Marketing/Campaigns/Best%20In%20Snow%202019/tahoe-donner-ca-best-in-snow-awards-2016.jpg",
+    "image_credit": "Image courtesy of Tahoe Donner",
+    "quote": "Tahoe Donner offers a small, safe area where beginners can gain confidence quickly."
+  },
+  {
+    "name": "Tamarack Resort, ID",
+    "region": "High West",
+    "url": "https://www.liftopia.com/tamarack-resort",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/a8d6423447039faff66d165fba6f5fd9",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282049/Marketing/Campaigns/Best%20In%20Snow%202019/Tamarack_Resort_ID_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Tamarack Resort",
+    "quote": "It's pretty typical to find a powder hole where you can keep coming back to, and all the tracks are your own."
+  },
+  {
+    "name": "Taos Ski Valley, NM",
+    "region": "High West",
+    "url": "https://www.liftopia.com/taos",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/1606ec21651794d0de3b6096c597d6e3",
+    "image": "",
+    "image_credit": "",
+    "quote": "TAOS is a four letter word for steep!"
+  },
+  {
+    "name": "Telluride, CO",
+    "region": "High West",
+    "url": "https://www.liftopia.com/telluride",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/e7e96bcdf217397c86b23b6203b6b166",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282056/Marketing/Campaigns/Best%20In%20Snow%202019/telluride-co-best-in-snow-awards-2016.jpg",
+    "image_credit": "Image courtesy of Telluride",
+    "quote": ""
+  },
+  {
+    "name": "The Omni Homestead Ski Resort, VA",
+    "region": "Southeast",
+    "url": "https://www.liftopia.com/the-omni-homestead-ski-resort",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/842814ae65daa951c6dcd50e60534810",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548960105/Marketing/Campaigns/Best%20In%20Snow%202019/the_omni_homestead_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of The Omni Homestead Ski Resort",
+    "quote": "It is never crowded and the beginner runs are good to learn on."
+  },
+  {
+    "name": "The Whitecap Mountains, WI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/whitecap-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/2a1423731f4fdc5a54b34a3ce971a83f",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548352449/Marketing/Campaigns/Best%20In%20Snow%202019/whitecap-wi-best-in-snow-awards-20161.jpg",
+    "image_credit": "Image courtesy of The Whitecap Mountains",
+    "quote": "Most terrain options in the area."
+  },
+  {
+    "name": "Timber Ridge, MI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/timber-ridge",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/aa9a90b93caba02e4ccc045642f463f7",
+    "image": "",
+    "image_credit": "",
+    "quote": "It's not huge, but provides just what we like. Not too crowded and yet skiing is great!"
+  },
+  {
+    "name": "Timberline Four Seasons Resort, WV",
+    "region": "Southeast",
+    "url": "https://www.liftopia.com/timberline-four-seasons-resort",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/230eadf7b89843e362d4514f24e97988",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957476/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_2.jpg",
+    "image_credit": "Image courtesy of Timberline Four Seasons",
+    "quote": "Remote. Less known. Good trails."
+  },
+  {
+    "name": "Titus Mountain, NY",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/titus-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/9f69397df4f4561ad2a1d1db05875b7d",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548284623/Marketing/Campaigns/Best%20In%20Snow%202019/titus_best_in_snow_2019.jpg",
+    "image_credit": "Image courtesy of Titus Mountain",
+    "quote": "Titus is a great confidence builder! They keep safety first and have incredible snow conditions."
+  },
+  {
+    "name": "Toggenburg, NY",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/toggenburg",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/0d26c9f2970941575ae864886ecf3d85",
+    "image": "",
+    "image_credit": "",
+    "quote": ""
+  },
+  {
+    "name": "Treetops Resort, MI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/treetops",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/46369e6938aa6badcef30ceb2f14492d",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282057/Marketing/Campaigns/Best%20In%20Snow%202019/Tree_Tops_MI_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Treetops Resort",
+    "quote": "Perfect size to let the kids have freedom but still be able to keep track of everyone."
+  },
+  {
+    "name": "Tyrol Basin, WI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/tyrol-basin",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/8b6f558ef888771a6c023098e337047b",
+    "image": "",
+    "image_credit": "",
+    "quote": "Great pre-school ski school and magic carpet that leads to the top of a wide gentle slope."
+  },
+  {
+    "name": "Whistler Blackcomb, BC",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/whistler-blackcomb",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/6eda538164550cfa3b546b29815579a4",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548964266/Marketing/Campaigns/Best%20In%20Snow%202019/whistler_blackcomb_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Whistler Blackcomb",
+    "quote": "The resort is HUGE. Lots of options on where and what terrain to ride."
+  },
+  {
+    "name": "Whiteface - Lake Placid, NY",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/whiteface",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/11817cf9b769247063637463f095fd8c",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282057/Marketing/Campaigns/Best%20In%20Snow%202019/Whiteface_NY_BIS_feature.jpg",
+    "image_credit": "Image courtesy of Whiteface - Lake Placid",
+    "quote": "World-class skiing with the toughest conditions in the US."
+  },
+  {
+    "name": "Wildcat Mountain, NH",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/wildcat",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/96db1a602a2286cd131801095054accb",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548884243/Marketing/Campaigns/Best%20In%20Snow%202019/wildcat_mountain_best_in_snow_2019.jpg",
+    "image_credit": "Image courtesy of Wildcat Mountain",
+    "quote": "Natural and wild, the way skiing is meant to be!"
+  },
+  {
+    "name": "Wintergreen Resort, VA",
+    "region": "Southeast",
+    "url": "https://www.liftopia.com/wintergreen",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/c4af83965bd22f8eae33aee984dd292c",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548888383/Marketing/Campaigns/Best%20In%20Snow%202019/wintergereen_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Wintergreen Resort VA",
+    "quote": "Good instructors, especially the kids programs. Nice variety and progression of terrain."
+  },
+  {
+    "name": "Winterplace, WV",
+    "region": "Southeast",
+    "url": "https://www.liftopia.com/winterplace",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/64fc86c25fbb34d5a7f93241ff92a49e",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957476/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_2.jpg",
+    "image_credit": "",
+    "quote": "Lots of good, beginner terrain."
+  },
+  {
+    "name": "Wisp Resort, MD",
+    "region": "Southeast",
+    "url": "https://www.liftopia.com/wisp",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/ab4f3cf6f08e578bb6a50db4f6956270",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282060/Marketing/Campaigns/Best%20In%20Snow%202019/wisp-resort-best-in-snow-awards-2016.jpg",
+    "image_credit": "Image courtesy of Wisp",
+    "quote": "Small, family-friendly place. Fabulous in a snowstorm."
+  },
+  {
+    "name": "Wolf Creek, CO",
+    "region": "High West",
+    "url": "https://www.liftopia.com/wolf-creek-co",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/285e860461d5a51c371b1c84d3c5685e",
+    "image": "",
+    "image_credit": "",
+    "quote": "Great base early on and usually gets more than 400 inches."
+  },
+  {
+    "name": "Wolf Ridge, NC",
+    "region": "Southeast",
+    "url": "https://www.liftopia.com/wolf-ridge",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/ea3d80ca2bee3f5b51c9d9981a6ebc4d",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957476/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_1.jpg",
+    "image_credit": "Image courtesy of Wolf Ridge",
+    "quote": "Small resort that's good for families."
+  },
+  {
+    "name": "Yosemite Ski & Snowboard Area, CA",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/badger-pass",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/3606533e77db56f266edbb4b26b4347e",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548288590/Marketing/Campaigns/Best%20In%20Snow%202019/yosemite-ski-and-snowboard-area_best_in_snow_2019.jpg",
+    "image_credit": "Image courtesy of Yosemite Park",
+    "quote": "Easygoing, beautiful hill, affordable prices, great teachers."
+  },
+  {
+    "name": "Wild Mountain , MN",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/wild-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/67e2ce83a9a030c323ac192d671b6de1.jpg",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282051/Marketing/Campaigns/Best%20In%20Snow%202019/wild_mountain_mn_bis_feature.jpg",
+    "image_credit": "Image courtesy of Wild Mountain",
+    "quote": ""
+  },
+  {
+    "name": "Whitewater, BC",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/whitewater",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/b48b579e7a2dbf5c95fe006ae6073d4c.jpg",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548282055/Marketing/Campaigns/Best%20In%20Snow%202019/whitewater_bc_bis_feature.jpg",
+    "image_credit": "Image courtesy of Whitewater",
+    "quote": ""
+  },
+  {
+    "name": "Wachusett, MA",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/wachusett",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/ae3a303b9968c0f699869e3a2e464624.jpg",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548376245/Marketing/Campaigns/Best%20In%20Snow%202019/wachusett_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Wachusett",
+    "quote": ""
+  },
+  {
+    "name": "Suicide Six, VT",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/suicide-six",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/07ed774f164fb106fa2857ee66c38138.jpg",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548376339/Marketing/Campaigns/Best%20In%20Snow%202019/suicide_6_best_in_snow_2019.jpg",
+    "image_credit": "Image courtesy of Suicide Six",
+    "quote": ""
+  },
+  {
+    "name": "Pebble Creek, ID",
+    "region": "High West",
+    "url": "https://www.liftopia.com/pebble-creek",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/8b4f228f7aa48b3a14c7ed00fcd2308d.jpg",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548288881/Marketing/Campaigns/Best%20In%20Snow%202019/pebble_creek_best_in_snow_2019.jpg",
+    "image_credit": "Image Courtesy of Pebble Creek",
+    "quote": ""
+  },
+  {
+    "name": "Mount Snow, VT",
+    "region": "Northeast",
+    "url": "https://www.liftopia.com/mount-snow",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/e9f06b0e6f02e68c0244eb792445812c.jpg",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548883914/Marketing/Campaigns/Best%20In%20Snow%202019/Mount-Snow-best_in_snow_2019.jpg",
+    "image_credit": "Image courtesy of Mount Snow",
+    "quote": ""
+  },
+  {
+    "name": "White Pine, WY",
+    "region": "High West",
+    "url": "https://www.liftopia.com/white-pine",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/2867d5d42f3665f94d2638495c3b19ca.jpg",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957475/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_1.jpg",
+    "image_credit": "",
+    "quote": ""
+  },
+  {
+    "name": "Maverick, MT",
+    "region": "High West",
+    "url": "https://www.liftopia.com/maverick",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/4330def3f9c18165e3ddba84001d26ee.jpg",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548886626/Marketing/Campaigns/Best%20In%20Snow%202019/maverick-mt-best-in-snow-awards-2016.jpg",
+    "image_credit": "Image courtesy of Maverick",
+    "quote": ""
+  },
+  {
+    "name": "Sapphire Valley, NC",
+    "region": "Southeast",
+    "url": "https://www.liftopia.com/sapphire-valley",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/1e3af0b8d5146bce27fb1577aa00ae5b.jpg",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957476/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_2.jpg",
+    "image_credit": "",
+    "quote": ""
+  },
+  {
+    "name": "Blackjack, MI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/blackjack",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/cbef7a9af5dcd3d91035e5996390dc08.png",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957475/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_1.jpg",
+    "image_credit": "",
+    "quote": ""
+  },
+  {
+    "name": "The Porkies, MI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/the-porkies",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/7c20ee12fc29b1321407ed0f150f5a3d.jpg",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957476/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_2.jpg",
+    "image_credit": "",
+    "quote": ""
+  },
+  {
+    "name": "Ski Brule, MI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/ski-brule",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/d336434aac785e1f3bae1098cdb77757.jpg",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957475/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_1.jpg",
+    "image_credit": "",
+    "quote": ""
+  },
+  {
+    "name": "Snow Trails, OH",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/snow-trails",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/02a4df0cedb48676f6cf96264f240175.png",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548958081/Marketing/Campaigns/Best%20In%20Snow%202019/snow_trails_oh_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Snow Trails",
+    "quote": ""
+  },
+  {
+    "name": "The Homestead, MI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/the-homestead-mi",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/4f3afd0b319f45a5ef84e394d25780eb.png",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957476/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_2.jpg",
+    "image_credit": "",
+    "quote": ""
+  },
+  {
+    "name": "Snow Snake, MI",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/snow-snake",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/33e83e96620f82f02edad5bdf4d35266.jpg",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957475/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_1.jpg",
+    "image_credit": "",
+    "quote": ""
+  },
+  {
+    "name": "Duck Mountain, SK",
+    "region": "Midwest",
+    "url": "https://www.liftopia.com/duck-mountain",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/defaults/default_logo_1.png",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957476/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_2.jpg",
+    "image_credit": "",
+    "quote": ""
+  },
+  {
+    "name": "Mission Ridge, WA",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/mission-ridge",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/resort_logos/Mission-Ridge-Logo-Stacked-Black-_1__8b99d93666a167bbc02febb3e159c0af",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548961291/Marketing/Campaigns/Best%20In%20Snow%202019/mission_ridge_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of Mission Ridge",
+    "quote": ""
+  },
+  {
+    "name": "White Pass, WA",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/white-pass",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/d9939ee9a6eaa3e806fdcf2d24e0b80a.gif",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548961608/Marketing/Campaigns/Best%20In%20Snow%202019/white_pass_best_in_snow_2019.png",
+    "image_credit": "Image courtesy of White Pass",
+    "quote": ""
+  },
+  {
+    "name": "Mt. Bachelor, OR",
+    "region": "West Coast",
+    "url": "https://www.liftopia.com/mt-bachelor",
+    "logo": "https://res.cloudinary.com/liftopia/image/upload/c_pad,d_defaults:default_logo_1.png,f_auto,h_90,q_auto,w_140/v1/production/logos/bb835fcbe2c70745ea28ce1c59a945c3.jpg",
+    "image": "https://res.cloudinary.com/liftopia/image/upload/v1548957475/Marketing/Campaigns/Best%20In%20Snow%202019/liftopia_logo_skis_best_in_snow_default_1.jpg",
+    "image_credit": "",
+    "quote": ""
+  }
 ]

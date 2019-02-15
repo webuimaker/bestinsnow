@@ -144,6 +144,7 @@
     background-repeat: no-repeat;
     height: 350px;
     position: relative;
+	/*
     &:after {
       background-image: url('/images/BIS_Badge_Winner_17-18.png');
       background-size: cover;
@@ -155,7 +156,19 @@
       width: 167px;
       top: 0;
       right: 0;
-    }
+    }*/
+	.badge-overlay{
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: right;
+		content: '';
+		height: 210px;
+		position: absolute;
+		width: 167px;
+		top: 0;
+		right: 0;
+	}
+	
   }
   .resort-desc {
     display: flex;

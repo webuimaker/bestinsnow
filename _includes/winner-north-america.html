@@ -26,11 +26,25 @@
 									<div class="col-sm-12 col-lg-6 resort-desc">
 										<p>{{winner.quote}}</p>
 										<a href="{{winner.url}}" target="_blank" rel="noopener noreferrer">
-											<button class="resort-cta">{{winner.name}} Lift Tickets</button>
+											<button class="resort-cta">{{winner.name}} Lift Tickets</button>   
 										</a>
 										<span class="photo-credit">{{winner.image_credit}}</span>
 									</div>
-									<div class="col-sm-12 col-lg-6 resort-pic"style="background-image: url('{{site.baseurl}}images/resorts/{{winner.image}}');" ></div>
+									<!--<div class="col-sm-12 col-lg-6 resort-pic"style="background-image: url('{{site.baseurl}}images/resorts/{{winner.image}}');" ></div>-->
+									<div class="col-sm-12 col-lg-6 resort-pic" style="background-image: url('{{winner.image}}');" >
+										<div class="badge-overlay" {% for badgeList in  site.data.badge.badges  %}
+											{%- assign badgeReg = badgeList[0] | remove: " " | remove: "," | remove: '-' | lstrip | downcase    -%}
+											{%- assign curReg = cur_resions | remove: " " | remove: "," | remove: '-' | lstrip | downcase    -%}
+											{% if curReg  == badgeReg    %}
+												{% for badgesSect in  badgeList[1].[cur_SecId]  %}
+													{% if badgesSect.name == winner.name %}
+														style="background-image: url('{{badgesSect.badge}}');"
+													{% endif %}
+												{% endfor %}
+											{% endif %}
+										{% endfor %}>									
+										</div>
+									</div>
 								</div>
 							</div>
 						</div>
