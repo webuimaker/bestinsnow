@@ -1,5 +1,5 @@
 {
-	"badges": {
+    "badges": {
 		"north-america": {
 			"overall": [{
 					"name": "Magic Mountain, VT",
@@ -291,110 +291,1414 @@
 			]
 
 		},
-		"north-east": {
-			"overall": [{
-					"name": "Magic Mountain, VT",
-					"badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BestOverall-S.png"
-				},
-				{
-					"name": "Titus Mountain, NY",
-					"badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
-				}
-			],
-			"beginner": [{
-					"name": "beginner2",
-					"badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BeginnerFriendly-S.png"
-				},
-				{
-					"name": "beginner3",
-					"badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
-				}
-			]
-
-		},
-		"high-west": {
-			"overall": [{
-					"name": "Magic ",
-					"badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BestOverall-S.png"
-				},
-				{
-					"name": "Titus Mountain",
-					"badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
-				}
-			],
-			"beginner": [{
-					"name": "beginner2",
-					"badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BeginnerFriendly-S.png"
-				},
-				{
-					"name": "beginner3",
-					"badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
-				}
-			]
-
-		},
-		"south-east": {
-			"overall": [{
-					"name": "Magic ",
-					"badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BestOverall-S.png"
-				},
-				{
-					"name": "Titus Mountain",
-					"badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
-				}
-			],
-			"beginner": [{
-					"name": "beginner2",
-					"badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BeginnerFriendly-S.png"
-				},
-				{
-					"name": "beginner3",
-					"badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
-				}
-			]
-
-		},
-		"mid-west": {
-			"overall": [{
-					"name": "Magic ",
-					"badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BestOverall-S.png"
-				},
-				{
-					"name": "Titus Mountain",
-					"badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
-				}
-			],
-			"beginner": [{
-					"name": "beginner2",
-					"badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BeginnerFriendly-S.png"
-				},
-				{
-					"name": "beginner3",
-					"badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
-				}
-			]
-
-		},
-		"west-coast": {
-			"overall": [{
-					"name": "Magic ",
-					"badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BestOverall-S.png"
-				},
-				{
-					"name": "Titus Mountain",
-					"badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
-				}
-			],
-			"beginner": [{
-					"name": "beginner2",
-					"badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BeginnerFriendly-S.png"
-				},
-				{
-					"name": "beginner3",
-					"badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
-				}
-			]
-
-		}
-	}
+        "high-west": {
+            "overall": [
+                {
+                    "name": "Alta, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BestOverall-S.png"
+                },
+                {
+                    "name": "Powder Mountain, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Grand Targhee, WY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Snowbird, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Jackson Hole, WY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Pebble Creek, ID",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Big Sky, MT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Snowbasin, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Bald Mountain, ID",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Eagle Point, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                }
+				
+            ],
+            "beginner": [
+                {
+                    "name": "Eagle Point, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BeginnerFriendly-S.png"
+                },
+                {
+                    "name": "Snowy Range, WY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Big Sky, MT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Grand Targhee, WY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Snowbasin, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Brighton, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Sundance Resort, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Deer Valley, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Brian Head, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Ski Cooper, CO",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                }
+            ],
+            "family": [
+                {
+                    "name": "Bald Mountain, ID",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/FamFriendly-S.png"
+                },
+                {
+                    "name": "Eagle Point, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Snowbasin, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Grand Targhee, WY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Snowy Range, WY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Big Sky, MT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Brighton, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Solitude Mountain Resort, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "White Pine, WY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Brian Head, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                }
+            ],
+            "least": [
+                {
+                    "name": "Soldier Mountain, ID",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/LeastCrowded-S.png"
+                },
+                {
+                    "name": "Howelsen Hill Ski Area, CO",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Bald Mountain, ID",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Eagle Point, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Powder Mountain, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Pebble Creek, ID",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Solitude Mountain Resort, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Grand Targhee, WY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Big Sky, MT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Snowy Range, WY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                }
+            ],
+            "snow": [
+                {
+                    "name": "Eagle Point, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BestSnow-S.png"
+                },
+                {
+                    "name": "Alta, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Grand Targhee, WY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Big Sky, MT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Powder Mountain, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Snowbird, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Snowbasin, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Snowy Range, WY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Arapahoe Basin, CO",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Solitude Mountain Resort, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                }
+            ],
+            "challenging": [
+                {
+                    "name": "Bald Mountain, ID",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/MostChallenging-S.png"
+                },
+                {
+                    "name": "Jackson Hole, WY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Eagle Point, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Pebble Creek, ID",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Snowbird, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Alta, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Big Sky, MT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Snowbasin, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Arapahoe Basin, CO",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Lost Trail, MT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                }
+            ],
+            "value": [
+                {
+                    "name": "Bald Mountain, ID",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BestValue-S.png"
+                },
+                {
+                    "name": "Eagle Point, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Powder Mountain, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Pebble Creek, ID",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Alta, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Grand Targhee, WY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Lost Trail, MT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Snowbird, UT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Big Sky, MT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Snowy Range, WY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                }
+            ]
+        },
+        "north-east":{
+            "overall": [
+                {
+                    "name": "Magic Mountain, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BestOverall-S.png"
+                },
+                {
+                    "name": "Titus Mountain, NY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Mad River Glen, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Jay Peak, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Abenaki Ski Area, NH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Bretton Woods, NH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Whiteface - Lake Placid, NY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Stowe, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Sugarloaf, ME",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Killington, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                }
+            ],
+            "beginner": [
+                {
+                    "name": "Titus Mountain, NY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BeginnerFriendly-S.png"
+                },
+                {
+                    "name": "Magic Mountain, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Bretton Woods, NH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Belleayre, NY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Bousquet, MA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "King Pine, NH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Bolton Valley, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Ragged Mountain, NH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Pats Peak, NH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Wachusett, MA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                }
+            ],
+            "family": [
+                {
+                    "name": "Magic Mountain, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/FamFriendly-S.png"
+                },
+                {
+                    "name": "Titus Mountain, NY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Bretton Woods, NH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Smugglers' Notch, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Oak Mountain, NY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Bromley Mountain, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Ragged Mountain, NH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Suicide Six, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Cranmore Mountain, NH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "King Pine, NH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                }
+            ],
+            "least": [
+                {
+                    "name": "Snow Ridge, NY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/LeastCrowded-S.png"
+                },
+                {
+                    "name": "Magic Mountain, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Titus Mountain, NY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Burke Mountain, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Black Mountain Ski Area, NH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Ragged Mountain, NH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Plattekill Mountain, NY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Oak Mountain, NY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Mad River Glen, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "McCauley Mountain Ski Area, NY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                }
+            ],
+            "snow": [
+                {
+                    "name": "Magic Mountain, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BestSnow-S.png"
+                },
+                {
+                    "name": "Bretton Woods, NH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Jay Peak, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Mount Snow, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Killington, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Sunday River, ME",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Okemo Mountain, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Stowe, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Wildcat Mountain, NH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Loon Mountain, NH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                }
+            ],
+            "challenging": [
+                {
+                    "name": "Magic Mountain, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/MostChallenging-S.png"
+                },
+                {
+                    "name": "Titus Mountain, NY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Mad River Glen, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Whiteface - Lake Placid, NY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Cannon Mountain, NH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Jay Peak, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Killington, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Sugarloaf, ME",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Stowe, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Wildcat Mountain, NH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                }
+            ],
+            "value": [
+                {
+                    "name": "Magic Mountain, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BestValue-S.png"
+                },
+                {
+                    "name": "Titus Mountain, NY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Abenaki Ski Area, NH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Mad River Glen, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "McCauley Mountain Ski Area, NY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Jay Peak, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Oak Mountain, NY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Whiteface - Lake Placid, NY",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Burke Mountain, VT",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Bretton Woods, NH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                }
+            ]
+            
+        },        
+        "south-east":{
+            "overall": [
+                {
+                    "name": "Bryce Resort, VA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BestOverall-S.png"
+                },
+                {
+                    "name": "Wisp Resort, MD",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Canaan Valley, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Snowshoe Mountain, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Wintergreen Resort, VA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Beech Mountain Resort, NC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Timberline Four Seasons Resort, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Winterplace, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Sugar Mountain, NC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Cataloochee, NC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                }
+            ],
+            "beginner": [
+                {
+                    "name": "Canaan Valley, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BeginnerFriendly-S.png"
+                },
+                {
+                    "name": "Snowshoe Mountain, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                }
+            ],
+            "family": [
+                {
+                    "name": "Bryce Resort, VA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/FamFriendly-S.png"
+                },
+                {
+                    "name": "Canaan Valley, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Massanutten, VA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Wintergreen Resort, VA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Snowshoe Mountain, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Winterplace, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Wolf Ridge, NC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                }
+            ],
+            "least": [
+                {
+                    "name": "Canaan Valley, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/LeastCrowded-S.png"
+                },
+                {
+                    "name": "Bryce Resort, VA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Wisp Resort, MD",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Cataloochee, NC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Timberline Four Seasons Resort, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Beech Mountain Resort, NC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Wolf Ridge, NC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Sapphire Valley, NC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Snowshoe Mountain, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Wintergreen Resort, VA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                }
+            ],
+            "snow": [
+                {
+                    "name": "Canaan Valley, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BestSnow-S.png"
+                },
+                {
+                    "name": "Snowshoe Mountain, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                }
+            ],
+            "challenging": [
+                {
+                    "name": "Canaan Valley, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/MostChallenging-S.png"
+                },
+                {
+                    "name": "The Omni Homestead Ski Resort, VA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Wisp Resort, MD",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Bryce Resort, VA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Snowshoe Mountain, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Sapphire Valley, NC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Winterplace, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Timberline Four Seasons Resort, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Beech Mountain Resort, NC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Wolf Ridge, NC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                }
+            ],
+            "value": [
+                {
+                    "name": "Bryce Resort, VA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BestValue-S.png"
+                },
+                {
+                    "name": "Canaan Valley, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Wisp Resort, MD",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Wintergreen Resort, VA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Snowshoe Mountain, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Cataloochee, NC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Timberline Four Seasons Resort, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Winterplace, WV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Wolf Ridge, NC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Sugar Mountain, NC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                }
+            ]
+            
+        },
+        "mid-west":{
+            "overall": [
+                {
+                    "name": "Treetops Resort, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BestOverall-S.png"
+                },
+                {
+                    "name": "Mount Bohemia, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Apple Mountain, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Alpine Valley, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Alpine Valley, OH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Shanty Creek Resorts, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Lutsen Mountains, MN",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Caberfae Peaks, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Blackjack, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Boyne Highlands, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                }
+            ],
+            "beginner": [
+                {
+                    "name": "Boyne Highlands, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BeginnerFriendly-S.png"
+                },
+                {
+                    "name": "Boyne Mountain, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Devil's Head, WI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Caberfae Peaks, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Cascade Mountain, WI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Afton Alps, MN",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Alpine Valley, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Chestnut Mountain, IL",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Alpine Valley Resort, WI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Alpine Valley, OH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                }
+            ],
+            "family": [
+                {
+                    "name": "Treetops Resort, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/FamFriendly-S.png"
+                },
+                {
+                    "name": "The Porkies, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Lutsen Mountains, MN",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Shanty Creek Resorts, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Boyne Highlands, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Caberfae Peaks, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Ski Brule, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Boyne Mountain, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Snow Trails, OH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Alpine Valley Resort, WI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                }
+            ],
+            "least": [
+                {
+                    "name": "Dagmar Resort, ON",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/LeastCrowded-S.png"
+                },
+                {
+                    "name": "Highlands of Olympia, WI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Stony Mountain, MB",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "The Whitecap Mountains, WI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Alpine Valley, OH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Treetops Resort, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Mount Bohemia, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "The Homestead, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Snow Snake, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Blackjack, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                }
+            ],
+            "snow": [
+                {
+                    "name": "Buck Hill, MN",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BestSnow-S.png"
+                },
+                {
+                    "name": "Boyne Highlands, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Boyne Mountain, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Caberfae Peaks, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Afton Alps, MN",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Cascade Mountain, WI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Devil's Head, WI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Alpine Valley, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Afton Alps, MN",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Alpine Valley Resort, WI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                }
+            ],
+            "challenging": [
+                {
+                    "name": "Mount Bohemia, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/MostChallenging-S.png"
+                },
+                {
+                    "name": "Treetops Resort, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Highlands of Olympia, WI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Stony Mountain, MB",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Snow Snake, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Duck Mountain, SK",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Bruce Mound, WI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Falcon Ridge, MB",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "The Homestead, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "The Porkies, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                }
+            ],
+            "value": [
+                {
+                    "name": "Treetops Resort, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BestValue-S.png"
+                },
+                {
+                    "name": "Mount Bohemia, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Apple Mountain, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Blackjack, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Caberfae Peaks, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Alpine Valley, OH",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Buck Hill, MN",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Alpine Valley, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Shanty Creek Resorts, MI",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Afton Alps, MN",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                }
+            ]
+            
+        },
+        "west-coast":{
+            "overall": [
+                {
+                    "name": "Yosemite Ski & Snowboard Area, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BestOverall-S.png"
+                },
+                {
+                    "name": "Alpine Meadows, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Anthony Lakes, OR",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Revelstoke Mountain Resort, BC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Homewood, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Kirkwood, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Kicking Horse, BC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Mission Ridge, WA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "Alyeska, AK",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                },
+                {
+                    "name": "49 Degrees North, WA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/Overall-SF.png"
+                }
+            ],
+            "beginner": [
+                {
+                    "name": "Diamond Peak, NV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BeginnerFriendly-S.png"
+                },
+                {
+                    "name": "Mission Ridge, WA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "White Pass, WA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Bear Valley, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Snow Valley, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Sugar Bowl, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Homewood, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Tahoe Donner, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "49 Degrees North, WA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                },
+                {
+                    "name": "Sierra-At-Tahoe, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BeginnerFriendly-SF.png"
+                }
+            ],
+            "family": [
+                {
+                    "name": "Yosemite Ski & Snowboard Area, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/FamFriendly-S.png"
+                },
+                {
+                    "name": "Mission Ridge, WA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Diamond Peak, NV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Tahoe Donner, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Homewood, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "June Mountain, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Sun Peaks Resort, BC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Sugar Bowl, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "Mt. Rose Ski Tahoe, NV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                },
+                {
+                    "name": "White Pass, WA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/FamFriendly-SF.png"
+                }
+            ],
+            "least": [
+                {
+                    "name": "Yosemite Ski & Snowboard Area, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/LeastCrowded-S.png"
+                },
+                {
+                    "name": "Homewood, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Anthony Lakes, OR",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Mission Ridge, WA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "49 Degrees North, WA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "June Mountain, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Revelstoke Mountain Resort, BC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Tahoe Donner, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Alyeska, AK",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                },
+                {
+                    "name": "Diamond Peak, NV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/LeastCrouded-SF.png"
+                }
+            ],
+            "snow": [
+                {
+                    "name": "Mission Ridge, WA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BestSnow-S.png"
+                },
+                {
+                    "name": "Mammoth Mountain, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Kirkwood, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Sugar Bowl, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Homewood, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Mt. Bachelor, OR",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "49 Degrees North, WA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Mt. Rose Ski Tahoe, NV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "Diamond Peak, NV",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                },
+                {
+                    "name": "White Pass, WA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/SnowQuality-SF.png"
+                }
+            ],
+            "challenging": [
+                {
+                    "name": "Kicking Horse, BC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/MostChallenging-S.png"
+                },
+                {
+                    "name": "Revelstoke Mountain Resort, BC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Mission Ridge, WA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Kirkwood, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Squaw Valley, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Alyeska, AK",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Whistler Blackcomb, BC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Yosemite Ski & Snowboard Area, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Crystal Mountain, WA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                },
+                {
+                    "name": "Mt Baker, WA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/MostChallenging-SF.png"
+                }
+            ],
+            "value": [
+                {
+                    "name": "Yosemite Ski & Snowboard Area, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282378/Marketing/Campaigns/Best%20In%20Snow%202019/Winners%20Badges/BestValue-S.png"
+                },
+                {
+                    "name": "Anthony Lakes, OR",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Mission Ridge, WA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Revelstoke Mountain Resort, BC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "49 Degrees North, WA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Kicking Horse, BC",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Kirkwood, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Homewood, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Alyeska, AK",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                },
+                {
+                    "name": "Alpine Meadows, CA",
+                    "badge": "https://res.cloudinary.com/liftopia/image/upload/v1548282259/Marketing/Campaigns/Best%20In%20Snow%202019/Finalist%20Badges/BestValue-SF.png"
+                }
+            ]
+            
+        }
+    }
 }

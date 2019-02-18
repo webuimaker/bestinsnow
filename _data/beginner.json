@@ -1,72 +1,72 @@
 [
 {
-"west-coast": "Yosemite Ski & Snowboard Area CA (Formerly Badger Pass)",
-"high-west": "Bald Mountain ID",
-"mid-west": "Cascade Mountain WI",
-"north-east": "Bretton Woods NH",
-"south-east": "Canaan Valley WV"
+"west-coast": "Diamond Peak, NV",
+"high-west": "Eagle Point, UT",
+"mid-west": "Boyne Highlands, MI",
+"north-east": "Titus Mountain, NY",
+"south-east": "Canaan Valley, WV"
 },
 {
-"west-coast": "Diamond Peak NV",
+"west-coast": "Mission Ridge, WA",
 "high-west": "Snowy Range WY",
-"mid-west": "Crystal Mountain MI",
-"north-east": "Titus Mountain NY",
-"south-east": "The Omni Homestead Ski Resort VA"
+"mid-west": "Boyne Mountain, MI",
+"north-east": "Magic Mountain, VT",
+"south-east": "Snowshoe Mountain, WV"
 },
 {
-"west-coast": "June Mountain CA",
-"high-west": "Arapahoe Basin CO",
-"mid-west": "Caberfae Peaks MI",
-"north-east": "Magic Mountain VT",
-"south-east": "Winterplace WV"
+"west-coast": "White Pass, WA",
+"high-west": "Big Sky, MT",
+"mid-west": "Devil's Head, WI",
+"north-east": "Bretton Woods, NH",
+"south-east": ""
 },
 {
-"west-coast": "Tahoe Donner CA",
-"high-west": "Sundance Resort UT",
-"mid-west": "Buck Hill MN",
-"north-east": "Bolton Valley VT",
-"south-east": "Beech Mountain Resort NC"
+"west-coast": "Bear Valley, CA",
+"high-west": "Grand Targhee, WY",
+"mid-west": "Caberfae Peaks, MI",
+"north-east": "Belleayre, NY",
+"south-east": ""
 },
 {
-"west-coast": "Homewood CA",
-"high-west": "Ski Cooper CO",
-"mid-west": "Chestnut Mountain IL",
-"north-east": "Belleayre NY",
-"south-east": "Wintergreen Resort VA"
+"west-coast": "Snow Valley, CA",
+"high-west": "Snowbasin, UT",
+"mid-west": "Cascade Mountain, WI",
+"north-east": "Bousquet, MA",
+"south-east": ""
 },
 {
-"west-coast": "Anthony Lakes OR",
-"high-west": "Alta UT",
-"mid-west": "Afton Alps MN",
-"north-east": "King Pine NH",
-"south-east": "Massanutten VA"
+"west-coast": "Sugar Bowl, CA",
+"high-west": "Brighton, UT",
+"mid-west": "Afton Alps, MN",
+"north-east": "King Pine, NH",
+"south-east": ""
 },
 {
-"west-coast": "Boreal Mountain CA",
-"high-west": "Solitude Mountain Resort UT",
-"mid-west": "Shanty Creek Resorts MI",
-"north-east": "Ragged Mountain NH",
-"south-east": "Timberline Four Seasons Resort WV"
+"west-coast": "Homewood, CA",
+"high-west": "Sundance Resort, UT",
+"mid-west": "Alpine Valley, MI",
+"north-east": "Bolton Valley, VT",
+"south-east": ""
 },
 {
-"west-coast": "Snow Valley CA",
-"high-west": "Brighton UT",
-"mid-west": "Alpine Valley Resort WI",
-"north-east": "Cranmore Mountain NH",
-"south-east": "Snowshoe Mountain WV"
+"west-coast": "Tahoe Donner, CA",
+"high-west": "Deer Valley, UT",
+"mid-west": "Chestnut Mountain, IL",
+"north-east": "Ragged Mountain, NH",
+"south-east": ""
 },
 {
-"west-coast": "Donner Ski Ranch CA",
-"high-west": "Grand Targhee WY",
-"mid-west": "Four Lakes IL",
-"north-east": "Bromley Mountain VT",
-"south-east": "Wisp MD"
+"west-coast": "49 Degrees North, WA",
+"high-west": "Brian Head, UT",
+"mid-west": "Alpine Valley Resort, WI",
+"north-east": "Pats Peak, NH",
+"south-east": ""
 },
 {
-"west-coast": "Mammoth Mountain CA",
-"high-west": "Loveland Ski Area CO",
-"mid-west": "Boyne Highlands MI",
-"north-east": "Smugglers' Notch VT",
-"south-east": "Bryce Resort VA"
+"west-coast": "Sierra-At-Tahoe, CA",
+"high-west": "Ski Cooper, CO",
+"mid-west": "Alpine Valley, OH",
+"north-east": "Wachusett, MA",
+"south-east": ""
 }
 ]
