@@ -2,15 +2,23 @@
   name: 2016 WINNERS
   section_id: results-2016
   id: 1
+- slug: /results-2017/
+  name: 2017 WINNERS
+  section_id: results-2017
+  id: 2
+- slug: /results-2018/
+  name: 2018 WINNERS
+  section_id: results-2018
+  id: 3
 - slug: /faq/
   name: FAQ
   section_id: faq
-  id: 2
+  id: 4
 - slug: /methodology/
   name: Methodology
   section_id: methodology
-  id: 3
+  id: 5
 - slug: /about-liftopia/
   name: About Liftopia
   section_id: about-liftopia
-  id: 4
+  id: 6
