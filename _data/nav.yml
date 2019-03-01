@@ -22,3 +22,7 @@
   name: About Liftopia
   section_id: about-liftopia
   id: 6
+- slug: /#/
+  name: 2020 survey
+  section_id: 2020-survey
+  id: 7

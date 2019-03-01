@@ -41,6 +41,24 @@
     position: relative;
     // cursor: pointer;
     z-index: 2;
+	&:last-child a {
+        background-color: $cta-orange;
+        border: none;
+        border-radius: 2px;
+        color: white;
+        display: block;
+        font-size: 16px;
+        font-weight: 300;
+        margin: 0 auto 20px auto;
+		padding-left:10px;
+        text-decoration: none;
+        text-transform: uppercase;
+        @media screen and (max-width: 767px) {
+            font-size: 14px;
+        }
+    }
+	
+	
     &.active {
       a {
         color: white;
