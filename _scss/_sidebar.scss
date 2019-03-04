@@ -41,6 +41,7 @@
     position: relative;
     // cursor: pointer;
     z-index: 2;
+	/*
 	&:last-child a {
         background-color: $cta-orange;
         border: none;
@@ -57,6 +58,12 @@
             font-size: 14px;
         }
     }
+	*/
+	&:last-child{
+		&.active:after{
+			background-color: $cta-orange;
+		}
+	}
 	
 	
     &.active {

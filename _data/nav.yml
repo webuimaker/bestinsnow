@@ -1,28 +1,24 @@
-- slug: /results-2016/
-  name: 2016 WINNERS
-  section_id: results-2016
-  id: 1
 - slug: /results-2017/
   name: 2017 WINNERS
   section_id: results-2017
-  id: 2
+  id: 1
 - slug: /results-2018/
   name: 2018 WINNERS
   section_id: results-2018
-  id: 3
+  id: 2
 - slug: /faq/
   name: FAQ
   section_id: faq
-  id: 4
+  id: 3
 - slug: /methodology/
   name: Methodology
   section_id: methodology
-  id: 5
+  id: 4
 - slug: /about-liftopia/
   name: About Liftopia
   section_id: about-liftopia
-  id: 6
+  id: 5
 - slug: /#/
   name: 2020 survey
   section_id: 2020-survey
-  id: 7
+  id: 6

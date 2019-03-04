@@ -4,7 +4,7 @@ header.container-fluid, #root > .container-fluid {
 .overxhide{overflow-x:hidden}
 #header-wrapper {
   background-color: $charcoal-10;
-  background-image:  url('/images/best-new-header.png'); 
+  background-image:  url('/images/header-bg-mobilev3.png'); 
   background-position: left;
   background-size: cover;
   position: relative;
@@ -12,9 +12,12 @@ header.container-fluid, #root > .container-fluid {
   header {
     height: 140px;
     text-align: center;
+	@media screen and (max-width: 768px) {height: 100% !important;}
     @media screen and (min-width: 768px) and (max-width: 992px) {
       text-align: left;
+	  
     }
+	 
     a:hover, a:focus {
       img {
         opacity: 0.7;
@@ -74,6 +77,7 @@ header.container-fluid, #root > .container-fluid {
     }
     header {
       padding: 0;
+	  height: auto;
       #bis-powered-by {
         max-width: 325px;
       }
