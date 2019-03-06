@@ -1,0 +1,66 @@
+{
+	"methodology": {
+		"RawData": [{
+				"name": "Alta UT"
+			},
+			{
+				"name": "Big Sky MT"
+			},
+			{
+				"name": "Whistler Blackcomb BC"
+			},
+			{
+				"name": "Jackson Hole WY"
+			},
+			{
+				"name": "Snowbird UT"
+			},
+			{
+				"name": "Vail Mountain CO"
+			},
+			{
+				"name": "Killington VT"
+			},
+			{
+				"name": "Magic Mountain VT"
+			},
+			{
+				"name": "Titus Mountain NY"
+			},
+			{
+				"name": "Snowbasin UT"
+			}
+		],
+		"OverallTop10": [{
+				"name": "Magic Mountain, VT"
+			},
+			{
+				"name": "Titus Mountain, NY"
+			},
+			{
+				"name": "Mad River Glen, VT"
+			},
+			{
+				"name": "Alta, UT"
+			},
+			{
+				"name": "Powder Mountain, UT"
+			},
+			{
+				"name": "Grand Targhee, WY"
+			},
+			{
+				"name": "Snowbird, UT"
+			},
+			{
+				"name": "Jackson Hole, WY"
+			},
+			{
+				"name": "Jay Peak, VT"
+			},
+			{
+				"name": "Big Sky, MT"
+			}
+		]
+	}
+}

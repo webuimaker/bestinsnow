@@ -73,7 +73,7 @@
 							<div class="line"></div>
 							<div class="background-lines"></div>
 							<div class="col-xs-12 overall-winners">
-								<img src="/images/infographic_svgs/BIS_Badge_WINNER2019.png" />
+								<img src="/images/infographic_svgs/BIS_Badge_WINNER2019.png	" />
 								<p>The winners are the best, <strong>regardless of size.</strong></p>
 							</div>
 							<hr/>
@@ -85,30 +85,17 @@
 							</div>
 							<div class="data">
 								<ul class="raw-data">
+									
 									<li>Raw Data Top 10</li>
-									<li>Alta, UT</li>
-									<li>Snowbird, UT</li>
-									<li>Vail, CO</li>
-									<li>Whistler Blackcomb, BC</li>
-									<li>Jackson Hole, NY</li>
-									<li>Arapahoe Basin, CO</li>
-									<li>Breckinridge, CO</li>
-									<li>Killington, VT</li>
-									<li>Park City, UT</li>
-									<li>Copper Mountain, CO</li>
+									{% for raw in site.data.methodology.methodology.RawData %}
+										<li>{{ raw.name }}</li>
+									{% endfor %}
 								</ul>
 								<ul class="top-10">
 									<li>Best in Snow Overall Top 10</li>
-									<li>Magic Mountain, VT</li>
-									<li>Alta, UT</li>
-									<li>Mad Rivers Glen, VT</li>
-									<li>Snowbird, UT</li>
-									<li>Arapahoe Basin, CO</li>
-									<li>Powder Mountain, UT</li>
-									<li>Jay Peak, VT</li>
-									<li>Mount Bohemia, MI</li>
-									<li>Jackson Hole, WY</li>
-									<li>Bald Mountain, ID</li>
+									{% for top10 in site.data.methodology.methodology.OverallTop10 %}
+										<li>{{ top10.name }}</li>
+									{% endfor %}
 								</ul>
 							</div>
 						</div>
