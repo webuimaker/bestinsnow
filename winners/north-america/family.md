@@ -5,4 +5,5 @@ contentType: winners
 desc: "Discover the resorts that skiers and riders are most passionate about in North America."
 section_id: family
 resions: north-america
+permalink: "/winners/north-america/family/"
 ---
