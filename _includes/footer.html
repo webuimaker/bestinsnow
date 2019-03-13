@@ -21,9 +21,67 @@ prompt("Copy to clipboard: Ctrl+C, Enter", svg.outerHTML);
 
 
 </script>
+ <script>
+    $( document ).ready(function() {
+		
+	
+	
+	
+	
+		var selcregion = $('#region-select').find(":selected").val();
+		//$('#region-select').change(testMessage);
+
+        function testMessage(){
+            var selcregion = $(this').find(":selected").val();
+			alert("test");
+        }
+	
+	
+	
+		var selcregion = $('#region-select').find(":selected").val();
+		var pathArray = window.location.pathname.split('/');
+		
+		var secondLevelLocation = pathArray[0];
+		
+		var newPathname = "";
+		var newPathname2 = "";
+		
+		$('#region-select').on('change', function(selcregion) {
+			selcregion =   $(this).find(":selected").val();
+			
+		for (i = 0; i < pathArray.length; i++) {
+		  newPathname += "/";
+		  newPathname += pathArray[i];
+		  var newPathname2 = pathArray[2];
+		  /
+		  return(newPathname2);
+		}
+			
+		});
+		console.log(selcregion);
+		
+		function testMessage(e){
+		  alert(e);
+		}
+
+		$('##region-select').change(function(event) {
+			var selcregion = $('#region-select').find(":selected").val();
+		   testMessage(selcregion);
+		});
+		
+	 
+		
+    });
+
+    </script>
+
+
+
 <script>(function(t,e,s,o){var n,a,c;t.SMCX=t.SMCX||[],e.getElementById(o)||(n=e.getElementsByTagName(s),a=n[n.length-1],c=e.createElement(s),c.type="text/javascript",c.async=!0,c.id=o,c.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd4DJhLShcKLGGIaSbYVEyPtg_2BIWvPbhJ1bbma22wdBsK.js"].join(""),a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");</script>
+<!--
+<script src="{{ .Site.BaseURL }}/js/bundle.js"></script>
 
-
+-->
 	 
 </body>
 </html>

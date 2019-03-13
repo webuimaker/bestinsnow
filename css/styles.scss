@@ -91,11 +91,24 @@ hr {
   width: 100%;
   top: 0;
 }
-
-div.dropdowns {
+.dropdown-menu-1, .dropdown-menu-2{width:100%}
+.category-select-title{margin-top:20px; display:block}
+div.dropdowns, .dropdown  {
   background-color: $charcoal-1;
   position: relative;
   padding: 20px 5% 20px 5%;
+  
+  &.blue{
+	  padding:20px 0px 0px;
+		.btn{ 
+			&.focus, &:focus, &.btn:hover{color:#fff !important;}
+	
+    .caret{
+		float: right;
+		margin-top: 10px;
+		
+  }}
+  }
 
   span {
     text-transform: uppercase;
@@ -105,7 +118,7 @@ div.dropdowns {
     color: $charcoal-10;
   }
 
-  select {
+  select , button {
     background-color: $blue-10;
     border-radius: 0;
     width: 100%;

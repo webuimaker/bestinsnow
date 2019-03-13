@@ -38,6 +38,27 @@
      ga('create', 'UA-1066504-22', 'auto');
      ga('require', 'displayfeatures');
      ga('send', 'pageview');
+	 
+	
+    </script>
+	
+	
+ <script>
+    
+
+$(document).ready(function(){
+		$(".dropdown-menu-1 li a").click(function(){
+		  $(this).parents(".dropdown").find('.btn').html($(this).text() + ' <span class="caret"></span>');
+		  $(this).parents(".dropdown").find('.btn').val($(this).data('value'));
+		});
+		
+		$(".dropdown-menu-2 li a").click(function(){
+		  $(this).parents(".dropdown").find('.btn').html($(this).text() + ' <span class="caret"></span>');
+		  $(this).parents(".dropdown").find('.btn').val($(this).data('value'));
+		});
+	
+	
+});
     </script>
   </head>
   <body {% if page.slug %} class="{{ page.slug }}"{% endif %}>

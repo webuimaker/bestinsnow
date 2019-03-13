@@ -1,20 +1,49 @@
 <div class="dropdowns visible-xs-block">
 	<span class="region-select-title">Region</span>
-	<select id="region-select" class="">
+	<div class="dropdown blue">
+	  <button class="btn  dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+		{{page.resions |replace: "-", " " }}
+		<span class="caret"></span>
+	  </button>
+		  <ul class="dropdown-menu dropdown-menu-1" aria-labelledby="dropdownMenu1">
+			{% for region in site.data.regions %}
+				<li><a href="/winners/{{region.slug}}/{{page.section_id}}/" class=""><span>{{region.name}} </span></a></li>
+			{% endfor %}
+		  </ul>
+	</div>
+	
+	
+	
+	<!--<select id="region-select" class="" >
 		{% for region in site.data.regions %}
-			<option value="{{region.slug}}">{{region.name}}</option>
+			<a href="/winners/{{region.slug}}/{{category.slug}}" class=""><span>{{category.name}}</span></a>
+		
+			<option  value="{{region.slug}}">{{region.name}}</option>
 		{% endfor %}
-	</select>
+	</select>-->
 	<span class="category-select-title">Category</span>
+	<div class="dropdown blue">
+	  <button class="btn  dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+		{{page.section_id | replace: "-", " " }}
+		<span class="caret"></span>
+	  </button>
+		  <ul class="dropdown-menu dropdown-menu-2" aria-labelledby="dropdownMenu2">
+			{% for category in site.data.categories %}
+				<li><a href="/winners/{% if page.resions  == 'mid-west' or page.resions  == 'north-east' or page.resions  == 'south-east' %}{{page.resions | remove: '-'}}{% else %}{{page.resions}}{% endif %}/{{category.slug}}/" class=""><span>{{category.name}} </span></a></li>
+			{% endfor %}
+		  </ul>
+	</div>
+	<!--
 	<select id="category-select ">
 		{% for category in site.data.categories %}
 			<option value="{{category.slug}}">{{category.name}}</option>
 		{% endfor %}
 	</select>
+	-->
 </div>
 
-
 <!--
+
 <div class={`dropdowns ' ${(this.state.content !== 'winners' ? 'hidden' : 'visible-xs-block')}`}>
               <span class="region-select-title">Region</span>
               <select id="region-select" class="" value={this.state.region} onChange={this.updateRegion.bind(this, '')}>
@@ -37,4 +66,5 @@
                 }
               </select>
             </div>
+			
 			-->
