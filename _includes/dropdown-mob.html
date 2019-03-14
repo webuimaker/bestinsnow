@@ -24,7 +24,12 @@
 	<span class="category-select-title">Category</span>
 	<div class="dropdown blue">
 	  <button class="btn  dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-		{{page.section_id | replace: "-", " " }}
+		
+		{% for catdata in site.data.categories %}
+			{% if catdata.section_id == page.section_id  %}
+				{{ catdata.name }}
+			{% endif %}
+		{% endfor %}
 		<span class="caret"></span>
 	  </button>
 		  <ul class="dropdown-menu dropdown-menu-2" aria-labelledby="dropdownMenu2">
